@@ -1,0 +1,3 @@
+ssh -i AWSKeys.pem ubuntu@204.236.140.223
+
+scp -i AWSKeys.pem index.html contact.html ubuntu@204.236.140.223:~
