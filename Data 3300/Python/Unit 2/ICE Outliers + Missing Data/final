@@ -1,0 +1,1249 @@
+,Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,comments,missing_age,missing_age_mask,from_US,is_male,no_employees_lg,no_employee_cats
+0,37.0,Female,United States,IL,No,No,Yes,Often,2347,No,Yes,Yes,Not sure,No,Yes,,0,0,1,0,7.761319180947987,1000+
+1,44.0,M,United States,IN,No,No,No,Rarely,3126,No,No,Don't know,No,Don't know,Don't know,,0,0,1,0,8.047829357457841,1000+
+2,32.0,Male,Canada,,No,No,No,Rarely,1360,No,Yes,No,No,No,No,,0,0,0,1,7.215975002651466,1000+
+3,32.159752705264516,Male,United Kingdom,,No,Yes,Yes,Often,492,No,Yes,No,Yes,No,No,,1,1,0,1,6.20050917404269,101-500
+4,31.0,Male,United States,TX,No,No,No,Never,769,Yes,Yes,Yes,No,Don't know,Don't know,,0,0,1,1,6.646390514847729,501-1000
+5,33.0,Male,United States,TN,No,Yes,No,Sometimes,2394,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,7.781138509845015,1000+
+6,35.0,Female,United States,MI,No,Yes,Yes,Sometimes,2308,Yes,Yes,No,No,No,No,,0,0,1,0,7.744569809354496,1000+
+7,39.0,M,Canada,,No,No,No,Never,4493,Yes,Yes,No,Yes,No,No,,0,0,0,0,8.410498452745275,1000+
+8,42.0,Female,United States,IL,No,Yes,Yes,Sometimes,1875,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.53689712956617,1000+
+9,23.0,Male,Canada,,No,No,No,Never,269,No,Yes,Don't know,No,Don't know,Don't know,,0,0,0,1,5.598421958998375,101-500
+10,31.0,Male,United States,OH,No,No,Yes,Sometimes,4295,Yes,Yes,Don't know,No,No,No,,0,0,1,1,8.3654396361887,1000+
+11,29.0,male,Bulgaria,,No,No,No,Never,4626,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,8.439663988907,1000+
+12,42.0,female,United States,CA,No,Yes,Yes,Sometimes,553,No,No,Yes,Yes,No,No,,0,0,1,0,6.317164686747284,501-1000
+13,36.0,Male,United States,CT,No,Yes,No,Never,4000,No,Yes,Don't know,Not sure,No,Don't know,I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions.,0,0,1,1,8.294299608857235,1000+
+14,27.0,Male,Canada,,No,No,No,Never,1382,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,7.232010331664759,1000+
+15,29.0,female,United States,IL,No,Yes,Yes,Rarely,1215,No,Yes,Yes,Not sure,No,No,I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. ,0,0,1,0,7.103322062526113,1000+
+16,30.735270332103184,Male,United Kingdom,,No,No,Yes,Sometimes,3587,Yes,Yes,Don't know,No,Don't know,Don't know,My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work.,1,1,0,1,8.185350223178686,1000+
+17,32.0,Male,United States,TN,No,No,Yes,Sometimes,3070,No,Yes,Yes,Yes,No,Don't know,,0,0,1,1,8.029758520440822,1000+
+18,46.0,male,United States,MD,Yes,Yes,No,Sometimes,2699,Yes,Yes,Yes,Not sure,Yes,Don't know,,0,0,1,0,7.90100705199242,1000+
+19,36.0,Male,France,,Yes,Yes,No,No mental health condition,1680,Yes,Yes,No,No,Yes,No,,0,0,0,1,7.427144133408616,1000+
+20,29.0,Male,United States,NY,No,Yes,Yes,Sometimes,3717,No,Yes,Yes,Yes,No,No,,0,0,1,1,8.220941168281389,1000+
+21,31.0,male,United States,NC,Yes,No,No,Never,2829,Yes,Yes,No,No,No,No,,0,0,1,0,7.948031990637284,1000+
+22,45.0,Male,United States,MA,No,No,Yes,Often,1416,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,7.256297239690681,1000+
+23,41.0,Male,United States,IA,No,No,Yes,Never,3367,No,No,Don't know,No,No,Don't know,,0,0,1,1,8.122074375362217,1000+
+24,33.0,male,United States,CA,No,Yes,Yes,Rarely,50000,No,Yes,Yes,Not sure,Don't know,Yes,Relatively new job. Ask again later,0,0,1,0,10.819798284210286,1000+
+25,35.0,male,United States,TN,No,Yes,Yes,Sometimes,4865,No,No,Yes,Yes,No,Don't know,Sometimes I think  about using drugs for my mental health issues. If i use drugs I feel better,0,0,1,0,8.490027523343468,1000+
+26,33.0,male,United States,TN,No,No,No,No mental health condition,4463,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,8.403800504061147,1000+
+27,35.0,Female,United States,CA,No,Yes,Yes,Rarely,2381,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,7.775695749915245,1000+
+28,34.0,male,United States,OH,No,No,Yes,Sometimes,4199,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,8.34283980427146,1000+
+29,37.0,Male,United Kingdom,,No,No,No,Sometimes,4773,No,Yes,No,No,No,No,,0,0,0,1,8.470939806898775,1000+
+30,32.0,Male,United Kingdom,,No,No,No,Never,638,Yes,Yes,No,No,No,No,,0,0,0,1,6.459904454377535,501-1000
+31,31.0,Male,United States,PA,Yes,Yes,No,Rarely,1755,Yes,Yes,No,Yes,No,No,,0,0,1,1,7.470793774195062,1000+
+32,30.0,male,United Kingdom,,No,Yes,Yes,Sometimes,2154,Yes,Yes,Don't know,No,No,No,,0,0,0,0,7.675546002537848,1000+
+33,42.0,Male,United States,WA,No,Yes,Yes,Sometimes,3422,Yes,Yes,Yes,Yes,Yes,Yes,I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns.,0,0,1,1,8.138272638530186,1000+
+34,40.0,female,United States,WI,No,No,Yes,Sometimes,3214,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.07558263667172,1000+
+35,27.0,Male,United States,NY,No,No,Yes,Rarely,518,No,Yes,No,Yes,No,No,,0,0,1,1,6.251903883165888,501-1000
+36,29.0,Male,Canada,,No,No,No,Rarely,4558,No,Yes,No,No,No,No,,0,0,0,1,8.424858580213442,1000+
+37,32.003895672555586,Male,Portugal,,No,No,No,No mental health condition,2616,No,Yes,No,Yes,No,No,,1,1,0,1,7.869783902530146,1000+
+38,50.0,M,United States,IN,No,No,No,No mental health condition,2188,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,7.691200097522863,1000+
+39,35.0,M,United States,TX,No,No,Yes,Rarely,4135,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,0,8.327484416188264,1000+
+40,24.0,Male,United Kingdom,,No,No,Yes,Sometimes,2832,No,Yes,No,No,No,No,,0,0,0,1,7.949091499830517,1000+
+41,35.0,Male,United States,MI,No,No,No,No mental health condition,265,Yes,Yes,Yes,Not sure,Don't know,Yes,,0,0,1,1,5.583496308781699,101-500
+42,27.0,Male,Canada,,No,Yes,Yes,Sometimes,3819,No,Yes,No,Yes,No,No,,0,0,0,1,8.24800570160062,1000+
+43,18.0,Male,Netherlands,,No,No,No,Often,3592,No,Yes,No,Not sure,No,No,,0,0,0,1,8.186742787113518,1000+
+44,30.0,Male,United States,IN,No,No,Yes,Sometimes,546,No,Yes,Don't know,No,No,No,,0,0,1,1,6.304448802421981,501-1000
+45,38.0,Female,United States,TX,No,Yes,Yes,Sometimes,555,No,Yes,Yes,Yes,No,Yes,Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering.,0,0,1,0,6.320768294250582,501-1000
+46,28.0,Male,United Kingdom,,No,No,No,No mental health condition,4671,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.449342524508063,1000+
+47,34.0,Male,United States,TN,No,No,No,No mental health condition,2291,No,Yes,No,No,No,No,,0,0,1,1,7.73718007783463,1000+
+48,26.0,m,Canada,,Yes,No,No,Sometimes,2772,No,Yes,No,Yes,Yes,No,,0,0,0,0,7.927685045615778,1000+
+49,30.0,male,United States,IL,No,Yes,Yes,Rarely,2012,No,Yes,Yes,No,No,Don't know,I just started a new job last week hence a lot of don't know's,0,0,1,0,7.607381425639791,1000+
+50,22.0,M,United States,TX,No,Yes,Yes,Often,2611,No,Yes,No,Yes,No,No,,0,0,1,0,7.867871490396322,1000+
+51,33.0,Male,United States,UT,No,No,No,No mental health condition,815,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,6.704414354964107,501-1000
+52,32.0,Male,United States,TN,No,No,No,Never,1505,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,1,7.317212408359839,1000+
+53,28.0,M,Switzerland,,No,No,No,No mental health condition,2119,No,Yes,No,No,No,No,,0,0,0,0,7.659171367666058,1000+
+54,27.0,Male-ish,United States,NY,No,Yes,Yes,Rarely,4933,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.503905297089302,1000+
+55,32.0,maile,United States,TN,No,Yes,No,No mental health condition,609,Yes,Yes,Don't know,No,No,No,,0,0,1,0,6.413458957167357,501-1000
+56,24.0,Male,United States,NY,No,Yes,Yes,Sometimes,2441,Yes,Yes,Don't know,No,No,No,,0,0,1,1,7.80057265467065,1000+
+57,26.0,Male,United States,TN,No,No,No,No mental health condition,4578,No,No,No,No,No,No,,0,0,1,1,8.429235912657095,1000+
+58,33.0,male,Canada,,No,Yes,Yes,Often,3580,Yes,Yes,Don't know,No,No,No,In addition to my own mental health issues I've known several coworkers that may be suffering and I don't know how to tell them I empathize and that I want to help.,0,0,0,0,8.183397369998433,1000+
+59,44.0,Male,United States,IA,No,Yes,Yes,Sometimes,1068,No,No,Yes,No,No,Don't know,,0,0,1,1,6.974478911025045,1000+
+60,30.80866548156725,Female,Poland,,No,No,Yes,Sometimes,2658,Yes,Yes,Don't know,Not sure,Yes,Yes,,1,1,0,0,7.88570539124302,1000+
+61,27.0,Male,United Kingdom,,No,No,No,Never,1090,No,Yes,Yes,Not sure,No,Yes,,0,0,0,1,6.994849985833071,1000+
+62,26.0,Male,France,,No,No,No,No mental health condition,1049,No,Yes,No,No,No,No,,0,0,0,1,6.956545443151569,1000+
+63,35.0,male,Canada,,No,No,No,Sometimes,4803,No,Yes,Don't know,No,No,No,,0,0,0,0,8.477204183199873,1000+
+64,35.0,Male,United States,CA,No,Yes,No,Sometimes,3980,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.289288323000317,1000+
+65,23.0,Female,Australia,,No,Yes,Yes,Often,3117,Yes,Yes,No,Not sure,No,No,Thanks for doing this research.,0,0,0,0,8.044947049617722,1000+
+66,36.0,M,United States,TX,No,No,No,Sometimes,2113,Yes,Yes,Yes,No,Don't know,Yes,,0,0,1,0,7.656337166430183,1000+
+67,31.0,Female,United States,NM,No,No,No,No mental health condition,1248,Yes,No,Don't know,No,Don't know,Don't know,,0,0,1,0,7.130098510125578,1000+
+68,34.0,Male,United States,NY,Yes,No,No,Rarely,4079,Yes,Yes,No,No,No,No,,0,0,1,1,8.313852267398207,1000+
+69,28.0,m,France,,No,No,No,Never,3033,No,Yes,No,No,No,No,,0,0,0,0,8.017637159908478,1000+
+70,34.0,male,Canada,,No,No,No,Never,2063,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.6324011266014535,1000+
+71,23.0,Trans-female,United States,MA,No,No,No,Rarely,1627,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.395107546562485,1000+
+72,38.0,Male,United Kingdom,,No,No,No,No mental health condition,1807,No,Yes,No,No,No,Don't know,,0,0,0,1,7.4999765409521215,1000+
+73,33.0,Male,United States,CA,No,No,No,Never,1320,No,Yes,Don't know,Not sure,Yes,Don't know,,0,0,1,1,7.186144304522325,1000+
+74,19.0,Male,United Kingdom,,No,No,No,No mental health condition,2802,No,Yes,No,Yes,No,No,,0,0,0,1,7.938445551164788,1000+
+75,25.0,Male,United States,WA,No,No,No,No mental health condition,1758,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.472500744737558,1000+
+76,31.0,Male,United States,WA,Yes,Yes,No,Sometimes,1066,Yes,Yes,No,No,No,No,,0,0,1,1,6.9726062513017535,1000+
+77,26.0,Male,United States,UT,No,Yes,Yes,Sometimes,502,Yes,Yes,No,No,No,No,,0,0,1,1,6.220590170099739,501-1000
+78,28.0,m,Germany,,No,No,No,Never,1910,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,7.555381944240273,1000+
+79,38.0,Male,United States,NY,No,Yes,No,Sometimes,2490,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,1,7.820439515262181,1000+
+80,23.0,Male,United Kingdom,,No,No,No,Never,931,No,Yes,Yes,Not sure,Yes,Don't know,,0,0,0,1,6.837332814685591,501-1000
+81,30.0,male,Canada,,No,No,No,Never,1935,No,No,No,No,No,No,,0,0,0,0,7.568379267836522,1000+
+82,27.0,Cis Female,United States,NY,Yes,No,Yes,Often,3055,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.024862150286411,1000+
+83,33.0,Male,United States,CA,No,Yes,No,Never,274,No,Yes,No,No,No,No,,0,0,1,1,5.616771097666572,101-500
+84,31.0,Male,United States,TX,No,No,No,No mental health condition,3245,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,8.085178748074537,1000+
+85,39.0,Male,United Kingdom,,Yes,No,Yes,Often,2875,No,Yes,No,No,No,No,,0,0,0,1,7.964155718840937,1000+
+86,34.0,female,United States,OR,No,Yes,Yes,Rarely,3566,Yes,Yes,Yes,Not sure,No,Don't know,,0,0,1,0,8.17948018535889,1000+
+87,29.0,F,United States,FL,No,No,Yes,Sometimes,722,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.583409222158765,501-1000
+88,32.0,M,United States,IL,No,No,No,No mental health condition,1121,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,7.022868086082641,1000+
+89,31.0,Male,United States,NY,No,No,No,Never,1733,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.458186157340487,1000+
+90,40.0,male,United States,TX,No,No,Yes,Sometimes,603,No,Yes,No,Yes,No,No,,0,0,1,0,6.403574197934815,501-1000
+91,34.0,Male,United States,OH,No,No,No,No mental health condition,2882,No,Yes,Don't know,No,No,No,,0,0,1,1,7.9665866976384025,1000+
+92,33.00076831276587,something kinda male?,Russia,,No,No,No,No mental health condition,4631,Yes,Yes,Yes,Yes,No,No,In Russia we have mandatory medical insurance. Every employer must pay 3.6% of every employee's salary to the insurance fund like a tax. Everyone gets free healthcare at public clinics and hospitals. Some types of healthcare including mental health are still funded from the government budget but that doesn't matter it's still FREE!However this is Russia :D I don't know much about what actually happens in mental hospitals here except that a lot of young people with male in their passports use these to avoid military draft and doctors seem to help them.,1,1,0,0,8.440744019252831,1000+
+93,25.0,F,Canada,,No,No,Yes,Sometimes,3746,No,Yes,Yes,Yes,No,Don't know,,0,0,0,0,8.228710798793687,1000+
+94,29.0,male,United States,MN,No,No,No,Never,1875,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,7.53689712956617,1000+
+95,24.0,Male,United States,MO,No,Yes,No,Rarely,2574,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.853604813097837,1000+
+96,31.0,male,Mexico,,No,Yes,Yes,Sometimes,821,No,Yes,Don't know,No,No,No,,0,0,0,0,6.71174039505618,501-1000
+97,33.0,Cis Male,United States,AZ,No,No,Yes,Sometimes,1046,No,Yes,No,Yes,No,No,,0,0,1,0,6.953684210870537,1000+
+98,30.0,M,United States,IN,No,No,Yes,Often,1792,No,Yes,No,Yes,No,No,,0,0,1,0,7.491645473605133,1000+
+99,26.0,female,Canada,,No,Yes,Yes,Sometimes,4483,No,No,No,Yes,No,No,In my previous workplace which had mental health protections policies and access to counsellors my Director went so far as to say to me in somewhat casual conversation A woman was murdered across the street. At best though she was bipolar and at worst - who knowsI have bipolar disorder. I have zero faith that an organization with policies in place could appropriately handle mental health. I have even less faith that a workplace without the policies in place could appropriately handle mental health. I can only imagine it's worse in full tech environments.,0,0,0,0,8.40827078419205,1000+
+100,44.0,Female,United States,MA,No,No,No,Never,1895,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.547501682814967,1000+
+101,25.0,Male,United States,NY,No,Yes,No,No mental health condition,203,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,5.318119993844216,101-500
+102,33.0,Male,United States,WI,No,Yes,Yes,Sometimes,3198,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.070593539949519,1000+
+103,29.0,Male,United States,NY,No,No,No,Never,2816,No,Yes,Yes,Not sure,Yes,Don't know,,0,0,1,1,7.943427767876373,1000+
+104,35.0,Male,United States,MO,No,Yes,No,Rarely,3605,No,Yes,Yes,Not sure,No,No,,0,0,1,1,8.190354403763262,1000+
+105,35.0,M,United States,OR,No,Yes,Yes,Sometimes,1685,Yes,Yes,Don't know,Not sure,No,No,I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way.,0,0,1,0,7.430114138561801,1000+
+106,31.79339021379964,Male,Brazil,,No,Yes,Yes,Rarely,4978,No,Yes,No,No,No,No,,1,1,0,1,8.512984346642183,1000+
+107,34.0,m,United States,TN,No,Yes,No,Never,2164,Yes,Yes,Yes,No,No,No,,0,0,1,0,7.68017564043659,1000+
+108,32.0,Male,United States,WA,No,No,Yes,Sometimes,1050,No,Yes,Yes,No,Yes,Yes,,0,0,1,1,6.957497370876951,1000+
+109,22.0,Male,United States,NY,No,No,Yes,Sometimes,876,No,Yes,Yes,Yes,No,Don't know,,0,0,1,1,6.776506992372183,501-1000
+110,28.0,Male,United States,CA,No,No,Yes,Sometimes,1679,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.426549072397305,1000+
+111,45.0,male,United States,MO,No,Yes,Yes,Rarely,977,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,0,6.885509670034818,501-1000
+112,32.0,Male,United States,NY,No,No,No,Never,4016,No,Yes,Yes,Yes,No,Don't know,,0,0,1,1,8.298290634359283,1000+
+113,28.0,male,United States,TX,No,No,No,No mental health condition,981,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,6.889591308354466,501-1000
+114,30.801077167816974,Male,United Kingdom,,No,No,No,Never,3359,No,Yes,Don't know,No,No,Don't know,,1,1,0,1,8.11969625295725,1000+
+115,21.0,Male,United Kingdom,,Yes,No,No,Often,4551,Yes,No,No,Yes,No,No,,0,0,0,1,8.423321975806166,1000+
+116,27.0,Male,Canada,,No,No,No,Rarely,2379,No,No,Yes,Yes,Yes,Yes,,0,0,0,1,7.77485576666552,1000+
+117,18.0,Male,United States,CT,No,No,Yes,Rarely,3380,Yes,Yes,No,No,No,No,,0,0,1,1,8.125926802707886,1000+
+118,35.0,Male,United States,CO,No,No,No,No mental health condition,1844,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.520234556474628,1000+
+119,29.0,Male,United States,GA,No,No,No,Never,1795,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,7.493317248862145,1000+
+120,25.0,Male,United States,DC,No,No,No,No mental health condition,3390,Yes,Yes,Don't know,No,No,No,,0,0,1,1,8.128880142125638,1000+
+121,33.0,Male,United States,MN,No,Yes,Yes,Sometimes,1335,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,7.197435354096591,1000+
+122,36.0,Male,United States,WA,No,No,No,Often,2501,No,Yes,Yes,No,No,No,,0,0,1,1,7.824845691026856,1000+
+123,27.0,Male,Canada,,No,No,Yes,Never,3771,No,No,Yes,Not sure,No,No,,0,0,0,1,8.235360643753348,1000+
+124,27.0,Male,United States,WA,No,Yes,No,Never,3517,No,Yes,Yes,No,Yes,Yes,,0,0,1,1,8.165647925297504,1000+
+125,27.0,Male,United Kingdom,,No,No,No,No mental health condition,251,No,Yes,No,No,No,No,,0,0,0,1,5.529429087511423,101-500
+126,29.0,M,United States,OR,No,No,Yes,Rarely,1274,No,Yes,Yes,Yes,No,Yes,,0,0,1,0,7.150701457592526,1000+
+127,31.0,Male,United Kingdom,,No,Yes,No,Sometimes,4231,No,Yes,No,No,No,No,,0,0,0,1,8.350429973538136,1000+
+128,19.0,male,Slovenia,,No,No,Yes,Sometimes,2862,No,Yes,Don't know,No,No,No,,0,0,0,0,7.959625305098115,1000+
+129,33.0,Male,United States,IL,No,Yes,Yes,Sometimes,3022,No,Yes,Yes,Yes,No,No,,0,0,1,1,8.014004994779459,1000+
+130,32.0,male,United States,CA,No,No,No,Rarely,2612,Yes,Yes,No,Yes,No,No,,0,0,1,0,7.868254265520613,1000+
+131,27.0,Male,United States,NE,No,No,No,Never,1291,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.163946684342547,1000+
+132,38.0,Male,Costa Rica,,No,No,No,No mental health condition,377,Yes,Yes,No,Yes,No,No,,0,0,0,1,5.934894195619588,101-500
+133,24.0,Male,Canada,,No,No,Yes,Never,4131,No,Yes,Don't know,No,No,No,,0,0,0,1,8.326516830239528,1000+
+134,31.87237201555702,M,United Kingdom,,No,No,No,Never,4432,No,No,No,No,No,No,,1,1,0,0,8.396831834745054,1000+
+135,28.0,Male,United Kingdom,,No,No,No,Never,2321,No,Yes,Don't know,No,No,No,,0,0,0,1,7.7501841622578365,1000+
+136,39.0,Male,United States,IA,No,No,Yes,Often,2206,No,Yes,Yes,Not sure,No,No,,0,0,1,1,7.699389406256737,1000+
+137,29.0,Female,United States,MD,No,No,No,No mental health condition,3396,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.130647968160584,1000+
+138,22.0,m,Austria,,No,No,No,No mental health condition,1634,Yes,Yes,Don't know,No,Don't know,No,,0,0,0,0,7.399398083331354,1000+
+139,45.0,Male,United States,OR,No,Yes,Yes,Sometimes,4788,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,8.47407690034261,1000+
+140,37.0,Male,United Kingdom,,Yes,No,Yes,Sometimes,1051,No,No,No,Yes,Yes,Yes,I'm not a permanent employee so do not get they benefits they get.My client is extremely supportive of permanent staff with mental health issues.,0,0,0,1,6.9584483932976555,1000+
+141,35.0,M,United States,TX,No,No,No,Never,3619,Yes,No,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,8.194229304819817,1000+
+142,29.0,Male,United States,MN,No,No,No,No mental health condition,4808,Yes,No,Yes,No,Don't know,Yes,,0,0,1,1,8.478244441277663,1000+
+143,30.0,Female,United States,PA,No,Yes,No,No mental health condition,4644,Yes,Yes,Don't know,Not sure,No,Don't know,I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave.,0,0,1,0,8.443546651247939,1000+
+144,37.0,Male,United States,IN,No,Yes,Yes,Rarely,2216,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,7.7039102096163115,1000+
+145,24.0,M,United Kingdom,,No,No,No,Never,1292,No,Yes,No,No,No,No,,0,0,0,0,7.164720378771857,1000+
+146,23.0,Male,United States,WV,No,No,No,Sometimes,464,No,No,No,No,No,No,,0,0,1,1,6.142037405587356,101-500
+147,30.0,male,Ireland,,No,No,Yes,Rarely,3247,No,Yes,No,Yes,Yes,Yes,,0,0,0,0,8.085794701281568,1000+
+148,29.0,Female,United States,MI,No,No,No,No mental health condition,4714,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,8.458504195067558,1000+
+149,19.0,Male,Canada,,Yes,Yes,No,No mental health condition,4911,Yes,Yes,Don't know,Not sure,No,Yes,,0,0,0,1,8.499436469826978,1000+
+150,32.0,male,United States,CA,No,Yes,No,Never,1917,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,7.559038255443384,1000+
+151,28.0,male,Poland,,No,No,No,Rarely,2970,Yes,Yes,No,No,No,No,,0,0,0,0,7.9966538754626075,1000+
+152,36.0,Male,United States,IL,No,No,No,Never,2980,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.000014093678072,1000+
+153,37.0,Male,United Kingdom,,No,Yes,Yes,Rarely,4081,No,No,Yes,Yes,Yes,Yes,,0,0,0,1,8.31434234336979,1000+
+154,25.0,Male,United States,IL,No,Yes,Yes,Sometimes,3252,No,No,Don't know,No,No,Don't know,,0,0,1,1,8.087332926473351,1000+
+155,27.0,Male,United States,CA,No,Yes,Yes,Sometimes,61000,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,11.0186455364637,1000+
+156,26.0,male,United States,OK,No,No,No,Often,661,No,No,Don't know,Not sure,No,No,,0,0,1,0,6.495265555937008,501-1000
+157,27.0,male,United States,UT,No,No,Yes,Rarely,2139,Yes,Yes,No,Yes,No,No,Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing.,0,0,1,0,7.668561108015897,1000+
+158,25.0,Male,United States,IL,No,Yes,Yes,Sometimes,1437,No,Yes,Don't know,Not sure,No,No,Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive.,0,0,1,1,7.271008538280992,1000+
+159,36.0,Male,United Kingdom,,No,No,Yes,Sometimes,2372,No,No,Yes,Yes,Yes,Yes,I feel that my employer and colleagues have created my mental health issue. Additionally I have contributed to this by staying in the same job with the same employer for 10+ years.,0,0,0,1,7.771910256435763,1000+
+160,25.0,F,United States,NY,No,Yes,Yes,Sometimes,543,No,Yes,Yes,No,No,No,,0,0,1,0,6.298949246855942,501-1000
+161,31.0,M,United States,CA,No,No,No,Never,3280,No,Yes,Yes,No,No,Yes,,0,0,1,0,8.0959035329611,1000+
+162,26.0,male,United States,MA,No,Yes,No,Rarely,210,No,Yes,Don't know,No,No,No,,0,0,1,0,5.351858133476067,101-500
+163,33.0,F,United States,WA,Yes,Yes,Yes,Sometimes,2174,No,Yes,No,Yes,Yes,Yes,Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these.,0,0,1,0,7.684783943522785,1000+
+164,27.0,Woman,United Kingdom,,Yes,Yes,No,No mental health condition,2620,Yes,Yes,No,Yes,No,No,as a UK-based company we don't have any medical provisions as it's all provided on the National Health Service (for now!) However if we do need to take days off for any kind of health problems everyone is understanding :),0,0,0,0,7.8713112033234065,1000+
+165,34.0,Male,United States,MN,No,No,No,Never,549,No,Yes,No,No,No,No,,0,0,1,1,6.309918278226516,501-1000
+166,42.0,male,United States,CA,No,No,No,No mental health condition,1832,No,Yes,No,Yes,No,No,,0,0,1,0,7.513709247839705,1000+
+167,23.0,male,Ireland,,Yes,Yes,No,Sometimes,399,No,Yes,No,No,No,No,,0,0,0,0,5.991464547107982,101-500
+168,24.0,Male,United Kingdom,,No,No,No,Rarely,1155,No,Yes,Don't know,Not sure,Yes,Don't know,,0,0,0,1,7.052721049232323,1000+
+169,33.2498920607655,Male,United Kingdom,,No,No,Yes,Sometimes,1024,No,Yes,Yes,Yes,Don't know,Don't know,My employer employs 17k people worldwide and my previous employer only 140 globally both have been very supportive and accommodating with my moderate depression and intense anxiety.,1,1,0,1,6.932447891572509,1000+
+170,31.0,Male,United Kingdom,,Yes,No,Yes,Often,765,No,Yes,Don't know,No,No,No,,0,0,0,1,6.641182169740591,501-1000
+171,22.0,M,India,,No,No,Yes,Never,2775,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,7.9287663216266955,1000+
+172,23.0,Female,United States,NC,No,No,No,No mental health condition,3867,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.260492856573185,1000+
+173,34.0,Female,Canada,,No,Yes,Yes,Sometimes,639,No,No,Yes,Yes,Yes,No,,0,0,0,0,6.461468176353717,501-1000
+174,31.0,male,United States,MO,No,No,No,Never,1381,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,7.231287004327616,1000+
+175,28.0,Male,United Kingdom,,No,No,No,No mental health condition,1336,No,No,No,Not sure,No,Yes,,0,0,0,1,7.198183577101943,1000+
+176,32.0,Female,United States,MA,No,No,Yes,Often,2999,Yes,Yes,Yes,Not sure,Don't know,Don't know,I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all.,0,0,1,0,8.006367567650246,1000+
+177,45.0,F,United States,CA,No,No,Yes,Sometimes,3983,No,Yes,Yes,No,No,No,In small startups it is very hard to keep mental health issues truly private no matter what management does.,0,0,1,0,8.290041618704489,1000+
+178,33.0,Male,United States,TX,No,No,No,No mental health condition,1669,Yes,Yes,Don't know,No,No,No,A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.,0,0,1,1,7.4205789054108005,1000+
+179,29.0,male,Mexico,,No,No,No,Never,4581,Yes,Yes,No,No,No,No,,0,0,0,0,8.42989086301344,1000+
+180,26.0,f,India,,Yes,No,No,Sometimes,1196,No,No,No,No,No,No,,0,0,0,0,7.087573705557973,1000+
+181,28.0,Female,United Kingdom,,No,No,No,Never,3891,No,Yes,Don't know,No,No,Don't know,,0,0,0,0,8.266678443305896,1000+
+182,45.0,M,United States,CA,No,No,Yes,Sometimes,1814,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.503840746698951,1000+
+183,43.0,Male,United States,WA,No,Yes,Yes,Often,2372,Yes,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,7.771910256435763,1000+
+184,37.0,male,United States,MA,No,No,No,No mental health condition,296,Yes,Yes,Yes,No,No,No,,0,0,1,0,5.6937321388027,101-500
+185,30.734954314236816,Male,United Kingdom,,No,No,No,Sometimes,3591,No,Yes,Don't know,No,No,Don't know,,1,1,0,1,8.18646442942209,1000+
+186,26.0,Male,France,,No,No,No,No mental health condition,2806,Yes,Yes,No,Yes,No,No,,0,0,0,1,7.939871576361883,1000+
+187,23.0,male,United Kingdom,,No,Yes,No,No mental health condition,3710,Yes,Yes,Don't know,No,No,No,,0,0,0,0,8.219056661060598,1000+
+188,35.0,Female,United States,CA,No,Yes,Yes,Never,1463,No,Yes,Yes,Not sure,Don't know,No,,0,0,1,0,7.288927694521257,1000+
+189,38.0,Female,South Africa,,Yes,Yes,Yes,Often,3505,Yes,Yes,No,Yes,No,No,,0,0,0,0,8.16223106548118,1000+
+190,28.0,Male,United States,MI,No,Yes,Yes,Sometimes,4784,No,Yes,Yes,No,No,No,,0,0,1,1,8.473241303887054,1000+
+191,28.0,Male,Russia,,No,No,No,Sometimes,4409,No,Yes,No,No,No,No,,0,0,0,1,8.391629968440892,1000+
+192,35.0,Male,United States,CA,No,No,Yes,Rarely,3811,No,Yes,No,No,No,No,,0,0,1,1,8.245909264774093,1000+
+193,32.05519223620858,female,Germany,,No,No,No,Sometimes,1513,No,Yes,No,No,No,No,Too many people even especially IT considered mental health issues as a choice or something people can freely act about. You are depressed: take vacation. You feel weird: admit it is physical (otherwise it is not serious) go and see a doctor (and if you are on sick leave too many days you will get fired). You don't feel good today: take a holiday but don't work from home. In startup there is what I call the tyranny of happiness: you have to look happy to be accepted and to be worked with. At some point playing a role can definitely make the mental health issue worse and it is also a threat to diversity :(I don't like to call mental health issues an issue but actually when it comes to company field it too often becomes an issue and this is sad because working is sometimes better than medication. It is a vicious circle: people are scared of speaking about it so they don't inform their coworkers about what mental health is for real and so coworkers are so scared on a regular basis that the people with mental health issues keep it for themselves. ,1,1,0,0,7.322510433997394,1000+
+194,31.0,Mal,Italy,,Yes,Yes,No,Never,557,No,Yes,No,No,No,No,,0,0,0,0,6.324358962381311,501-1000
+195,35.0,Female,United States,NY,No,No,No,Never,810,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,0,6.698268054115413,501-1000
+196,26.0,Male,United States,CA,No,No,No,Rarely,1993,No,Yes,Yes,No,No,No,,0,0,1,1,7.597897950521784,1000+
+197,27.0,Male,United States,TN,No,Yes,No,No mental health condition,4999,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,8.517193191416238,1000+
+198,28.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,674,No,Yes,Don't know,No,No,No,,0,0,0,1,6.51471269087253,501-1000
+199,27.0,Female,United States,OR,No,Yes,Yes,Sometimes,1243,No,Yes,Yes,No,No,No,My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma.,0,0,1,0,7.126087273299125,1000+
+200,34.0,female,United States,MN,No,No,Yes,Sometimes,2837,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,7.950854857719988,1000+
+201,41.0,male,United States,FL,No,No,Yes,Often,838,Yes,Yes,No,Not sure,No,No,,0,0,1,0,6.732210706467206,501-1000
+202,37.0,Male,Ireland,,No,No,No,Sometimes,3067,No,Yes,No,Yes,No,No,When you are an introvert people don't notice if you are depressed. Its a vicious cycle of sorts.,0,0,0,1,8.028781162487148,1000+
+203,34.0,male,Austria,,No,Yes,No,No mental health condition,862,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,6.760414691083428,501-1000
+204,32.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,4521,Yes,Yes,Don't know,Not sure,No,No,I've answered 'Yes' on remote working but 50% is the maximum time we're allowed.The branch of the company I work for doesn't offer any medical benefits. It's not as common in the UK as we have the NHS for the moment. There are international branches that may so I've answered 'Don't know'.,0,0,0,1,8.416709652837914,1000+
+205,21.0,Male,Canada,,No,No,Yes,Sometimes,1759,Yes,Yes,No,Yes,No,No,,0,0,0,1,7.473069088032197,1000+
+206,30.0,M,United States,MA,No,No,Yes,Often,470,No,Yes,No,Yes,No,No,,0,0,1,0,6.154858094016418,101-500
+207,24.0,male,United States,KS,No,No,No,Never,464,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,6.142037405587356,101-500
+208,26.0,male,Bulgaria,,No,No,No,No mental health condition,2402,No,Yes,No,No,No,No,,0,0,0,0,7.784473235736469,1000+
+209,40.0,Female,United States,DC,No,No,No,No mental health condition,4356,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.379539026117442,1000+
+210,37.0,Male,United Kingdom,,No,Yes,No,Sometimes,4831,No,No,No,No,No,No,,0,0,0,1,8.48301573961465,1000+
+211,26.0,Male,United Kingdom,,Yes,No,Yes,Often,938,Yes,Yes,No,No,No,No,,0,0,0,1,6.844815479208263,501-1000
+212,32.0,F,United States,TX,No,Yes,Yes,Sometimes,3803,No,Yes,Don't know,No,No,No,,0,0,1,0,8.24380842366528,1000+
+213,32.0,f,United States,MA,No,No,Yes,Sometimes,1085,No,No,Yes,Yes,Don't know,Don't know,,0,0,1,0,6.990256500493881,1000+
+214,27.0,female,United States,MI,Yes,Yes,Yes,Sometimes,4146,Yes,Yes,No,No,Don't know,Don't know,Many of these questions were difficult to answer as a self-employed person; I did my best with the available options.,0,0,1,0,8.330140460246382,1000+
+215,33.04396497611446,Male,Germany,,Yes,No,Yes,Often,3933,Yes,Yes,Yes,Yes,No,No,I tried to answer as good as possible but I am CEO of a company so many questions don't fit very well.Also many of the questions are very US-centric in most systems healthcare is not your employers business.,1,1,0,1,8.277411998949004,1000+
+216,31.0,M,Canada,,Yes,No,No,No mental health condition,2255,No,Yes,Yes,Yes,No,Don't know,,0,0,0,0,7.721348612617949,1000+
+217,29.0,F,United States,NY,No,No,Yes,Never,2129,No,No,Yes,No,No,Don't know,,0,0,1,0,7.6638772587034705,1000+
+218,41.0,Male (CIS),United States,VA,No,No,No,No mental health condition,4677,No,Yes,Yes,Not sure,No,No,,0,0,1,0,8.450625947144124,1000+
+219,34.0,female,United States,WA,No,No,No,No mental health condition,2833,No,Yes,Yes,No,No,No,One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company.,0,0,1,0,7.949444420250626,1000+
+220,33.0,Male,United Kingdom,,No,No,No,No mental health condition,407,No,Yes,Don't know,No,No,No,,0,0,0,1,6.0112671744041615,101-500
+221,28.0,male,United States,PA,No,No,No,Rarely,1163,No,Yes,Don't know,No,No,No,,0,0,1,0,7.059617628291383,1000+
+222,28.0,Male,United States,MI,No,No,Yes,Sometimes,2326,No,Yes,No,Yes,No,No,,0,0,1,1,7.752335163302292,1000+
+223,23.0,Male,United States,PA,No,No,No,Never,1362,No,Yes,Don't know,Not sure,Don't know,Don't know,A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head. ,0,0,1,1,7.217443431696533,1000+
+224,24.0,M,United States,OR,No,No,No,No mental health condition,1902,No,Yes,Don't know,No,Don't know,No,Would you bring up a mental health issue with a potential employer in an interview?Poignant.,0,0,1,0,7.551186867296149,1000+
+225,32.0,male,United States,WA,No,No,No,Rarely,4569,Yes,Yes,No,Yes,No,No,,0,0,1,0,8.42726848388825,1000+
+226,34.0,Male,Australia,,Yes,No,No,Sometimes,888,Yes,Yes,Don't know,Not sure,Yes,Yes,,0,0,0,1,6.790097235513905,501-1000
+227,24.0,Male,United States,PA,No,No,No,Never,519,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,6.253828811575473,501-1000
+228,26.0,male,United Kingdom,,Yes,No,Yes,Sometimes,1554,No,Yes,No,Yes,No,No,,0,0,0,0,7.349230824613334,1000+
+229,36.0,Male,United States,OH,No,No,Yes,Sometimes,4093,No,Yes,Yes,No,No,Yes,,0,0,1,1,8.317277766221235,1000+
+230,41.0,Male,United States,TX,No,No,Yes,Rarely,2989,Yes,Yes,Yes,Yes,No,Don't know,I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion.,0,0,1,1,8.003028666384733,1000+
+231,38.0,Male,United Kingdom,,No,No,Yes,Sometimes,4770,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.470311205516108,1000+
+232,38.0,Male,United States,NH,No,No,No,Sometimes,4703,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,8.456168489578463,1000+
+233,30.0,male,Netherlands,,No,No,No,No mental health condition,2336,No,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,7.756623334538858,1000+
+234,25.0,Male,United Kingdom,,No,No,No,Never,1231,No,Yes,No,No,No,No,,0,0,0,1,7.116394144093465,1000+
+235,37.0,Male,Canada,,No,Yes,Yes,Often,3921,No,Yes,Yes,Yes,No,Don't know,,0,0,0,1,8.274357006756292,1000+
+236,34.0,Male,United Kingdom,,No,Yes,No,No mental health condition,3894,No,Yes,No,No,No,No,,0,0,0,1,8.267448958304849,1000+
+237,37.0,F,United States,NC,No,Yes,Yes,Sometimes,3129,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,8.048788283534199,1000+
+238,28.0,Female,Canada,,No,Yes,Yes,Sometimes,1826,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,7.510430556378006,1000+
+239,22.0,Male,Sweden,,No,No,No,No mental health condition,3217,No,Yes,Don't know,No,No,No,,0,0,0,1,8.076515327552329,1000+
+240,34.0,male,United States,FL,No,Yes,Yes,Sometimes,2376,No,Yes,No,No,No,No,,0,0,1,0,7.773594467360194,1000+
+241,33.0,M,United States,CA,No,Yes,Yes,Sometimes,4384,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.385944904806284,1000+
+242,25.0,Male,South Africa,,No,No,No,No mental health condition,2317,No,Yes,No,No,No,No,,0,0,0,1,7.748460023899697,1000+
+243,27.0,Male,United States,GA,No,No,No,Never,2285,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,7.734558844354756,1000+
+244,40.0,M,United States,OH,No,No,Yes,Sometimes,4075,Yes,Yes,Yes,Yes,Yes,Yes,I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences.,0,0,1,0,8.312871394342615,1000+
+245,21.0,Male,United States,KY,No,No,Yes,Often,3469,No,No,Don't know,No,No,Don't know,,0,0,1,1,8.151909872940905,1000+
+246,29.0,Male,United Kingdom,,No,No,No,No mental health condition,3305,No,No,No,No,No,No,,0,0,0,1,8.10349427838097,1000+
+247,32.0,M,United States,NC,No,Yes,Yes,Sometimes,2491,Yes,Yes,No,No,No,No,,0,0,1,0,7.820840879907344,1000+
+248,29.0,f,United States,NY,No,Yes,Yes,Rarely,2620,Yes,No,Yes,Yes,Yes,Don't know,,0,0,1,0,7.8713112033234065,1000+
+249,23.0,Male,United States,AL,No,Yes,Yes,Sometimes,578,Yes,No,Don't know,No,No,Don't know,,0,0,1,1,6.361302477572996,501-1000
+250,28.0,Male,United States,GA,No,Yes,No,No mental health condition,502,No,Yes,Yes,No,No,Don't know,,0,0,1,1,6.220590170099739,501-1000
+251,31.0,male,United States,CA,No,Yes,Yes,Rarely,4116,Yes,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,8.322880021769905,1000+
+252,27.0,Male,United Kingdom,,No,No,No,No mental health condition,3858,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.258163361537619,1000+
+253,24.0,Male,United States,VA,No,No,No,Sometimes,3888,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,8.265907334155747,1000+
+254,29.0,Male,Canada,,No,No,No,Often,4097,No,Yes,No,No,No,No,,0,0,0,1,8.318254328798846,1000+
+255,23.0,Female,United Kingdom,,No,No,Yes,Sometimes,2152,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.674617497364363,1000+
+256,42.0,Male,United States,WA,No,No,No,Never,1034,Yes,Yes,No,Yes,No,Yes,No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. ,0,0,1,1,6.942156705699469,1000+
+257,24.0,Male,United Kingdom,,No,No,No,No mental health condition,2836,No,Yes,No,No,No,No,,0,0,0,1,7.950502434808851,1000+
+258,25.0,Male,Australia,,No,Yes,Yes,Often,2135,No,Yes,No,Yes,No,No,,0,0,0,1,7.666690200080086,1000+
+259,27.0,Female,United States,TX,No,No,Yes,Rarely,1589,No,Yes,Yes,No,No,No,,0,0,1,0,7.371489295214277,1000+
+260,27.0,Male,Canada,,No,No,No,Sometimes,4321,Yes,Yes,No,Yes,No,No,,0,0,0,1,8.371473537066832,1000+
+261,30.0,Male,United States,FL,No,No,Yes,Sometimes,2571,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,1,7.85243908535751,1000+
+262,29.0,male,Poland,,No,Yes,Yes,Rarely,1182,No,Yes,No,Yes,No,No,,0,0,0,0,7.075808863978387,1000+
+263,43.0,Male,Canada,,Yes,No,No,No mental health condition,4565,Yes,Yes,No,Not sure,No,No,,0,0,0,1,8.42639282708974,1000+
+264,32.0,male,United States,NV,No,No,No,No mental health condition,805,No,Yes,No,Yes,No,Don't know,,0,0,1,0,6.692083742506628,501-1000
+265,41.0,Male,United States,AL,No,No,Yes,Sometimes,779,Yes,Yes,Yes,Yes,Don't know,No,I think I am very lucky in my workplace. Our CEO has a degree in psychology.,0,0,1,1,6.659293919683638,501-1000
+266,32.0,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,2070,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Some of these questions were difficult to answer as being self-employed they didn't all apply to me.,0,0,0,1,7.635786861395585,1000+
+267,37.0,Female,United States,CA,No,Yes,Yes,Often,446,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.102558594613569,101-500
+268,32.0,Male,United States,CO,No,No,No,Never,4657,Yes,Yes,No,No,No,No,,0,0,1,1,8.446341450444287,1000+
+269,30.0,Male,Ireland,,Yes,No,No,Sometimes,3936,Yes,Yes,No,No,No,No,,0,0,0,1,8.278174290943738,1000+
+270,23.0,female,United States,MN,No,Yes,Yes,Never,1820,No,No,Yes,No,Don't know,Don't know,,0,0,1,0,7.507141079727608,1000+
+271,30.0,Male,United States,NJ,No,No,No,No mental health condition,4112,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.321907968230423,1000+
+272,32.09034922384207,male,United Kingdom,,No,No,No,Sometimes,1068,No,Yes,No,Yes,No,No,,1,1,0,0,6.974478911025045,1000+
+273,38.0,Male,United States,PA,No,No,Yes,Rarely,4287,Yes,Yes,Yes,No,No,No,,0,0,1,1,8.363575702750637,1000+
+274,33.0,Male,Canada,,No,No,No,No mental health condition,4643,No,Yes,Yes,No,Yes,Yes,,0,0,0,1,8.443331342817782,1000+
+275,34.0,male,United States,MO,No,No,No,No mental health condition,4820,No,No,Yes,No,No,No,,0,0,1,0,8.480736654405622,1000+
+276,28.0,male,Colombia,,No,No,No,Sometimes,784,No,Yes,No,Yes,No,No,,0,0,0,0,6.665683717782408,501-1000
+277,30.0,male,United States,MN,No,No,Yes,Rarely,676,No,No,Yes,Yes,Yes,Don't know,,0,0,1,0,6.517671272912275,501-1000
+278,23.0,Male,United States,PA,No,Yes,No,Sometimes,4563,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.425954710981966,1000+
+279,22.0,Male,Australia,,Yes,Yes,Yes,Sometimes,4234,Yes,Yes,Don't know,Not sure,Yes,Yes,,0,0,0,1,8.351138607086154,1000+
+280,27.0,male,Portugal,,No,No,No,Never,4203,No,Yes,No,No,No,No,It's a small startup in a small city in a small country.,0,0,0,0,8.343791731996841,1000+
+281,18.0,male,United States,TX,No,No,Yes,Sometimes,1329,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,7.1929342212158,1000+
+282,35.0,male,United States,NY,No,Yes,Yes,Sometimes,415,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.030685260261263,101-500
+283,25.0,Male,Canada,,No,No,No,No mental health condition,4985,No,No,Don't know,Not sure,No,No,,0,0,0,1,8.514389264083503,1000+
+284,27.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,4858,No,Yes,No,No,No,No,Hi Ed it's Paul Dragoonis. I have Aspergers/High Functioning Autism :-),0,0,0,1,8.488587934405903,1000+
+285,26.0,Female,United States,WA,No,Yes,Yes,Rarely,4734,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,8.462737005620179,1000+
+286,18.0,Male,United States,WA,No,No,No,Never,3113,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.043663352393944,1000+
+287,38.0,Female,United States,TX,No,No,Yes,Sometimes,1736,No,Yes,No,Yes,No,No,The form of mental health problem that I suffer is anxiety.,0,0,1,0,7.459914766241105,1000+
+288,26.0,Female,United States,TX,No,Yes,Yes,Rarely,2222,Yes,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,7.706612913964197,1000+
+289,30.0,Male,Switzerland,,Yes,No,No,Never,1201,No,Yes,No,No,No,No,,0,0,0,1,7.091742115095153,1000+
+290,35.0,male,United States,CA,No,No,No,Never,3287,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.098034756176071,1000+
+291,45.0,male,United States,NY,No,Yes,Yes,Sometimes,4335,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,8.374707543119483,1000+
+292,32.0,Male,United States,CA,No,No,No,Never,4079,No,Yes,Yes,No,No,Don't know,,0,0,1,1,8.313852267398207,1000+
+293,24.0,Female,United States,CA,No,No,No,No mental health condition,2321,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,7.7501841622578365,1000+
+294,30.0,F,United States,SC,No,Yes,Yes,Sometimes,940,No,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,6.846943139585379,501-1000
+295,60.0,male,United States,CA,No,No,No,No mental health condition,2505,No,Yes,Yes,No,Don't know,Yes,,0,0,1,0,7.826443135456014,1000+
+296,33.0,Male,United States,CA,No,Yes,Yes,Sometimes,3394,No,Yes,Yes,No,Yes,Yes,,0,0,1,1,8.130059039992796,1000+
+297,37.0,M,United States,NY,No,No,No,Never,201,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,5.308267697401205,101-500
+298,23.0,Female,United States,NY,No,No,Yes,Sometimes,4884,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.493924564476883,1000+
+299,31.0,f,United States,CA,No,No,Yes,Sometimes,2638,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.878155336503324,1000+
+300,26.0,Male,United States,MA,No,No,No,Rarely,1082,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,6.9874902470009905,1000+
+301,28.0,female,United States,WA,No,Yes,Yes,Often,4035,Yes,No,Yes,Yes,Yes,Yes,,0,0,1,0,8.3030093814735,1000+
+302,37.0,F,United States,CA,No,No,Yes,Rarely,4796,No,Yes,Yes,Yes,Don't know,Yes,,0,0,1,0,8.475746001502063,1000+
+303,26.0,male,Canada,,No,Yes,Yes,Often,791,No,Yes,Yes,No,No,Don't know,,0,0,0,0,6.674561391814426,501-1000
+304,30.0,queer/she/they,United States,IL,No,Yes,Yes,Rarely,4791,No,Yes,Yes,Not sure,No,No,,0,0,1,0,8.474703139795285,1000+
+305,26.0,M,United States,IN,No,No,No,No mental health condition,3507,No,Yes,No,No,No,No,,0,0,1,0,8.162801353492073,1000+
+306,25.0,Male,United States,OR,No,No,No,No mental health condition,4429,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,8.39615486303918,1000+
+307,27.0,Male,United States,TN,No,No,No,Sometimes,4989,No,Yes,Yes,Not sure,Yes,Yes,The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help.,0,0,1,1,8.515191188745565,1000+
+308,25.0,Male,Canada,,No,No,Yes,Often,1668,Yes,No,Don't know,No,No,Don't know,,0,0,0,1,7.419979923661835,1000+
+309,35.0,male,United States,OR,No,No,Yes,Rarely,542,No,Yes,Yes,Not sure,Don't know,Yes,,0,0,1,0,6.297109319933935,501-1000
+310,36.0,Male,United States,WA,Yes,No,Yes,Never,3856,No,Yes,No,Yes,No,No,,0,0,1,1,8.257644958208228,1000+
+311,26.0,Male,United States,CA,No,Yes,Yes,Sometimes,2370,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,7.771067086065406,1000+
+312,27.0,Male,United States,CA,No,Yes,No,No mental health condition,4850,No,Yes,Don't know,No,Don't know,Don't know,Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer.,0,0,1,1,8.486940148245216,1000+
+313,30.0,male,United States,VT,No,No,No,No mental health condition,3481,No,No,Don't know,Not sure,No,Don't know,,0,0,1,0,8.155362120328135,1000+
+314,29.0,M,United States,NY,No,No,No,No mental health condition,3348,No,No,Don't know,Not sure,No,Don't know,,0,0,1,0,8.116417072794205,1000+
+315,25.0,Male,United States,UT,No,No,No,Never,3909,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,8.271292652979412,1000+
+316,22.0,Female,United States,NY,No,Yes,Yes,Often,609,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.413458957167357,501-1000
+317,29.0,male,Latvia,NY,No,No,No,No mental health condition,965,No,Yes,No,Yes,No,No,,0,0,0,0,6.873163834212518,501-1000
+318,41.0,Male,United States,SD,No,Yes,Yes,Rarely,2062,Yes,Yes,Yes,Yes,Don't know,Yes,,0,0,1,1,7.631916513071252,1000+
+319,29.0,Male,United States,CA,No,No,Yes,Sometimes,1891,No,Yes,Yes,No,No,Don't know,,0,0,1,1,7.545389749611823,1000+
+320,32.0,Male,United States,OR,No,No,No,Never,4334,No,Yes,Yes,Not sure,Don't know,Yes,,0,0,1,1,8.374476889214643,1000+
+321,24.0,female,United States,CA,No,Yes,Yes,Sometimes,4032,No,Yes,Yes,Yes,No,Yes,,0,0,1,0,8.302265794873367,1000+
+322,25.0,Male,United States,CA,No,No,Yes,Rarely,4138,No,Yes,Yes,No,Don't know,No,,0,0,1,1,8.328209491748732,1000+
+323,25.0,m,United States,CA,No,No,No,No mental health condition,479,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,6.173786103901937,101-500
+324,30.0,Female,United States,CO,No,No,No,Never,4376,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.384118837190895,1000+
+325,25.0,Male,United States,CA,No,Yes,Yes,Sometimes,1264,No,Yes,Don't know,Not sure,Don't know,Yes,,0,0,1,1,7.142827401161621,1000+
+326,30.0,Male,United States,OH,Yes,No,No,Never,189,Yes,Yes,No,Yes,No,No,,0,0,1,1,5.247024072160486,101-500
+327,31.99019034008057,male,Germany,,Yes,Yes,Yes,Rarely,2487,No,No,No,No,No,No,,1,1,0,0,7.81923445385907,1000+
+328,24.0,Male,United States,WA,No,No,No,No mental health condition,973,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,6.881411303642535,501-1000
+329,25.0,Male,Canada,,No,Yes,Yes,Sometimes,1871,No,Yes,Yes,Yes,No,Don't know,,0,0,0,1,7.534762657037537,1000+
+330,31.0,Male,United States,OH,No,No,No,No mental health condition,133,No,No,Don't know,No,No,No,,0,0,1,1,4.897839799950911,101-500
+331,45.0,Male,Ireland,,Yes,No,Yes,Often,3148,No,Yes,No,No,No,No,,0,0,0,1,8.054840221101024,1000+
+332,29.0,m,Romania,,No,No,No,No mental health condition,3008,Yes,No,No,Yes,No,No,,0,0,0,0,8.009363076630045,1000+
+333,46.0,M,United States,WA,No,No,No,Never,3292,No,Yes,Yes,Not sure,Yes,Don't know,,0,0,1,0,8.099554282376364,1000+
+334,30.0,Male,United Kingdom,,No,No,Yes,Sometimes,1413,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,7.254177846456518,1000+
+335,29.0,F,United States,CA,Yes,No,No,Sometimes,1553,No,Yes,Yes,Not sure,Don't know,No,,0,0,1,0,7.348587530927593,1000+
+336,24.0,Male,United States,MA,No,No,No,No mental health condition,2174,No,Yes,Yes,Yes,Don't know,Don't know,I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label.,0,0,1,1,7.684783943522785,1000+
+337,29.0,male,United States,WA,No,No,No,No mental health condition,1950,No,Yes,Yes,Yes,Yes,Yes,I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.,0,0,1,0,7.576097340623111,1000+
+338,35.0,Male,United States,MI,No,No,No,No mental health condition,982,No,No,Don't know,Not sure,No,Don't know,,0,0,1,1,6.890609120147166,501-1000
+339,33.0,f,United States,WA,No,Yes,No,Sometimes,2569,Yes,Yes,No,Yes,No,No,,0,0,1,0,7.851661177889265,1000+
+340,27.0,Male,United States,CA,No,No,No,Sometimes,649,No,Yes,Don't know,Not sure,Don't know,Don't know,Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge.,0,0,1,1,6.476972362889683,501-1000
+341,36.0,Male,United States,IA,No,No,No,No mental health condition,2494,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.822044008185619,1000+
+342,33.0,Male,United Kingdom,,No,No,No,Rarely,873,Yes,Yes,Don't know,No,No,No,,0,0,0,1,6.773080375655535,501-1000
+343,25.0,F,United States,WA,No,Yes,Yes,Sometimes,1618,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.389563953677635,1000+
+344,23.0,Male,United States,AL,No,Yes,Yes,Sometimes,3016,No,No,Don't know,No,No,No,YOU MAY WANT TO THROW OUT MY ENTRY.I answered all of these questions with the assumption that Attention Deficit Disorder is considered a mental illness and with ADD in mind.,0,0,1,1,8.012018239159062,1000+
+345,54.0,M,United States,CA,No,Yes,Yes,Never,2792,No,Yes,Don't know,No,Yes,Yes,,0,0,1,0,7.934871565945177,1000+
+346,22.0,Male,United States,CA,No,No,No,Sometimes,2177,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,7.686162303492906,1000+
+347,25.0,non-binary,United States,CA,No,Yes,Yes,Sometimes,1533,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,7.335633981927201,1000+
+348,29.0,Male,Belgium,,No,No,No,Often,274,No,No,Don't know,No,No,No,In Belgium we have all medical care so perhaps some question are not relevant,0,0,0,1,5.616771097666572,101-500
+349,27.0,Male,United States,MA,No,No,Yes,Sometimes,2083,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.642044402873258,1000+
+350,30.0,Male,United Kingdom,,No,No,No,Never,4159,No,Yes,No,No,No,Don't know,A co-worker recently had mental health issues and my employer was very reasonable with them I don't know the full story but I do know that he was given ample time off and eased back in to the work place.,0,0,0,1,8.333270353255308,1000+
+351,26.0,male,United States,CA,No,Yes,Yes,Often,86000,No,Yes,Yes,Not sure,Don't know,Yes,,0,0,1,0,11.362114203075018,1000+
+352,25.0,Female,Sweden,,No,Yes,No,Sometimes,197,No,Yes,Yes,Yes,Yes,No,,0,0,0,0,5.288267030694535,101-500
+353,31.0,Male,United States,CA,No,No,Yes,Sometimes,1412,No,No,No,Yes,No,Don't know,,0,0,1,1,7.253470382684528,1000+
+354,33.0,M,United States,IN,No,Yes,Yes,Sometimes,4511,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.414495793177895,1000+
+355,34.0,M,United States,WA,No,Yes,Yes,Sometimes,3861,No,Yes,Yes,Yes,Don't know,Yes,,0,0,1,0,8.258940462988459,1000+
+356,34.0,Male,United States,WA,No,No,Yes,Sometimes,3815,Yes,Yes,No,No,No,No,,0,0,1,1,8.246958032568177,1000+
+357,29.0,M,United States,IN,Yes,No,No,No mental health condition,1778,Yes,Yes,No,Yes,No,No,,0,0,1,0,7.483806687665835,1000+
+358,33.0,Femake,United States,WA,No,No,No,No mental health condition,4164,No,Yes,No,No,No,No,,0,0,1,0,8.334471554600944,1000+
+359,32.03980514510041,male,Germany,,Yes,Yes,Yes,Rarely,1859,Yes,Yes,No,No,No,Don't know,,1,1,0,0,7.528331766707247,1000+
+360,26.0,male,United States,OK,Yes,Yes,Yes,Rarely,4757,Yes,No,No,No,No,Don't know,,0,0,1,0,8.467582690862903,1000+
+361,32.0,Male,United States,MI,No,Yes,Yes,Rarely,1647,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,7.4073177104694174,1000+
+362,29.0,Male,United States,OH,No,No,Yes,Often,2694,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,7.899153483343097,1000+
+363,28.0,Male,United States,GA,No,Yes,Yes,Sometimes,1408,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.25063551189868,1000+
+364,35.0,Male,United States,CA,No,Yes,No,No mental health condition,3650,No,Yes,Yes,No,Yes,Yes,,0,0,1,1,8.202756381655638,1000+
+365,21.0,Male,United States,IN,No,Yes,Yes,Rarely,2103,No,Yes,Yes,No,No,Don't know,,0,0,1,1,7.651595573857601,1000+
+366,21.0,Male,United Kingdom,,No,No,Yes,Sometimes,3368,No,No,Don't know,Not sure,No,No,,0,0,0,1,8.122371243406553,1000+
+367,22.0,F,United States,WA,No,No,No,No mental health condition,2888,No,Yes,Yes,No,Yes,Yes,,0,0,1,0,7.968665700466235,1000+
+368,41.0,m,United States,WA,No,Yes,Yes,Often,503,No,Yes,Yes,No,Yes,Yes,,0,0,1,0,6.222576268071369,501-1000
+369,55.0,M,United States,PA,No,Yes,Yes,Rarely,1983,No,Yes,Yes,Yes,Yes,Yes,My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia,0,0,1,0,7.592870287844818,1000+
+370,32.0,F,United States,WA,No,No,Yes,Sometimes,1960,No,Yes,Yes,Yes,Yes,Yes,My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction.,0,0,1,0,7.581209826196346,1000+
+371,21.0,F,United States,CA,No,Yes,Yes,Rarely,986,No,Yes,Don't know,Not sure,Don't know,No,,0,0,1,0,6.894670039433482,501-1000
+372,45.0,M,United States,MA,No,No,Yes,Never,1178,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,7.072421900537371,1000+
+373,27.0,female,United States,WA,No,No,Yes,Rarely,1708,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.443663683115591,1000+
+374,25.0,Female,United States,WA,No,Yes,Yes,Sometimes,2158,Yes,Yes,Don't know,No,No,No,,0,0,1,0,7.677400430514807,1000+
+375,34.0,woman,United States,NY,No,Yes,Yes,Rarely,2463,No,No,Yes,Yes,Yes,Yes,I work for a university.,0,0,1,0,7.80954132465341,1000+
+376,26.0,F,United States,CA,No,Yes,Yes,Never,3827,No,Yes,Yes,Yes,No,Yes,,0,0,1,0,8.250097752572845,1000+
+377,41.0,Male,Canada,,No,No,Yes,Never,308,No,Yes,Yes,Not sure,No,Don't know,,0,0,0,1,5.733341276897746,101-500
+378,27.0,Male,United States,CA,No,No,Yes,Rarely,4929,No,Yes,Yes,No,Yes,Yes,,0,0,1,1,8.503094267036737,1000+
+379,31.0,Make,United States,IN,No,Yes,Yes,Sometimes,4064,Yes,Yes,Yes,No,No,No,,0,0,1,0,8.310169021981912,1000+
+380,32.1689172233892,Male,Germany,,No,Yes,Yes,Often,376,Yes,Yes,No,No,No,No,,1,1,0,1,5.932245187448011,101-500
+381,26.0,M,United States,NV,No,No,Yes,Sometimes,2495,No,Yes,Don't know,No,No,No,,0,0,1,0,7.822444729489319,1000+
+382,27.0,female,United States,CO,No,Yes,Yes,Rarely,4262,Yes,Yes,Yes,Yes,No,Don't know,,0,0,1,0,8.35772841676521,1000+
+383,42.0,Male,New Zealand,,No,No,No,Never,3571,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.18088094199639,1000+
+384,29.0,Nah,United States,CA,Yes,Yes,Yes,Sometimes,4151,Yes,Yes,Yes,Yes,No,No,,0,0,1,0,8.331345424845724,1000+
+385,25.0,female,United States,CA,No,No,Yes,Sometimes,3652,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.203304026795282,1000+
+386,33.0,Female,Sweden,,No,Yes,Yes,Rarely,1617,No,Yes,Yes,Yes,No,Yes,,0,0,0,0,7.388946097618437,1000+
+387,32.043300121507755,All,Zimbabwe,,Yes,Yes,Yes,Often,1966,No,Yes,No,Yes,No,No,,1,1,0,0,7.584264818389059,1000+
+388,40.0,female,United States,PA,No,Yes,Yes,Rarely,3555,No,No,Yes,No,Don't know,Don't know,,0,0,1,0,8.176391596633795,1000+
+389,31.0,Male,United States,SC,No,No,No,Never,3007,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.00903068506973,1000+
+390,26.0,Male,Canada,,No,Yes,Yes,Often,4114,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,0,1,8.32239411311117,1000+
+391,24.0,female,United States,TX,No,Yes,No,No mental health condition,2750,No,No,No,No,No,No,,0,0,1,0,7.919719760924575,1000+
+392,29.0,Male,United States,TX,No,No,No,Never,712,No,No,Yes,Not sure,No,Don't know,,0,0,1,1,6.569481420414296,501-1000
+393,48.0,M,United Kingdom,,No,No,No,No mental health condition,2671,No,Yes,Don't know,No,No,No,,0,0,0,0,7.890582534656536,1000+
+394,35.0,Male,United Kingdom,,No,No,No,Sometimes,4226,No,Yes,No,No,No,No,,0,0,0,1,8.34924780056679,1000+
+395,32.0,female,United States,AL,No,No,No,Never,2728,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,7.911690520708339,1000+
+396,29.0,Male,Canada,,No,No,Yes,Sometimes,165,No,Yes,Don't know,Not sure,Don't know,Don't know,Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past!,0,0,0,1,5.111987788356544,101-500
+397,26.0,Male,United States,OR,No,Yes,Yes,Often,754,No,Yes,Yes,Yes,No,No,,0,0,1,1,6.626717749249025,501-1000
+398,28.0,Male,United States,NJ,No,Yes,Yes,Sometimes,473,No,Yes,Yes,Yes,No,No,,0,0,1,1,6.161207321695077,101-500
+399,23.0,male,United States,CA,No,No,No,No mental health condition,770,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,6.647688373563329,501-1000
+400,35.0,M,United States,CA,No,Yes,Yes,Sometimes,2024,No,Yes,Yes,Yes,No,No,I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire.,0,0,1,0,7.613324979540639,1000+
+401,29.0,male,Germany,,No,Yes,Yes,Sometimes,4432,No,Yes,Don't know,No,No,No,,0,0,0,0,8.396831834745054,1000+
+402,26.0,Male,United States,CA,No,Yes,No,No mental health condition,1799,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,7.495541943884256,1000+
+403,33.0,Male,United States,NH,No,Yes,Yes,Never,2600,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.8636512654486515,1000+
+404,33.0,Male,United States,CA,No,No,No,No mental health condition,1973,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,7.587817219993427,1000+
+405,22.0,Male,Brazil,,Yes,No,No,Never,4010,Yes,Yes,Don't know,No,No,No,,0,0,0,1,8.296795865770052,1000+
+406,30.0,female,Spain,,No,Yes,No,No mental health condition,4297,No,Yes,No,No,No,No,,0,0,0,0,8.365905077202456,1000+
+407,33.0,male,United States,OH,No,Yes,Yes,Often,1353,Yes,Yes,Yes,Yes,No,No,,0,0,1,0,7.21081845347222,1000+
+408,31.0,Female,United States,OH,No,Yes,Yes,Rarely,953,No,No,Don't know,Not sure,No,Don't know,,0,0,1,0,6.860663671448287,501-1000
+409,21.0,male,United States,MA,No,Yes,No,Never,2288,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.735870319952567,1000+
+410,31.0,Enby,United Kingdom,,No,Yes,Yes,Sometimes,404,No,Yes,Don't know,No,No,No,,0,0,0,0,6.003887067106539,101-500
+411,26.0,F,United States,OK,No,No,Yes,Sometimes,2478,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.8156105320351905,1000+
+412,30.0,Male,United States,CA,No,Yes,No,Often,4088,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.316055720364643,1000+
+413,30.8151438478278,fluid,Germany,,No,Yes,Yes,Sometimes,2576,No,Yes,Don't know,Not sure,No,No,In Germany your employer doesn't really provide mental health benefits. There's a standard and I get that but I would get the same at any other company in Germany.,1,1,0,0,7.854381210652365,1000+
+414,23.0,Male,India,,No,No,No,No mental health condition,2967,No,Yes,No,No,No,No,,0,0,0,1,7.995643604287271,1000+
+415,34.0,Male,Finland,,No,No,No,Never,1363,No,Yes,No,No,No,No,,0,0,0,1,7.218176838403408,1000+
+416,55.0,M,United States,ID,No,Yes,Yes,Sometimes,4769,Yes,Yes,No,Yes,No,Don't know,,0,0,1,0,8.470101583882387,1000+
+417,33.278984484348676,male,Germany,,No,Yes,Yes,Rarely,807,Yes,Yes,Yes,No,No,No,fwiw I am a co founder of this company and the would you X in an interview questions shouldn't reflect how I would treat anyone addressing their own phys/mental health issue to me in such a situation. ,1,1,0,0,6.694562058521095,501-1000
+418,26.0,M,Uruguay,,No,No,No,No mental health condition,2558,Yes,Yes,Don't know,No,Don't know,No,,0,0,0,0,7.847371836159788,1000+
+419,28.0,Male,New Zealand,,No,Yes,Yes,Sometimes,308,Yes,Yes,Yes,Yes,Yes,No,,0,0,0,1,5.733341276897746,101-500
+420,32.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,1717,No,Yes,No,No,No,Don't know,,0,0,0,1,7.4489161025442,1000+
+421,28.0,Female,United States,NY,No,No,Yes,Rarely,4564,No,No,Yes,Yes,No,Don't know,,0,0,1,0,8.426173793029069,1000+
+422,21.0,M,United States,CA,No,No,No,Sometimes,1847,No,No,Don't know,Not sure,No,Yes,,0,0,1,0,7.521859252201629,1000+
+423,24.0,Male,United States,TX,No,Yes,Yes,Sometimes,1290,No,Yes,No,Yes,No,No,,0,0,1,1,7.1631723908466425,1000+
+424,26.0,Female,United States,MD,No,No,No,No mental health condition,1964,No,No,Yes,Not sure,Yes,Don't know,,0,0,1,0,7.583247524303362,1000+
+425,23.0,Male,United States,IN,No,No,No,No mental health condition,4610,No,No,Yes,No,No,No,,0,0,1,1,8.436200032206706,1000+
+426,24.0,Female,United States,OR,No,No,No,No mental health condition,205,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,5.327876168789581,101-500
+427,28.0,Male,Canada,,Yes,No,No,Never,1211,Yes,Yes,Don't know,No,No,No,,0,0,0,1,7.10002716662926,1000+
+428,24.0,F,United States,NY,No,Yes,Yes,Rarely,995,No,Yes,No,No,No,No,,0,0,1,0,6.903747257584598,501-1000
+429,33.0,male,United States,MS,Yes,No,Yes,Often,2407,Yes,Yes,No,No,No,No,,0,0,1,0,7.786551806428712,1000+
+430,34.0,male,United States,NJ,No,No,No,Sometimes,1955,No,Yes,Don't know,No,No,No,,0,0,1,0,7.578656850594762,1000+
+431,27.0,female,United States,CA,No,No,Yes,Sometimes,4361,No,Yes,Don't know,Not sure,No,No,I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since.,0,0,1,0,8.380685946761574,1000+
+432,28.0,Male,United States,TN,No,No,No,Never,1727,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,7.454719949364001,1000+
+433,26.0,Male,United States,WA,No,No,No,No mental health condition,1838,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.516977224604321,1000+
+434,20.0,Male,Australia,,No,No,No,No mental health condition,1530,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,7.333676395657684,1000+
+435,23.0,female,United States,MA,No,No,Yes,Sometimes,4861,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,8.48920515487607,1000+
+436,29.0,Male,United States,PA,No,Yes,Yes,Rarely,2536,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.838737559599282,1000+
+437,26.0,Male,United Kingdom,,No,Yes,No,Sometimes,2366,No,Yes,No,No,No,No,,0,0,0,1,7.769378609513984,1000+
+438,36.0,Male,United States,KY,No,No,No,Rarely,2377,Yes,Yes,Yes,No,Yes,Don't know,,0,0,1,1,7.774015077250727,1000+
+439,41.0,m,United States,PA,No,No,Yes,Sometimes,2164,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.68017564043659,1000+
+440,33.0,female,United States,MA,No,No,No,No mental health condition,227,Yes,Yes,Yes,No,Don't know,No,,0,0,1,0,5.429345628954441,101-500
+441,23.0,M,Canada,,No,Yes,Yes,Sometimes,3893,No,Yes,Yes,Yes,No,No,,0,0,0,0,8.267192185932146,1000+
+442,39.0,Male,United States,CA,No,Yes,No,Often,1384,No,Yes,Yes,No,No,Don't know,,0,0,1,1,7.233455418621439,1000+
+443,34.0,M,United States,VT,No,Yes,No,No mental health condition,1743,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.463936604468925,1000+
+444,26.0,F,United States,CA,No,No,Yes,Sometimes,3836,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.252446090246952,1000+
+445,24.0,Male,United States,AZ,No,No,Yes,Rarely,522,No,Yes,Yes,Yes,Yes,No,,0,0,1,1,6.259581464064923,501-1000
+446,37.0,Male,Canada,,No,Yes,Yes,Rarely,2252,No,No,Yes,Yes,Yes,Yes,,0,0,0,1,7.720017940432244,1000+
+447,43.0,Male,United States,MA,Yes,Yes,Yes,Often,1095,Yes,Yes,Yes,Yes,No,No,So much depends upon the organization. ,0,0,1,1,6.999422467507961,1000+
+448,40.0,Genderqueer,United States,VA,No,Yes,No,Never,1756,No,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,7.471363088187097,1000+
+449,30.0,male,United States,WA,No,Yes,Yes,Often,4905,No,Yes,Yes,Yes,Yes,No,,0,0,1,0,8.498214224818435,1000+
+450,34.0,M,United States,CA,No,No,Yes,Sometimes,3747,No,Yes,Don't know,Not sure,No,No,Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma.,0,0,1,0,8.228977643358313,1000+
+451,27.0,Male,United States,OR,No,Yes,Yes,Sometimes,4331,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,8.37378460812088,1000+
+452,36.0,Male,United States,MI,No,No,No,Sometimes,3777,No,Yes,Don't know,No,No,No,,0,0,1,1,8.236950048061455,1000+
+453,27.0,Male,Brazil,,No,No,No,Rarely,4993,No,Yes,No,Yes,No,No,,0,0,0,1,8.515992470839718,1000+
+454,35.0,Male,Netherlands,,No,Yes,No,Never,2096,No,Yes,Yes,No,No,No,Nice job on the text field for gender :-),0,0,0,1,7.64826303090192,1000+
+455,32.0,Male,United Kingdom,,No,No,No,Never,1499,No,Yes,No,No,No,No,,0,0,0,1,7.313220387090301,1000+
+456,37.0,M,United States,OR,No,No,No,No mental health condition,522,No,Yes,Yes,No,No,No,,0,0,1,0,6.259581464064923,501-1000
+457,29.0,Male,United Kingdom,,No,No,No,No mental health condition,1761,No,Yes,Don't know,No,Don't know,Don't know,,0,0,0,1,7.474204806496124,1000+
+458,33.0,Female ,United States,CA,No,No,No,Never,4740,No,Yes,Yes,Not sure,Yes,Yes,I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well. ,0,0,1,0,8.464003362902119,1000+
+459,28.0,Make,United States,UT,No,No,No,Sometimes,1063,Yes,Yes,No,Yes,No,No,,0,0,1,0,6.96979066990159,1000+
+460,26.0,Female,United States,CA,No,Yes,No,Never,4584,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.430545384690566,1000+
+461,27.0,M,United States,TX,No,Yes,Yes,Sometimes,163,Yes,Yes,Don't know,No,Yes,Don't know,,0,0,1,0,5.099866427824199,101-500
+462,38.0,Male,United Kingdom,,Yes,No,Yes,Sometimes,2330,Yes,Yes,No,No,No,No,,0,0,0,1,7.754052639035757,1000+
+463,57.0,M,United States,CA,No,Yes,Yes,Rarely,4206,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.344505083590521,1000+
+464,28.0,Male,United Kingdom,,No,No,Yes,Sometimes,1923,No,Yes,No,No,No,No,,0,0,0,1,7.562161631225652,1000+
+465,26.0,male,France,,No,No,No,Never,4783,No,Yes,No,Yes,No,No,,0,0,0,0,8.473032295630468,1000+
+466,42.0,f,Netherlands,,No,No,Yes,Rarely,4037,Yes,Yes,Yes,Yes,No,No,,0,0,0,0,8.303504798872783,1000+
+467,31.0,Male,United States,OR,No,No,Yes,Sometimes,4831,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.48301573961465,1000+
+468,58.0,Male,United States,CA,No,No,Yes,Rarely,1589,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.371489295214277,1000+
+469,29.0,Male,United States,OH,No,No,No,Sometimes,640,No,Yes,Don't know,No,No,No,,0,0,1,1,6.46302945692067,501-1000
+470,39.0,Female,United Kingdom,,No,No,Yes,Sometimes,1883,No,Yes,Yes,Yes,No,Yes,,0,0,0,0,7.5411524551363085,1000+
+471,34.0,Male,United States,OH,No,No,No,Sometimes,1972,Yes,Yes,Don't know,No,No,No,,0,0,1,1,7.587310506022615,1000+
+472,57.0,Male,United States,CA,No,No,Yes,Sometimes,635,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,6.455198563340122,501-1000
+473,32.068464986596055,Male,Germany,,No,Yes,Yes,Sometimes,1345,No,Yes,No,Not sure,No,No,,1,1,0,1,7.204892510204673,1000+
+474,31.021462069854362,male,Germany,,Yes,Yes,Yes,Often,267,Yes,Yes,Don't know,No,Don't know,Don't know,you rock for doing this!,1,1,0,0,5.5909869805108565,101-500
+475,18.0,male,Finland,,No,No,No,No mental health condition,4171,Yes,No,Don't know,No,No,Don't know,,0,0,0,0,8.336150816120663,1000+
+476,30.0,female,United States,NY,No,No,No,No mental health condition,3722,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.222285073872717,1000+
+477,23.0,Male,United States,VA,No,No,No,Never,4416,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.393216011596527,1000+
+478,43.0,M,United States,CA,No,No,Yes,Sometimes,787,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.669498089857879,501-1000
+479,18.0,Female,United Kingdom,,No,Yes,Yes,Sometimes,1730,Yes,Yes,Don't know,Not sure,Don't know,Don't know,I don't have a job :D,0,0,0,0,7.456454555176209,1000+
+480,29.0,male,United States,IL,No,No,Yes,Rarely,4204,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.344029572407049,1000+
+481,48.0,M,United States,TX,No,No,No,Never,3523,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.16735198705607,1000+
+482,31.912194151676875,male,Germany,,No,No,Yes,Sometimes,3323,No,No,No,Yes,Don't know,No,,1,1,0,0,8.10892415597534,1000+
+483,28.0,Female,United States,NY,No,Yes,Yes,Sometimes,3098,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.038834757787749,1000+
+484,30.0,Male,United States,CA,Yes,Yes,Yes,Often,66000,Yes,Yes,No,Yes,No,No,,0,0,1,1,11.097425172408931,1000+
+485,26.0,Male,Israel,MD,No,No,No,Sometimes,4094,No,Yes,No,No,No,No,Israel has public health insurance for everyone. Everyone has free mental health coverage and it's quite good. So that explains some of my answers.,0,0,0,1,8.31752199628717,1000+
+486,33.0,Male,Italy,,No,No,No,Never,2745,No,No,No,No,No,No,,0,0,0,1,7.917900586327916,1000+
+487,31.0,Male,United States,CA,No,No,No,No mental health condition,4311,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,1,8.369157112588834,1000+
+488,30.0,M,United States,PA,No,No,No,Rarely,2547,No,No,Don't know,Not sure,No,No,,0,0,1,0,7.843064016692054,1000+
+489,27.0,Male,Israel,,No,No,No,No mental health condition,3485,No,Yes,No,No,No,No,,0,0,0,1,8.156510226079966,1000+
+490,24.0,Female,United States,CA,Yes,Yes,Yes,Sometimes,3315,Yes,Yes,No,No,Don't know,Don't know,,0,0,1,0,8.106514516255185,1000+
+491,25.0,male,United States,WA,No,No,No,No mental health condition,4874,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,8.491875383431948,1000+
+492,23.0,Female,United States,NY,No,Yes,Yes,Often,964,No,Yes,Yes,Not sure,Don't know,No,,0,0,1,0,6.872128101338986,501-1000
+493,36.0,m,United States,TX,No,No,Yes,Sometimes,1103,No,No,Yes,Not sure,No,No,Stigma is the worst. People first language is a small step but we can't get that right.,0,0,1,0,7.00669522683704,1000+
+494,25.0,female,United States,CA,Yes,Yes,Yes,Often,3370,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.12296471523406,1000+
+495,54.0,Male,United Kingdom,,No,No,Yes,Sometimes,2391,Yes,No,No,Yes,Yes,Yes,,0,0,0,1,7.779885115070522,1000+
+496,34.0,Male,Netherlands,,No,No,No,Rarely,3732,No,Yes,Don't know,Not sure,Don't know,Don't know,-,0,0,0,1,8.224967478914584,1000+
+497,38.0,female,United States,AZ,No,No,Yes,No mental health condition,4376,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.384118837190895,1000+
+498,40.0,Male,Ireland,,Yes,Yes,No,No mental health condition,385,No,Yes,No,No,No,No,,0,0,0,1,5.955837369464831,101-500
+499,32.0,male,United Kingdom,,No,No,No,No mental health condition,1303,No,Yes,No,Not sure,No,Don't know,,0,0,0,0,7.1731917424865985,1000+
+500,25.0,Male,Germany,,No,No,No,Never,2675,No,No,Don't know,Not sure,Don't know,Yes,,0,0,0,1,7.892078421248119,1000+
+501,35.0,Female,United States,OH,No,No,Yes,Sometimes,4745,No,Yes,No,Yes,No,No,,0,0,1,0,8.465057436995709,1000+
+502,46.0,male,United States,CA,No,No,Yes,Sometimes,825,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.716594773520978,501-1000
+503,42.0,male,United States,KS,No,No,No,Never,3040,No,No,Yes,No,Yes,No,,0,0,1,0,8.019941687677365,1000+
+504,32.0,male,United Kingdom,,No,Yes,Yes,Sometimes,2193,Yes,Yes,Yes,No,No,No,,0,0,0,0,7.693481640835175,1000+
+505,47.0,M,United States,CA,No,Yes,Yes,Sometimes,1944,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.573017256052546,1000+
+506,22.0,Male,United States,CA,No,No,No,No mental health condition,4700,No,Yes,Yes,Not sure,Yes,Don't know,,0,0,1,1,8.45553053102413,1000+
+507,33.0,Female,United States,NY,No,No,Yes,Sometimes,2732,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.913155185928068,1000+
+508,25.0,f,United States,WA,No,No,No,Sometimes,1512,No,Yes,No,No,No,No,,0,0,1,0,7.321849713788356,1000+
+509,29.0,M,United States,CA,No,No,No,No mental health condition,2965,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,7.994969522697877,1000+
+510,39.0,Male,United States,WA,No,No,No,Never,1927,No,Yes,Yes,Yes,Yes,Yes,I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.,0,0,1,1,7.564238475170491,1000+
+511,38.0,male,United States,VA,No,Yes,Yes,Sometimes,222,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,0,5.407171771460119,101-500
+512,43.0,Male,United States,NC,No,No,No,No mental health condition,120,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,1,4.795790545596741,101-500
+513,46.0,Male,United States,OH,No,No,Yes,Rarely,2878,Yes,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,7.965198290612176,1000+
+514,38.0,Female,United States,PA,No,Yes,Yes,Sometimes,398,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,5.988961416889864,101-500
+515,33.0,Male,Germany,,No,No,Yes,Sometimes,622,No,Yes,Yes,Yes,No,No,,0,0,0,1,6.434546518787453,501-1000
+516,34.0,Male,United Kingdom,,No,Yes,Yes,Often,3705,No,Yes,No,Yes,No,No,,0,0,0,1,8.217708406845306,1000+
+517,62.0,M,United States,CA,No,No,No,Never,2718,No,Yes,Yes,Yes,Don't know,Yes,,0,0,1,0,7.908019444632471,1000+
+518,23.0,F,United States,TX,No,No,No,No mental health condition,1836,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.515889085215125,1000+
+519,35.0,Male,United States,AZ,No,No,No,No mental health condition,3880,No,No,No,No,No,No,,0,0,1,1,8.263848131368906,1000+
+520,25.0,Male,Bosnia and Herzegovina,,No,Yes,No,Rarely,219,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,5.393627546352362,101-500
+521,36.0,M,United States,IL,Yes,Yes,Yes,Sometimes,501,Yes,Yes,Don't know,Yes,Don't know,No,,0,0,1,0,6.218600119691729,501-1000
+522,24.0,male,Austria,,Yes,No,No,Sometimes,2172,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,0,0,7.6838639802564295,1000+
+523,51.0,Male,New Zealand,,No,No,Yes,Sometimes,3727,Yes,Yes,No,Yes,Yes,No,,0,0,0,1,8.223627175805483,1000+
+524,29.0,M,United States,NC,No,No,Yes,Sometimes,652,No,Yes,Yes,Yes,No,Yes,,0,0,1,0,6.481577129276431,501-1000
+525,31.0,Female,Canada,,Yes,Yes,Yes,Sometimes,1405,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.2485040723706105,1000+
+526,27.0,Male,United Kingdom,,No,No,No,No mental health condition,3440,No,Yes,No,No,No,No,,0,0,0,1,8.14351740579748,1000+
+527,31.0,Male,Australia,,No,No,Yes,Rarely,2923,No,Yes,Yes,Yes,Yes,Yes,,0,0,0,1,7.980707820869669,1000+
+528,27.0,female,Hungary,,Yes,Yes,No,Sometimes,2162,Yes,Yes,No,No,No,No,,0,0,0,0,7.679251425953058,1000+
+529,23.0,Male,Sweden,,No,No,No,Rarely,1352,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,7.210079628170788,1000+
+530,21.0,Male,Canada,,No,No,No,Never,3189,No,Yes,Don't know,Not sure,Don't know,No,,0,0,0,1,8.06777619577889,1000+
+531,27.0,Female,Australia,,No,Yes,Yes,Sometimes,351,No,Yes,No,Yes,No,No,,0,0,0,0,5.863631175598097,101-500
+532,39.0,M,United States,WI,No,Yes,Yes,Often,1970,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.58629630715272,1000+
+533,26.0,M,United States,CA,No,Yes,Yes,Never,3864,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.259716961021523,1000+
+534,27.0,Male,United Kingdom,,No,No,No,Never,3561,No,Yes,Don't know,No,No,No,,0,0,0,1,8.178077463849608,1000+
+535,22.0,Female,United States,CA,No,Yes,Yes,Sometimes,2236,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,7.71289096149013,1000+
+536,26.0,F,United States,MN,No,Yes,Yes,Often,2766,No,No,Don't know,No,No,No,,0,0,1,0,7.925518979786926,1000+
+537,31.0,Female,United States,PA,No,Yes,Yes,Rarely,836,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.729824070489475,501-1000
+538,30.710380040169238,male,United Kingdom,,No,No,No,Never,4507,No,Yes,Don't know,No,No,No,,1,1,0,0,8.413608875159667,1000+
+539,28.0,female,United States,CA,No,Yes,Yes,Often,1376,Yes,Yes,Yes,No,No,Don't know,,0,0,1,0,7.227662498728654,1000+
+540,28.0,Androgyne,United Kingdom,,No,Yes,Yes,Rarely,4043,No,Yes,No,Not sure,No,No,I bring up my depression in interviews solely because I have a large gap on my CV due to mental health issues which could be mistaken for a gap taken to say have children which I feel would harm my chances much more. I have other MH issues I would never bring up with employers or peers.,0,0,0,0,8.304989580140361,1000+
+541,23.0,female,United Kingdom,,No,No,No,No mental health condition,3968,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,8.286269452783065,1000+
+542,30.0,Male,United Kingdom,,No,No,No,Never,3202,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.071843149609158,1000+
+543,36.0,Male,United States,CA,No,Yes,Yes,Sometimes,2056,No,Yes,Yes,No,No,Yes,,0,0,1,1,7.6290038896529575,1000+
+544,21.0,M,United States,CA,No,Yes,No,No mental health condition,1629,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.396335293800808,1000+
+545,30.0,male,Germany,,No,No,No,Often,4263,No,Yes,No,No,Don't know,No,,0,0,0,0,8.357962965845681,1000+
+546,25.0,Woman,United States,CA,No,Yes,No,No mental health condition,3080,No,No,Don't know,Not sure,No,No,I'm not aware of anyone with mental health issues at work it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues.,0,0,1,0,8.033009498596668,1000+
+547,32.0,Male,New Zealand,,No,No,Yes,Sometimes,3341,No,Yes,No,No,No,No,I suffer from mild depression and anxiety.,0,0,0,1,8.114324709155339,1000+
+548,29.0,female,Canada,,No,No,Yes,Sometimes,1812,No,Yes,No,No,No,No,The family history question needs a don't know option.,0,0,0,0,7.502738210754851,1000+
+549,21.0,Agender,United Kingdom,,No,No,Yes,Sometimes,1981,No,Yes,No,Yes,Yes,No,,0,0,0,0,7.591861714889934,1000+
+550,27.0,Female,New Zealand,,No,Yes,Yes,Rarely,2276,Yes,Yes,No,No,No,No,,0,0,0,0,7.7306140660637395,1000+
+551,32.0,Female,Canada,,No,No,Yes,Often,2175,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.685243607975833,1000+
+552,34.0,M,Australia,,No,No,No,Sometimes,1684,No,Yes,Yes,Yes,Yes,Yes,,0,0,0,0,7.429520842786462,1000+
+553,33.0,M,United States,NY,No,No,No,No mental health condition,1125,No,Yes,Don't know,No,Don't know,Don't know,I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else.,0,0,1,0,7.026426808699636,1000+
+554,22.0,Male,Netherlands,,No,Yes,Yes,Sometimes,1144,Yes,Yes,No,Not sure,No,Don't know,,0,0,0,1,7.0431599159883405,1000+
+555,24.0,M,United States,CA,No,No,No,No mental health condition,729,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,6.593044534142437,501-1000
+556,65.0,Male,United States,FL,Yes,No,No,No mental health condition,1909,Yes,No,No,No,No,No,,0,0,1,1,7.554858521040676,1000+
+557,27.0,Male,United States,OR,No,Yes,Yes,Sometimes,4045,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.305484017727691,1000+
+558,33.0,Male,Australia,,No,No,No,Never,344,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,5.84354441703136,101-500
+559,33.0,Male,United States,CO,No,No,Yes,Rarely,1100,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.00397413672268,1000+
+560,40.0,Male,Canada,,No,No,No,Never,1528,No,Yes,No,No,No,No,,0,0,0,1,7.332369205929062,1000+
+561,28.0,male,United States,GA,No,No,Yes,Sometimes,2312,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.746300662231439,1000+
+562,39.0,Male,United States,OR,No,No,Yes,Sometimes,2621,No,Yes,Yes,Not sure,Yes,Don't know,,0,0,1,1,7.871692664323645,1000+
+563,32.0,Male,United States,CA,No,No,Yes,Sometimes,3800,No,Yes,Yes,No,No,Yes,,0,0,1,1,8.24301946898925,1000+
+564,31.0,male,United States,CA,No,Yes,No,Sometimes,3659,No,Yes,Yes,Not sure,Don't know,Don't know,Mental health issue I have dealt with: acute depression,0,0,1,0,8.205218426395412,1000+
+565,38.0,Make,United States,PA,No,Yes,Yes,Sometimes,761,No,Yes,Don't know,No,No,No,,0,0,1,0,6.635946555686647,501-1000
+566,23.0,Male,United States,CA,No,Yes,Yes,Rarely,2763,No,Yes,No,Yes,No,No,,0,0,1,1,7.92443418488756,1000+
+567,42.0,Make,United States,CA,No,No,Yes,Often,4493,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.410498452745275,1000+
+568,27.0,Female,United States,NY,No,No,No,Sometimes,768,No,Yes,Don't know,Not sure,Don't know,Yes,,0,0,1,0,6.645090969505644,501-1000
+569,26.0,Female,United States,MA,No,Yes,Yes,Sometimes,4402,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.390041405755754,1000+
+570,37.0,Male,United States,PA,No,Yes,No,Never,4335,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.374707543119483,1000+
+571,23.0,Male,United States,RI,No,No,No,No mental health condition,3172,No,Yes,Don't know,No,Don't know,No,,0,0,1,1,8.062432791583195,1000+
+572,33.0,M,United States,MI,No,Yes,No,Sometimes,574,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,0,6.354370040797351,501-1000
+573,29.0,male,Canada,,Yes,No,No,Never,1921,Yes,Yes,Yes,Yes,No,No,,0,0,0,0,7.561121589530238,1000+
+574,25.0,Male,United States,IL,No,Yes,Yes,Sometimes,4273,Yes,No,Yes,No,No,No,Thanks for doing this. It will help end the stigma!,0,0,1,1,8.360305435879093,1000+
+575,41.0,male,United States,CA,No,Yes,Yes,Often,4250,No,Yes,Yes,No,No,No,,0,0,1,0,8.35490952835879,1000+
+576,50.0,Male,United States,OR,No,Yes,No,No mental health condition,4145,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.329899292995725,1000+
+577,29.0,Male,Canada,,No,No,Yes,Never,1509,No,No,Yes,Not sure,Yes,Yes,For clarity I work at a casino.,0,0,0,1,7.31986492980897,1000+
+578,35.0,Male,United States,IN,No,No,No,Never,3151,No,Yes,No,Yes,No,No,,0,0,1,1,8.05579245097777,1000+
+579,27.0,Male,Singapore,,No,No,No,Sometimes,2367,Yes,Yes,No,No,No,No,Most employers / coworkers and even immediate family is not all the time supportive to discuss depression and other problems. ie. My wife thinks she should be able to make sure that I am not depressed  which is funny because sometimes depression state has nothing to do with her. ,0,0,0,1,7.769800996003896,1000+
+580,40.0,Female,United States,MA,No,No,No,Never,374,No,No,Don't know,Not sure,No,No,,0,0,1,0,5.926926025970411,101-500
+581,27.0,Male,Australia,,No,No,Yes,Often,4046,Yes,Yes,No,No,No,No,,0,0,0,1,8.305731144875866,1000+
+582,29.0,f,United States,MI,No,No,No,Never,3980,No,Yes,Yes,Yes,Yes,No,,0,0,1,0,8.289288323000317,1000+
+583,31.0,Male,United States,OH,No,Yes,Yes,Sometimes,1559,No,Yes,No,No,No,No,,0,0,1,1,7.352441100243583,1000+
+584,43.0,Male,United States,OH,No,No,Yes,Sometimes,2240,No,Yes,No,Yes,No,No,,0,0,1,1,7.714677473800927,1000+
+585,34.0,Male,United States,NH,No,Yes,Yes,Sometimes,4206,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,8.344505083590521,1000+
+586,29.0,Male,United States,OH,No,Yes,Yes,Sometimes,1105,No,Yes,Don't know,No,No,No,It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in.,0,0,1,1,7.00850518208228,1000+
+587,19.0,Male,Canada,,No,Yes,Yes,Sometimes,800,No,Yes,No,No,No,No,,0,0,0,1,6.68586094706836,501-1000
+588,41.0,m,United States,TN,No,Yes,Yes,Sometimes,1403,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,0,7.247080584585756,1000+
+589,30.0,Male,United States,OR,No,Yes,No,Never,4922,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.5016733797582,1000+
+590,23.0,Male,United States,PA,No,No,No,Rarely,1713,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,1,7.446585099157725,1000+
+591,31.0,M,United States,NY,No,No,No,No mental health condition,3414,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.13593277200489,1000+
+592,43.0,Male,United States,WA,No,No,No,No mental health condition,2012,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.607381425639791,1000+
+593,31.0,Male,United States,NY,No,Yes,Yes,Rarely,3821,No,Yes,No,No,No,Don't know,,0,0,1,1,8.248529124800218,1000+
+594,29.0,Male,United States,CA,No,Yes,No,Often,1478,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.2991214627108,1000+
+595,35.0,Male,United States,TN,Yes,Yes,No,No mental health condition,1439,Yes,Yes,No,No,Yes,Yes,The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here.,0,0,1,1,7.272398392570047,1000+
+596,33.0,Male,United States,WI,No,Yes,Yes,Sometimes,3507,No,No,Yes,Not sure,No,No,,0,0,1,1,8.162801353492073,1000+
+597,30.0,cis-female/femme,United States,WI,Yes,Yes,Yes,Often,4840,Yes,No,No,Yes,No,Yes,Because I'm self-employed and the only person in my organization I would have liked a not applicable option. I don't want my answers to be misleading.,0,0,1,0,8.484876589939695,1000+
+598,27.0,male,United States,PA,No,No,No,No mental health condition,1153,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.050989447068045,1000+
+599,40.0,Male,United States,MI,No,No,No,Sometimes,2409,No,Yes,No,Yes,No,No,,0,0,1,1,7.787382026484701,1000+
+600,50.0,Male,United States,WY,No,No,No,Sometimes,1527,Yes,Yes,Don't know,No,No,Don't know,I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome.,0,0,1,1,7.331714969726466,1000+
+601,24.0,male,United States,KY,No,No,No,Never,4905,No,No,Don't know,Not sure,No,No,,0,0,1,0,8.498214224818435,1000+
+602,27.0,Male,United States,NY,No,No,No,No mental health condition,4157,No,Yes,Don't know,No,No,No,,0,0,1,1,8.332789468417959,1000+
+603,27.0,Male,Australia,,No,No,No,Never,1737,Yes,Yes,No,No,No,No,,0,0,0,1,7.460490305825338,1000+
+604,32.0,Male,United States,TX,No,No,Yes,Sometimes,3869,No,Yes,No,Yes,No,No,I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss.,0,0,1,1,8.261009786023827,1000+
+605,42.0,Male,United States,WI,Yes,No,No,Rarely,4375,Yes,No,No,Yes,No,No,,0,0,1,1,8.383890344101816,1000+
+606,37.0,Male,United States,WA,No,No,No,Often,3897,No,No,Don't know,No,No,No,,0,0,1,1,8.268218880067506,1000+
+607,30.0,Male,Singapore,,No,No,No,Sometimes,3309,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.104703468371108,1000+
+608,29.0,Male,United States,WA,No,No,No,Rarely,4419,No,Yes,Yes,No,No,No,,0,0,1,1,8.393894975071744,1000+
+609,30.0,Male,United States,GA,Yes,No,Yes,Often,2128,Yes,Yes,No,Not sure,No,Yes,,0,0,1,1,7.663407664893479,1000+
+610,35.0,Male,United States,MI,No,No,No,Never,3373,No,Yes,Yes,No,Yes,Don't know,,0,0,1,1,8.123854263105914,1000+
+611,35.0,Male,United States,MD,No,Yes,Yes,Rarely,1711,Yes,No,Yes,Yes,No,No,I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims.,0,0,1,1,7.445417556701687,1000+
+612,38.0,male,Netherlands,,No,Yes,No,Often,4937,Yes,Yes,No,Not sure,No,Don't know,,0,0,0,0,8.504715669905124,1000+
+613,22.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,280,No,Yes,Yes,Yes,No,No,,0,0,0,1,5.638354669333745,101-500
+614,24.0,m,Germany,,No,Yes,No,Sometimes,2630,No,Yes,Don't know,No,No,No,We don't fucking talk about it ever.,0,0,0,0,7.875119281040293,1000+
+615,22.0,M,Netherlands,,Yes,No,No,Never,274,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,5.616771097666572,101-500
+616,31.0,Female,United States,WA,No,No,Yes,Often,3800,Yes,Yes,Yes,Yes,No,No,,0,0,1,0,8.24301946898925,1000+
+617,23.0,female,United States,CA,No,Yes,Yes,Sometimes,3709,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.21878715560148,1000+
+618,31.0,Female,United States,OR,No,Yes,Yes,Sometimes,4182,No,Yes,Don't know,No,No,No,,0,0,1,0,8.338783971442199,1000+
+619,28.0,Female,United States,CA,No,Yes,Yes,Rarely,315,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,5.755742213586912,101-500
+620,37.0,Guy (-ish) ^_^,Canada,,No,Yes,Yes,Sometimes,3719,No,No,Yes,Yes,No,No,,0,0,0,0,8.221478947267192,1000+
+621,34.0,male,United States,CA,Yes,Yes,Yes,Sometimes,1168,No,Yes,No,Yes,No,No,thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me,0,0,1,0,7.063903961472068,1000+
+622,32.0,male leaning androgynous,Canada,,No,No,No,Sometimes,1790,Yes,Yes,No,Yes,No,No,,0,0,0,0,7.490529402060711,1000+
+623,33.0,Male,United States,MI,No,Yes,Yes,Sometimes,832,Yes,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,6.725033642166843,501-1000
+624,24.0,Female,United Kingdom,,No,No,Yes,Sometimes,4647,No,Yes,No,No,No,No,,0,0,0,0,8.444192298531748,1000+
+625,56.0,Male ,United States,MA,No,Yes,Yes,Rarely,4805,No,Yes,Yes,Yes,No,No,,0,0,1,0,8.477620416296414,1000+
+626,31.0,Male,Germany,,No,No,No,Sometimes,3050,Yes,Yes,No,No,No,No,,0,0,0,1,8.02322468471667,1000+
+627,34.0,female,United States,CA,No,No,Yes,Sometimes,1119,Yes,Yes,Yes,Yes,No,Don't know,,0,0,1,0,7.02108396428914,1000+
+628,35.0,m,Germany,,No,No,Yes,Rarely,2743,No,No,Don't know,No,Yes,Don't know,,0,0,0,0,7.917171988845776,1000+
+629,28.0,male,Germany,,No,No,No,Never,3620,No,Yes,No,No,No,No,,0,0,0,0,8.19450550976564,1000+
+630,36.0,male,Poland,,Yes,Yes,Yes,Often,1767,No,Yes,No,No,No,No,,0,0,0,0,7.477604243197589,1000+
+631,30.0,Male,United Kingdom,,No,No,Yes,Often,4175,No,Yes,No,No,No,No,,0,0,0,1,8.337109129562474,1000+
+632,49.0,male,Japan,,Yes,Yes,Yes,Sometimes,4966,Yes,Yes,No,Yes,Yes,No,,0,0,0,0,8.51057131510735,1000+
+633,36.0,Male,Germany,,No,No,No,No mental health condition,377,No,Yes,Yes,Yes,No,No,,0,0,0,1,5.934894195619588,101-500
+634,35.0,male,Germany,,No,No,No,No mental health condition,2858,No,Yes,No,No,No,No,,0,0,0,0,7.958227192322312,1000+
+635,29.0,Female,Australia,,No,Yes,Yes,Sometimes,3080,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,8.033009498596668,1000+
+636,57.0,Male,United States,CA,No,No,No,Never,3895,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,8.267705664762426,1000+
+637,31.0,female,Belgium,,No,Yes,Yes,Rarely,2981,No,No,Yes,No,No,No,,0,0,0,0,8.000349495324684,1000+
+638,37.0,Male,Ireland,,Yes,No,No,Never,2687,No,Yes,No,No,No,No,,0,0,0,1,7.89655270164304,1000+
+639,25.0,Male,Ireland,,No,Yes,Yes,Sometimes,376,No,Yes,No,No,No,No,,0,0,0,1,5.932245187448011,101-500
+640,30.0,Male,Australia,,No,No,No,Sometimes,4268,No,Yes,No,No,No,No,,0,0,0,1,8.359134886757962,1000+
+641,26.0,F,Australia,,No,Yes,No,Sometimes,2432,No,No,No,Yes,Yes,Yes,Majority of qs on survey not relevant if you are self employed,0,0,0,0,7.796880342783522,1000+
+642,22.0,Female,Netherlands,,No,No,No,Often,2512,No,Yes,No,No,No,No,,0,0,0,0,7.829232537543592,1000+
+643,39.0,M,United States,FL,No,No,No,Rarely,806,Yes,No,Don't know,No,Yes,Yes,I mostly suffer from social anxiety which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something so he's doing the job of at least two ppl (poorly) and working crazy hours setting the tone for the test of us that work/life balance isn't important.,0,0,1,0,6.693323668269949,501-1000
+644,29.0,Male,United Kingdom,,No,Yes,Yes,Never,3323,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.10892415597534,1000+
+645,54.0,male,United Kingdom,,Yes,Yes,Yes,Sometimes,932,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,6.838405200847344,501-1000
+646,34.0,Female,Australia,,No,Yes,No,Never,4122,No,No,Don't know,No,Yes,Yes,I don't have any mental health issues but for a number of years I had to care for a family member who did and I felt that I was not able to discuss or get support from friends or colleagues in the same way that I might have if they had suffered from a physical condition.,0,0,0,0,8.3243363327069,1000+
+647,32.0,M,United States,WA,No,No,Yes,Never,4496,No,No,Yes,Not sure,Yes,Yes,,0,0,1,0,8.411165786770708,1000+
+648,25.0,Male,Nigeria,,No,No,No,No mental health condition,1487,No,Yes,No,No,No,No,,0,0,0,1,7.305188215393037,1000+
+649,29.0,male,Poland,,No,No,No,Rarely,176,No,Yes,No,No,No,No,,0,0,0,0,5.176149732573829,101-500
+650,32.0,male,Germany,,Yes,No,No,Never,3190,Yes,Yes,No,No,No,No,,0,0,0,0,8.068089626278244,1000+
+651,30.0,M,United Kingdom,,No,Yes,Yes,Sometimes,928,No,Yes,Yes,Yes,No,Don't know,,0,0,0,0,6.834108738813838,501-1000
+652,31.0,male,Germany,,No,No,No,No mental health condition,918,No,Yes,Don't know,No,No,Don't know,,0,0,0,0,6.823286122355687,501-1000
+653,20.0,F,Switzerland,,No,No,No,Rarely,4137,No,Yes,Yes,Yes,Yes,Yes,,0,0,0,0,8.327967858305488,1000+
+654,27.0,Male,United Kingdom,,No,No,No,Never,3471,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,8.15248607578024,1000+
+655,32.0,Male,United States,CA,No,No,No,Never,1066,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,6.9726062513017535,1000+
+656,26.0,Male,Ireland,,Yes,No,No,Never,1739,Yes,Yes,No,No,No,No,,0,0,0,1,7.461640392208575,1000+
+657,30.0,Male,Italy,,No,No,No,Sometimes,751,No,No,Don't know,No,No,No,,0,0,0,1,6.62273632394984,501-1000
+658,30.0,Male,Ireland,,No,No,Yes,Sometimes,950,Yes,Yes,No,No,Don't know,No,,0,0,0,1,6.85751406254539,501-1000
+659,22.0,male,India,,Yes,No,No,No mental health condition,4619,Yes,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,8.438149984075784,1000+
+660,24.0,male,Ireland,,No,No,No,No mental health condition,2136,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.667158255319148,1000+
+661,26.0,m,Netherlands,,No,No,No,Never,4094,No,Yes,No,No,No,No,,0,0,0,0,8.31752199628717,1000+
+662,43.0,male,France,,No,No,No,No mental health condition,1410,No,Yes,Don't know,No,No,No,,0,0,0,0,7.252053951852814,1000+
+663,26.0,Male,Russia,,No,No,No,Never,3036,No,Yes,No,Not sure,No,Don't know,,0,0,0,1,8.01862546504575,1000+
+664,23.0,Male,United States,NC,No,Yes,No,Sometimes,1826,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.510430556378006,1000+
+665,26.0,Man,Canada,,No,No,No,No mental health condition,2870,Yes,Yes,Yes,Not sure,Don't know,Yes,,0,0,0,0,7.962415680121064,1000+
+666,26.0,female,Israel,,No,Yes,No,Never,3582,No,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,8.183955717304954,1000+
+667,35.0,Male,Canada,,No,Yes,No,Sometimes,1753,No,Yes,Don't know,No,No,No,,0,0,0,1,7.469654172932128,1000+
+668,28.0,Male,United States,IL,No,No,Yes,Sometimes,4056,Yes,No,Don't know,Not sure,No,Don't know,,0,0,1,1,8.308199063206446,1000+
+669,22.0,Male,India,,No,No,No,No mental health condition,2984,No,Yes,No,No,No,No,,0,0,0,1,8.001355025826703,1000+
+670,29.0,Female,United States,OH,No,Yes,Yes,Rarely,4080,No,Yes,Don't know,No,No,No,,0,0,1,0,8.314097335405807,1000+
+671,29.0,Male,Germany,,Yes,No,No,No mental health condition,2026,No,Yes,No,Yes,No,No,,0,0,0,1,7.614312146452,1000+
+672,45.0,Male,United States,VA,No,No,Yes,Often,601,Yes,Yes,Yes,Not sure,No,Yes,,0,0,1,1,6.400257445308821,501-1000
+673,33.0,male,Bulgaria,,No,No,Yes,Rarely,4326,Yes,Yes,No,No,No,No,,0,0,0,0,8.372629740224884,1000+
+674,38.0,Male,United States,MN,No,No,Yes,Sometimes,567,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,6.342121418721152,501-1000
+675,19.0,Trans woman,United States,MO,No,Yes,Yes,Often,4963,No,No,Don't know,Not sure,No,No,,0,0,1,0,8.509967146324497,1000+
+676,29.0,female,Canada,,No,No,Yes,Rarely,197,Yes,No,Yes,Yes,Yes,Don't know,,0,0,0,0,5.288267030694535,101-500
+677,21.0,Female,United Kingdom,,No,No,No,No mental health condition,3015,No,Yes,No,No,No,No,,0,0,0,0,8.011686729127847,1000+
+678,23.0,Female,India,,No,Yes,Yes,Sometimes,2877,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,0,7.964850887447313,1000+
+679,33.0,female,United States,NC,No,Yes,Yes,Rarely,2245,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.716906135298388,1000+
+680,27.0,Male,United States,NY,No,Yes,Yes,Sometimes,2549,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,7.843848638152472,1000+
+681,28.0,Male,United States,NM,No,No,No,No mental health condition,4573,Yes,Yes,Don't know,No,No,No,,0,0,1,1,8.428143374582726,1000+
+682,27.0,f,United Kingdom,,No,No,Yes,Sometimes,1463,Yes,Yes,Don't know,Not sure,Yes,Don't know,,0,0,0,0,7.288927694521257,1000+
+683,23.0,male,Canada,,No,No,Yes,Sometimes,2811,No,Yes,Yes,No,No,No,,0,0,0,0,7.941651252930556,1000+
+684,29.0,M,Netherlands,,No,No,No,Never,4533,Yes,Yes,No,No,No,No,,0,0,0,0,8.419359831067474,1000+
+685,30.0,m,Germany,,No,No,No,No mental health condition,1472,No,Yes,Don't know,No,No,Don't know,,0,0,0,0,7.29505641646263,1000+
+686,28.0,Female,Canada,,No,No,No,No mental health condition,1809,No,Yes,Yes,Not sure,Don't know,Don't know,I am a contractor so my lack of knowledge of workplace wellness stems directly from my lack of access to that material since I am not covered by it. I am aware that mental health services are available and am aware of a colleague who has taken a leave of absence to deal with mental health issues but am otherwise uninformed.,0,0,0,0,7.501082124259871,1000+
+687,32.0,Male,United Kingdom,,No,No,No,No mental health condition,1893,No,Yes,No,No,No,No,,0,0,0,1,7.546446273746024,1000+
+688,32.0,Male,United Kingdom,,No,No,Yes,Sometimes,4762,No,No,Yes,Yes,No,No,,0,0,0,1,8.46863300080086,1000+
+689,37.0,Male,France,,No,No,No,No mental health condition,3613,No,Yes,No,No,No,No,,0,0,0,1,8.192570471152173,1000+
+690,39.0,F,United States,TX,No,No,No,No mental health condition,1942,Yes,No,No,Yes,No,No,,0,0,1,0,7.57198844937744,1000+
+691,31.0,male,France,,No,No,No,No mental health condition,2267,No,Yes,Don't know,No,No,Don't know,,0,0,0,0,7.7266536648476425,1000+
+692,29.0,Male,United States,SC,No,No,No,No mental health condition,1520,No,Yes,No,No,No,Don't know,,0,0,1,1,7.327123292259293,1000+
+693,30.0,M,United States,FL,No,No,No,No mental health condition,2821,No,No,Yes,No,No,Don't know,,0,0,1,0,7.945201132412759,1000+
+694,33.0,M,United States,WA,Yes,Yes,Yes,Rarely,2603,Yes,Yes,No,Yes,Yes,Yes,,0,0,1,0,7.86480400332846,1000+
+695,37.0,male,United States,CA,No,Yes,Yes,Sometimes,1062,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,6.968850378341948,1000+
+696,23.0,Male,United States,OH,No,No,Yes,Often,4090,No,No,Yes,Yes,Yes,No,,0,0,1,1,8.316544717929398,1000+
+697,43.0,M,United States,TN,No,Yes,Yes,Sometimes,2446,No,No,Yes,Not sure,No,Yes,,0,0,1,0,7.802618063442671,1000+
+698,32.0,Male,United Kingdom,,No,No,Yes,Rarely,1947,No,Yes,Don't know,No,No,No,,0,0,0,1,7.5745584842024805,1000+
+699,26.0,Male,United States,NY,No,No,No,Never,2581,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,7.856319571406588,1000+
+700,32.0,Male,United States,NY,Yes,No,Yes,Sometimes,3380,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.125926802707886,1000+
+701,37.0,F,United States,MO,No,No,No,No mental health condition,2323,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,7.751045117971802,1000+
+702,29.0,Male,United States,NY,No,No,Yes,Often,3190,No,Yes,Yes,Yes,No,No,,0,0,1,1,8.068089626278244,1000+
+703,34.0,Male,United Kingdom,,No,No,No,No mental health condition,1083,No,Yes,No,No,No,No,,0,0,0,1,6.988413181999592,1000+
+704,27.0,male,France,,No,No,No,No mental health condition,1694,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,7.43543801981455,1000+
+705,30.0,male,United States,TN,No,Yes,No,Never,621,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,6.432940092739179,501-1000
+706,34.0,Male,United States,CO,No,No,No,Never,3957,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,8.28349412616251,1000+
+707,32.0,Male,United States,PA,Yes,Yes,Yes,Sometimes,2192,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,7.693025748417888,1000+
+708,26.0,male,United Kingdom,,No,No,Yes,Sometimes,3112,No,No,No,No,No,No,,0,0,0,0,8.043342170441608,1000+
+709,25.0,Male,Germany,,No,No,No,No mental health condition,4166,No,Yes,Yes,Yes,Don't know,Yes,,0,0,0,1,8.334951631422454,1000+
+710,37.0,male,United States,NY,Yes,No,No,No mental health condition,2346,Yes,Yes,Yes,Yes,Yes,No,,0,0,1,0,7.760893195851024,1000+
+711,29.0,Male,Netherlands,,No,Yes,No,No mental health condition,1550,No,Yes,No,No,No,No,,0,0,0,1,7.346655163176539,1000+
+712,27.0,Man,United States,MN,No,No,No,No mental health condition,1514,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,0,7.323170717943469,1000+
+713,33.0,Male,United Kingdom,,No,No,No,No mental health condition,1391,No,Yes,Don't know,No,No,No,,0,0,0,1,7.238496840894365,1000+
+714,30.0,male,Canada,,No,Yes,Yes,Sometimes,4968,No,No,Don't know,No,No,No,,0,0,0,0,8.51097389160232,1000+
+715,29.0,male,Canada,,No,No,No,No mental health condition,542,Yes,Yes,No,Yes,No,No,,0,0,0,0,6.297109319933935,501-1000
+716,25.0,Male,United States,MO,No,Yes,Yes,Never,3096,Yes,Yes,Don't know,No,Yes,Don't know,,0,0,1,1,8.038189179973203,1000+
+717,33.0,Male,United States,WY,No,Yes,Yes,Sometimes,4553,No,No,No,Yes,No,No,,0,0,1,1,8.423761246623686,1000+
+718,31.0,Male,South Africa,,No,No,No,Never,2573,Yes,Yes,No,No,No,No,Fully remote developer,0,0,0,1,7.853216388156072,1000+
+719,21.0,male,Germany,,No,No,No,Rarely,3293,Yes,Yes,Don't know,No,No,No,,0,0,0,0,8.099857910737585,1000+
+720,30.0,Male,Switzerland,,No,Yes,Yes,Sometimes,3625,No,Yes,Don't know,No,No,No,,0,0,0,1,8.195885391314796,1000+
+721,29.0,Male,United States,MN,No,No,No,No mental health condition,3704,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.217438537730187,1000+
+722,43.0,Male,Croatia,,Yes,No,Yes,Sometimes,433,Yes,Yes,No,No,No,No,,0,0,0,1,6.073044534100405,101-500
+723,37.0,m,United Kingdom,,No,No,Yes,Often,2950,No,Yes,No,No,No,No,,0,0,0,0,7.989899374942939,1000+
+724,24.0,Male,France,,No,No,No,No mental health condition,586,No,Yes,No,No,Yes,No,,0,0,0,1,6.375024819828097,501-1000
+725,29.0,Male,United States,MD,No,No,No,No mental health condition,628,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,1,6.444131256700441,501-1000
+726,31.0,Male,United States,KY,No,No,No,No mental health condition,4078,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,8.313607139317558,1000+
+727,30.94674262433552,Male,United States,OH,No,No,No,No mental health condition,1364,No,Yes,Don't know,Not sure,No,No,We had a developer suffer from depression and pretty hard burnout but he refused treatment even when the company said we'd foot the bill. Eventually he had to be asked to resign which was a shame. I don't know if we have any specific programs for mental health but we're definitely on the lookout for those types of issues.,0,0,1,1,7.21890970761906,1000+
+728,33.0,Male,United Kingdom,,Yes,No,No,Never,2797,No,No,No,Not sure,No,No,,0,0,0,1,7.936660155225426,1000+
+729,43.0,male,United States,NY,No,No,No,No mental health condition,4048,No,No,Yes,Yes,Don't know,Yes,,0,0,1,0,8.30622521603216,1000+
+730,33.0,Male,United Kingdom,,No,No,Yes,Sometimes,3454,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.14757773620177,1000+
+731,31.997891333094582,Male,United Kingdom,,No,No,No,No mental health condition,2692,No,Yes,No,No,No,Yes,,1,1,0,1,7.898411092811599,1000+
+732,36.0,Male,United States,TN,No,Yes,Yes,Sometimes,1145,Yes,No,Don't know,No,Don't know,Don't know,,0,0,1,1,7.044032897274685,1000+
+733,37.0,male,Australia,,No,Yes,Yes,Sometimes,716,No,Yes,No,Yes,No,No,,0,0,0,0,6.57507584059962,501-1000
+734,32.0,male,Belgium,,No,No,No,No mental health condition,3521,No,Yes,No,Yes,No,No,,0,0,0,0,8.166784289056151,1000+
+735,39.0,Male,United Kingdom,,No,No,Yes,Sometimes,4290,No,Yes,No,No,No,No,,0,0,0,1,8.364275084991524,1000+
+736,31.0,Male,United States,TX,No,Yes,Yes,Sometimes,2366,No,Yes,Yes,Yes,No,Don't know,,0,0,1,1,7.769378609513984,1000+
+737,36.0,Male,United States,OH,No,No,Yes,Sometimes,1723,Yes,Yes,Yes,Yes,No,No,I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture. ,0,0,1,1,7.452402451223638,1000+
+738,30.0,Male,United States,TX,Yes,No,Yes,Sometimes,2675,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.892078421248119,1000+
+739,28.0,male,Canada,,No,No,No,No mental health condition,3861,No,Yes,Yes,Not sure,No,Don't know,,0,0,0,0,8.258940462988459,1000+
+740,32.0,Male,Italy,,No,No,No,No mental health condition,4836,No,Yes,No,No,No,No,Italians are somewhat behind for what concerns mental health care in the workplace.  Physical health care is very much accepted with a doctor that certifies your ailment.  Mental health is treated quite differently I believe because most people are willing to admit that physical ailments should be covered while mental ailments are almost considered non-existent in most respects.  ,0,0,0,1,8.484049972822984,1000+
+741,35.0,Male,United States,CA,No,Yes,Yes,Rarely,4340,No,Yes,Yes,Yes,Yes,Yes,Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this.,0,0,1,1,8.375860015299594,1000+
+742,19.0,Male,Canada,,No,No,Yes,Sometimes,3350,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.11701408773731,1000+
+743,33.0,m,Norway,,No,Yes,No,No mental health condition,1950,No,Yes,Yes,Yes,No,No,,0,0,0,0,7.576097340623111,1000+
+744,42.0,male,Germany,,No,No,No,No mental health condition,109,Yes,Yes,Don't know,Not sure,Yes,Yes,,0,0,0,0,4.700480365792417,101-500
+745,37.0,Male,United States,MI,No,Yes,Yes,Sometimes,1251,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.132497551660044,1000+
+746,40.0,Male,Thailand,,Yes,No,No,Never,3287,No,Yes,No,No,No,No,,0,0,0,1,8.098034756176071,1000+
+747,36.0,M,United States,CA,No,No,No,Never,2901,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.973155433444133,1000+
+748,29.0,Female,United States,OR,No,Yes,Yes,Sometimes,4555,Yes,No,Don't know,No,No,Don't know,,0,0,1,0,8.424200324567073,1000+
+749,38.0,f,United States,NC,No,Yes,Yes,Sometimes,3238,No,No,Yes,Not sure,No,Don't know,I work for the state so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department but hardly run like any tech company around.,0,0,1,0,8.08301991917133,1000+
+750,26.0,M,United States,CA,No,Yes,Yes,Sometimes,4510,No,Yes,Yes,No,Yes,Don't know,,0,0,1,0,8.414274137408396,1000+
+751,34.0,male,Germany,,No,No,No,Rarely,4003,No,Yes,No,No,No,No,,0,0,0,0,8.295049140435111,1000+
+752,21.0,Male,United States,IL,No,No,Yes,Often,3013,No,No,No,Yes,No,No,I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating.,0,0,1,1,8.01102337918644,1000+
+753,31.0,Male,Canada,,Yes,Yes,No,Sometimes,2349,Yes,Yes,No,Yes,No,No,I feel like most of my answers were useless due to answering that I am self-employed early on. Since my employer is me... my employer does/doesn't offer mental health benefits or would I be comfortable bring it up with 'them' doesn't make sense...,0,0,0,1,7.762170607138205,1000+
+754,37.0,Female,United States,CA,No,Yes,Yes,Rarely,290,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,5.673323267171493,101-500
+755,37.0,Male,Ireland,,No,Yes,Yes,Sometimes,1996,No,Yes,No,No,No,No,,0,0,0,1,7.599401333415815,1000+
+756,38.0,Male,Ireland,,No,Yes,Yes,Sometimes,2883,No,Yes,No,No,No,No,,0,0,0,1,7.96693349840484,1000+
+757,27.0,Female,United States,CA,No,No,Yes,Sometimes,1149,No,Yes,Don't know,Not sure,Yes,Don't know,,0,0,1,0,7.047517221357296,1000+
+758,39.0,Male,Netherlands,,Yes,No,No,No mental health condition,2592,No,Yes,No,No,Yes,No,,0,0,0,1,7.860570785538664,1000+
+759,33.0,Female,United States,AZ,Yes,Yes,Yes,Sometimes,1749,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.4673710669175595,1000+
+760,27.0,Male,United Kingdom,,No,No,No,Never,580,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,1,6.364750756851911,501-1000
+761,36.0,F,United States,CA,No,No,Yes,Never,4322,Yes,Yes,Yes,No,No,No,,0,0,1,0,8.371704884667631,1000+
+762,28.0,Male,United Kingdom,,No,No,No,Never,4036,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.30325712085294,1000+
+763,39.0,male,United Kingdom,,No,No,Yes,Sometimes,1686,No,No,Don't know,No,No,No,,0,0,0,0,7.430707082545968,1000+
+764,33.0,Male,United States,VA,Yes,Yes,Yes,Sometimes,4095,Yes,Yes,No,Yes,No,No,My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company. ,0,0,1,1,8.317766166719343,1000+
+765,32.0,Male,United Kingdom,,No,No,No,No mental health condition,1104,No,No,Don't know,Not sure,No,Don't know,,0,0,0,1,7.007600613951853,1000+
+766,28.0,Male,United Kingdom,,No,No,No,No mental health condition,4003,No,No,Don't know,Not sure,No,Don't know,,0,0,0,1,8.295049140435111,1000+
+767,37.0,Male,United Kingdom,,No,Yes,Yes,Rarely,836,No,Yes,No,No,No,No,Some of these questions are not really suitable for non US people.,0,0,0,1,6.729824070489475,501-1000
+768,39.0,Male,Canada,,No,No,Yes,Sometimes,3689,No,No,Yes,Yes,Yes,Yes,,0,0,0,1,8.213381737034572,1000+
+769,43.0,msle,United States,VA,No,No,No,Sometimes,4838,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.48446336679332,1000+
+770,32.0,Neuter,United Kingdom,,No,No,Yes,Sometimes,2089,No,No,Don't know,No,Yes,Yes,,0,0,0,0,7.644919344958857,1000+
+771,27.0,Female,United States,WA,No,No,No,No mental health condition,4480,No,Yes,Don't know,Not sure,No,Yes,,0,0,1,0,8.407601514786142,1000+
+772,31.0,Female,United Kingdom,,No,No,No,No mental health condition,3761,No,Yes,Don't know,No,No,No,,0,0,0,0,8.232706009860976,1000+
+773,30.75628163525925,Male,United Kingdom,,No,No,Yes,Never,3926,No,Yes,Don't know,No,No,Don't know,,1,1,0,1,8.27563105457801,1000+
+774,33.0,Male,United States,WI,No,No,Yes,Sometimes,667,Yes,Yes,No,Yes,No,No,,0,0,1,1,6.504288173536645,501-1000
+775,34.0,male,United Kingdom,,No,Yes,Yes,Sometimes,4877,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,8.492490578775866,1000+
+776,33.0,M,United States,CA,Yes,No,No,No mental health condition,3950,No,Yes,Don't know,No,No,No,,0,0,1,0,8.281723990411392,1000+
+777,25.0,Male,United States,CA,No,No,No,No mental health condition,1276,No,Yes,Don't know,No,No,No,,0,0,1,1,7.152268856032539,1000+
+778,25.0,Male,United States,NE,No,Yes,Yes,Sometimes,1095,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,6.999422467507961,1000+
+779,32.0,Male,United Kingdom,,Yes,Yes,No,No mental health condition,1245,No,Yes,No,Yes,No,No,,0,0,0,1,7.1276936993473985,1000+
+780,25.0,Male,United States,CO,No,Yes,Yes,Sometimes,2402,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,7.784473235736469,1000+
+781,37.0,Male,Netherlands,,No,No,No,No mental health condition,587,Yes,No,Don't know,No,Don't know,Don't know,,0,0,0,1,6.376726947898627,501-1000
+782,39.0,m,Switzerland,,No,No,Yes,Never,2541,No,Yes,Yes,Yes,Yes,Yes,,0,0,0,0,7.8407064517494,1000+
+783,29.0,M,United Kingdom,,No,No,No,Rarely,3156,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,8.057377488557991,1000+
+784,33.0,Male,United States,NY,No,No,Yes,Sometimes,1531,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,7.3343293503005365,1000+
+785,37.0,female,United States,TX,No,No,Yes,Often,2580,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,0,7.855932199718614,1000+
+786,35.0,Female,United States,LA,No,No,Yes,Sometimes,2805,No,No,Yes,No,No,No,I work for the state government. While things are slowly changing regarding covering mental health with state employees it's just not something that is acceptable in this kind of strict environment so I have to be careful about what I say and how I say it. I often take mental health days but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave.,0,0,1,0,7.939515260662406,1000+
+787,22.0,Female,United States,WA,No,Yes,Yes,Sometimes,2919,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.979338895262328,1000+
+788,38.0,Male,United States,MI,No,No,No,Never,1990,No,Yes,Yes,Yes,No,No,,0,0,1,1,7.596392304064196,1000+
+789,32.0,Female,United States,CA,No,Yes,Yes,Often,4245,No,Yes,Yes,No,No,Don't know,,0,0,1,0,8.353732642263202,1000+
+790,28.0,Male,Brazil,,No,No,No,No mental health condition,4081,No,Yes,Don't know,No,No,No,,0,0,0,1,8.31434234336979,1000+
+791,27.0,Male,Switzerland,,No,Yes,No,No mental health condition,1410,No,Yes,No,No,No,No,Thank you for your work what you do is important!,0,0,0,1,7.252053951852814,1000+
+792,35.0,female,United States,CA,No,No,Yes,Sometimes,2936,Yes,Yes,Don't know,No,Don't know,Don't know,It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it.,0,0,1,0,7.98514393119862,1000+
+793,29.0,Male,United States,MD,No,No,No,Never,3858,No,No,Yes,Yes,Yes,No,,0,0,1,1,8.258163361537619,1000+
+794,23.0,Male,United States,CA,No,Yes,Yes,Sometimes,3593,No,Yes,No,Yes,No,No,,0,0,1,1,8.187021067343505,1000+
+795,39.0,M,United States,CT,No,No,No,No mental health condition,2347,Yes,Yes,Yes,No,No,No,,0,0,1,0,7.761319180947987,1000+
+796,30.0,Female,United States,CA,No,No,No,No mental health condition,808,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.695798917058491,501-1000
+797,32.0,M,United Kingdom,,No,No,No,No mental health condition,829,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,0,6.721425700790643,501-1000
+798,28.0,Female (trans),United States,CA,No,No,Yes,Sometimes,4200,No,Yes,No,Yes,No,No,,0,0,1,0,8.343077871169383,1000+
+799,40.0,female,United States,WA,No,Yes,Yes,Sometimes,2606,No,No,Yes,Yes,Yes,Yes,I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me!,0,0,1,0,7.865955413933502,1000+
+800,36.0,f,United States,CA,No,Yes,No,No mental health condition,2489,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,7.820037989458753,1000+
+801,27.0,Male,United States,IN,No,No,No,No mental health condition,4638,Yes,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,8.442254104751743,1000+
+802,41.0,Male,United States,TX,No,Yes,No,Sometimes,3536,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,8.17103418920548,1000+
+803,29.0,Male,United Kingdom,,No,No,No,Never,2517,No,Yes,Don't know,No,No,No,,0,0,0,1,7.831220214604293,1000+
+804,29.0,m,United Kingdom,,No,No,Yes,Sometimes,917,No,Yes,No,No,No,No,,0,0,0,0,6.822197390620491,501-1000
+805,35.0,Male,United States,MO,No,No,Yes,Often,4446,No,No,No,No,No,No,,0,0,1,1,8.399984990510696,1000+
+806,28.0,Male,United States,NV,No,No,Yes,Never,2473,Yes,Yes,No,Yes,No,No,,0,0,1,1,7.813591552952433,1000+
+807,36.0,F,United Kingdom,,Yes,No,No,Sometimes,738,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,6.6052979209482015,501-1000
+808,39.0,Female,United States,WA,No,No,No,Sometimes,671,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,6.51025834052315,501-1000
+809,39.0,Male,United States,FL,No,Yes,Yes,Sometimes,2688,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.896924656268864,1000+
+810,26.0,queer,Germany,,Yes,No,Yes,Sometimes,130,Yes,Yes,No,Not sure,Yes,Yes,,0,0,0,0,4.875197323201151,101-500
+811,35.0,Male,Denmark,,Yes,Yes,Yes,Often,171,No,Yes,No,Yes,Yes,No,,0,0,0,1,5.147494476813453,101-500
+812,40.0,Female,United States,WA,No,Yes,Yes,Sometimes,3277,No,No,Yes,Not sure,Yes,Don't know,,0,0,1,0,8.094988759303774,1000+
+813,35.0,Male,Denmark,,Yes,Yes,Yes,Often,146,No,Yes,No,Yes,Yes,No,,0,0,0,1,4.990432586778736,101-500
+814,38.0,M,United States,IL,No,No,No,Never,1793,Yes,Yes,No,Yes,No,No,,0,0,1,0,7.492203042618741,1000+
+815,34.0,Male,United States,FL,No,No,No,No mental health condition,1422,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.260522598089852,1000+
+816,43.0,M,United States,MA,No,No,No,No mental health condition,2849,No,Yes,Yes,No,Yes,Yes,,0,0,1,0,7.955074273262696,1000+
+817,48.0,Female (cis),United States,CA,No,Yes,No,Often,3005,No,Yes,Don't know,No,No,No,None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health.,0,0,1,0,8.00836557031292,1000+
+818,20.0,Male,United States,WA,No,No,No,Never,435,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,6.077642243349034,101-500
+819,40.0,M,United States,MI,Yes,No,No,Sometimes,4453,Yes,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.401557847817314,1000+
+820,29.0,female,United Kingdom,,No,No,Yes,Rarely,2504,No,Yes,Don't know,No,No,No,,0,0,0,0,7.826044013518965,1000+
+821,35.0,Male,United States,MI,No,Yes,Yes,Sometimes,3400,No,No,No,Yes,No,No,,0,0,1,1,8.131824785007195,1000+
+822,29.0,Male,United States,WI,No,Yes,No,Sometimes,3804,Yes,No,Yes,Yes,No,Yes,,0,0,1,1,8.244071270295786,1000+
+823,40.0,M,United States,CA,No,No,No,Never,3030,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,0,8.016647877057803,1000+
+824,29.0,Male,Sweden,,No,No,Yes,Rarely,3379,No,Yes,No,Yes,No,No,,0,0,0,1,8.125630988477065,1000+
+825,29.0,F,United States,CA,No,Yes,Yes,Rarely,4682,No,Yes,Yes,Not sure,Don't know,No,,0,0,1,0,8.451694209183541,1000+
+826,34.0,male,United States,TX,No,No,Yes,Sometimes,1739,No,Yes,No,No,No,No,,0,0,1,0,7.461640392208575,1000+
+827,44.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,524,No,No,Don't know,No,No,No,,0,0,0,1,6.263398262591624,501-1000
+828,24.0,female,United States,NY,No,Yes,Yes,Often,2778,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.929846429742503,1000+
+829,47.0,F,United States,PA,No,No,No,No mental health condition,3628,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.19671240721307,1000+
+830,43.0,m,United Kingdom,,No,Yes,No,No mental health condition,2315,No,No,Don't know,No,No,No,,0,0,0,0,7.7475968386928855,1000+
+831,36.0,M,United States,PA,No,No,No,Rarely,4768,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.469891918298224,1000+
+832,43.0,male,United States,GA,No,No,Yes,Sometimes,2437,No,No,Don't know,No,No,Don't know,,0,0,1,0,7.798933310041217,1000+
+833,36.0,male,United Kingdom,,Yes,No,No,Sometimes,2724,Yes,Yes,No,No,No,No,,0,0,0,0,7.9102237070973445,1000+
+834,31.0,Female,United States,NY,No,Yes,Yes,Sometimes,597,No,Yes,Yes,Yes,No,No,I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. ,0,0,1,0,6.393590753950631,501-1000
+835,35.0,Male,United States,CA,No,No,No,Sometimes,1577,No,Yes,Don't know,Not sure,Yes,Don't know,,0,0,1,1,7.363913501405819,1000+
+836,33.0,male,United States,TN,No,Yes,No,No mental health condition,4152,No,No,Yes,No,No,No,,0,0,1,0,8.331586243630754,1000+
+837,37.0,Male,Italy,,No,No,No,Sometimes,3768,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.234564993267135,1000+
+838,34.0,M,United States,TN,No,No,Yes,Sometimes,2025,No,Yes,Don't know,No,Yes,Don't know,At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(,0,0,1,0,7.613818684808629,1000+
+839,36.0,Male,Netherlands,,Yes,No,Yes,Sometimes,123,No,Yes,No,No,No,No,,0,0,0,1,4.820281565605037,101-500
+840,40.0,m,United States,TN,Yes,Yes,Yes,Sometimes,4598,Yes,Yes,No,Yes,No,No,,0,0,1,0,8.433594167539924,1000+
+841,40.0,M,United States,IL,No,No,No,Rarely,414,No,Yes,Yes,Yes,Yes,Yes,While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey.,0,0,1,0,6.028278520230698,101-500
+842,42.0,Male,United States,WI,No,No,Yes,Sometimes,4026,Yes,Yes,No,Yes,No,No,,0,0,1,1,8.300776960851454,1000+
+843,23.0,M,United States,KY,No,Yes,No,No mental health condition,2512,Yes,Yes,Yes,Yes,No,Don't know,,0,0,1,0,7.829232537543592,1000+
+844,21.0,Male,United Kingdom,,No,Yes,No,Never,3090,No,No,No,No,No,No,,0,0,0,1,8.036249942132116,1000+
+845,26.0,Male,Canada,,No,No,No,Sometimes,2787,Yes,Yes,No,No,No,No,,0,0,0,1,7.933079771880415,1000+
+846,25.0,M,United States,CA,No,Yes,No,No mental health condition,2146,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,7.671826797878781,1000+
+847,51.0,Male,United States,MN,No,No,No,Never,3461,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.149601735736155,1000+
+848,24.0,Male,United States,TN,No,No,No,No mental health condition,4458,No,Yes,Don't know,Not sure,Don't know,No,,0,0,1,1,8.402679804627477,1000+
+849,33.0,Male,United States,MN,No,No,No,No mental health condition,226,No,Yes,No,No,No,No,The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health.,0,0,1,1,5.424950017481403,101-500
+850,32.0,male,United Kingdom,,No,Yes,Yes,Rarely,3706,No,No,No,No,No,No,,0,0,0,0,8.217978203150732,1000+
+851,32.0,male,United Kingdom,,No,Yes,Yes,Rarely,3100,No,No,No,No,No,No,,0,0,0,0,8.03947991910045,1000+
+852,26.0,Male,United Kingdom,,Yes,No,Yes,Rarely,2815,Yes,Yes,No,Not sure,Don't know,Don't know,,0,0,0,1,7.943072717277933,1000+
+853,23.0,M,United States,IL,No,No,No,Never,559,No,No,Don't know,No,Don't know,Don't know,,0,0,1,0,6.327936783729195,501-1000
+854,33.0,Male,United States,TN,No,Yes,Yes,Often,4018,Yes,Yes,No,Yes,No,No,,0,0,1,1,8.2987883944492,1000+
+855,46.0,Male,United States,IL,No,No,Yes,Rarely,615,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,6.423246963533519,501-1000
+856,34.0,male,United Kingdom,,No,No,No,No mental health condition,3471,Yes,Yes,No,No,No,No,,0,0,0,0,8.15248607578024,1000+
+857,35.0,M,United States,DC,No,Yes,Yes,Sometimes,1905,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.552762084214147,1000+
+858,39.0,M,United States,KS,No,No,No,No mental health condition,289,Yes,Yes,No,Yes,No,No,Thank you for all you are doing to study this topic and raise awareness in our communities. ,0,0,1,0,5.66988092298052,101-500
+859,32.0,male,Germany,,Yes,No,No,Sometimes,2392,Yes,Yes,No,Yes,No,No,,0,0,0,0,7.780303087908373,1000+
+860,43.0,Male,Mexico,,Yes,No,No,No mental health condition,2642,Yes,Yes,Don't know,No,No,Don't know,,0,0,0,1,7.879669914604289,1000+
+861,56.0,m,United States,CA,No,No,Yes,Rarely,4042,Yes,Yes,Yes,Yes,Don't know,Yes,,0,0,1,0,8.304742269640771,1000+
+862,32.0,Female,United Kingdom,,No,Yes,Yes,Sometimes,296,No,Yes,Don't know,No,No,No,,0,0,0,0,5.6937321388027,101-500
+863,41.0,male,United Kingdom,,No,No,No,No mental health condition,1704,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,7.4413203897176174,1000+
+864,39.0,Male,United States,TN,No,No,No,No mental health condition,1500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.313886831633462,1000+
+865,37.0,Male,United States,OK,No,Yes,No,No mental health condition,2545,No,No,Yes,Yes,No,No,,0,0,1,1,7.842278779117352,1000+
+866,30.0,m,United States,CA,Yes,Yes,Yes,Sometimes,636,Yes,Yes,Don't know,Not sure,No,Don't know,The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.),0,0,1,0,6.456769655572163,501-1000
+867,31.0,Male,United States,TN,No,No,No,No mental health condition,1802,No,Yes,Yes,No,Yes,No,,0,0,1,1,7.497207223203318,1000+
+868,29.0,M,United States,TX,No,No,No,No mental health condition,566,No,No,Don't know,Not sure,No,Don't know,,0,0,1,0,6.340359303727752,501-1000
+869,23.0,Female,United Kingdom,,No,Yes,No,Never,1220,No,No,No,No,No,Yes,,0,0,0,0,7.107425474110705,1000+
+870,31.0,male,United States,CO,No,No,Yes,Never,1125,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,7.026426808699636,1000+
+871,29.0,Male,United States,TN,No,Yes,Yes,Sometimes,1680,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.427144133408616,1000+
+872,30.0,Mail,United States,GA,No,No,No,Never,1122,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,7.023758954738443,1000+
+873,37.0,Male,United States,TN,No,No,No,Never,2788,Yes,Yes,Yes,No,Yes,Don't know,(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence),0,0,1,1,7.933438387627489,1000+
+874,36.0,male,United States,VA,Yes,No,No,Never,1986,No,Yes,Yes,No,No,Don't know,,0,0,1,0,7.594381242551817,1000+
+875,35.0,Male,United States,TN,No,Yes,Yes,Sometimes,2072,Yes,Yes,Yes,Yes,No,Don't know,,0,0,1,1,7.636752112435779,1000+
+876,41.0,M,United States,DC,No,Yes,No,Never,509,Yes,No,Don't know,No,No,No,,0,0,1,0,6.234410725718371,501-1000
+877,31.0,Male,United Kingdom,,No,No,Yes,Rarely,1592,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,7.373374309910049,1000+
+878,38.0,m,United Kingdom,,No,Yes,No,No mental health condition,2458,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,7.807510042216193,1000+
+879,26.0,Male,India,,Yes,No,No,No mental health condition,3552,No,Yes,No,No,No,No,,0,0,0,1,8.175547596021026,1000+
+880,39.0,Male,United States,TN,No,Yes,No,Sometimes,1737,No,Yes,Yes,No,Yes,Yes,I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated.,0,0,1,1,7.460490305825338,1000+
+881,42.0,male,United States,VA,Yes,Yes,No,Sometimes,2668,Yes,No,Yes,Not sure,Don't know,Yes,,0,0,1,0,7.889459149404524,1000+
+882,32.0,Male,United States,TN,Yes,Yes,Yes,Rarely,4895,Yes,Yes,No,Yes,No,No,,0,0,1,1,8.496173824192162,1000+
+883,29.0,m,United States,TN,No,Yes,No,No mental health condition,3125,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,8.047509510981422,1000+
+884,30.0,Male,United States,TN,No,Yes,No,Never,1135,No,Yes,Yes,No,Don't know,Yes,,0,0,1,1,7.035268599281097,1000+
+885,40.0,M,United States,TN,No,Yes,Yes,Often,185,Yes,Yes,Don't know,Not sure,No,Don't know,Bipolar spectrum is tricky.,0,0,1,0,5.225746673713202,101-500
+886,51.0,m,United States,TN,No,No,No,No mental health condition,1581,No,No,Don't know,Not sure,No,Don't know,,0,0,1,0,7.366445148327599,1000+
+887,33.0,Male,United States,IN,No,No,No,Never,4536,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.420021279663963,1000+
+888,34.0,male,Germany,,Yes,No,Yes,Sometimes,2115,Yes,Yes,No,Not sure,No,No,To be self employed helps but also brings you in touch with lots of new people that you might have to explain yourself to.,0,0,0,0,7.65728279297819,1000+
+889,50.0,Male,United States,VA,Yes,No,No,Never,863,Yes,Yes,No,Yes,No,No,A lot of these answers aren't really applicable since I'm self employed as a sole proprietor.,0,0,1,1,6.761572768804055,501-1000
+890,24.0,Male,United States,TX,No,No,No,Sometimes,1048,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,1,6.955592608396297,1000+
+891,25.0,Male,United States,TX,No,Yes,Yes,Rarely,2887,No,No,No,No,No,No,,0,0,1,1,7.968319500012717,1000+
+892,43.0,Male,United Kingdom,,No,Yes,Yes,Rarely,1036,No,Yes,No,No,No,No,,0,0,0,1,6.9440872082295275,1000+
+893,25.0,f,United States,CA,Yes,No,Yes,Often,285,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,5.655991810819852,101-500
+894,24.0,Male,United Kingdom,,Yes,No,No,No mental health condition,2510,Yes,Yes,No,Yes,No,No,,0,0,0,1,7.828436359157585,1000+
+895,51.0,m,United States,CO,Yes,No,No,Never,1530,No,Yes,No,Yes,No,No,,0,0,1,0,7.333676395657684,1000+
+896,49.0,Male,United States,OR,No,Yes,Yes,Sometimes,1113,No,Yes,Yes,Yes,No,Yes,,0,0,1,1,7.01571242048723,1000+
+897,30.0,Male,United States,OK,No,No,No,No mental health condition,1355,Yes,Yes,Yes,No,Yes,Yes,,0,0,1,1,7.212294468500341,1000+
+898,25.0,female,United States,OH,No,Yes,Yes,Sometimes,2881,No,Yes,Yes,Yes,Yes,No,While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.),0,0,1,0,7.966239776559467,1000+
+899,36.0,Male,United States,TN,No,No,Yes,Rarely,965,Yes,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,6.873163834212518,501-1000
+900,48.0,Male,United States,VA,No,No,Yes,Never,1013,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,6.921658184151129,1000+
+901,48.0,male,Australia,,No,No,Yes,Sometimes,3155,No,Yes,No,No,No,No,,0,0,0,0,8.057060681965766,1000+
+902,53.0,Male,United States,OR,No,No,Yes,Rarely,474,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,1,6.163314804034641,101-500
+903,24.0,Female,United Kingdom,,No,Yes,Yes,Often,224,Yes,Yes,No,No,No,No,,0,0,0,0,5.41610040220442,101-500
+904,33.0,Male,United States,OR,No,Yes,Yes,Sometimes,3036,No,Yes,Don't know,Yes,No,Yes,,0,0,1,1,8.01862546504575,1000+
+905,25.0,Female,Canada,,No,Yes,Yes,Sometimes,1057,No,Yes,Yes,Yes,No,No,,0,0,0,0,6.964135612418245,1000+
+906,30.0,Male,United Kingdom,,No,No,Yes,Sometimes,268,No,Yes,No,No,No,No,,0,0,0,1,5.594711379601839,101-500
+907,30.0,Male,United States,PA,Yes,No,No,Never,4385,Yes,Yes,No,Yes,No,No,,0,0,1,1,8.386172928977834,1000+
+908,34.0,male,United Kingdom,,Yes,No,Yes,Sometimes,4885,Yes,Yes,No,No,No,No,,0,0,0,0,8.494129251817686,1000+
+909,31.0,Male,United States,SC,No,No,No,No mental health condition,4826,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.481980435660493,1000+
+910,22.0,F,United States,CA,No,Yes,Yes,Often,3944,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,8.280204233279974,1000+
+911,28.0,Male,United States,TN,No,Yes,No,Sometimes,4686,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,8.452547997922705,1000+
+912,35.0,Male,United States,UT,No,Yes,Yes,Rarely,4633,No,No,Yes,Yes,No,Yes,,0,0,1,1,8.441175704992322,1000+
+913,28.0,Male,United States,CA,No,Yes,Yes,Sometimes,3350,No,No,Yes,No,No,No,,0,0,1,1,8.11701408773731,1000+
+914,42.0,male,New Zealand,,No,No,Yes,Sometimes,1721,No,No,No,Yes,Don't know,No,,0,0,0,0,7.451241684987676,1000+
+915,33.0,Male,United States,MO,No,Yes,No,No mental health condition,4247,No,Yes,Yes,No,Don't know,Don't know,,0,0,1,1,8.354203562921775,1000+
+916,29.0,male,United States,CA,No,No,No,Sometimes,4640,No,Yes,Yes,No,Yes,No,,0,0,1,0,8.442685139241176,1000+
+917,29.0,Male,United States,NY,No,No,No,No mental health condition,2506,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.826842098158293,1000+
+918,25.0,Male,United States,TX,No,No,No,No mental health condition,1015,Yes,Yes,Yes,No,No,No,,0,0,1,1,6.923628628138427,1000+
+919,31.0,Male,United States,MO,No,Yes,No,Never,2581,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,7.856319571406588,1000+
+920,35.0,Female,United States,GA,No,Yes,Yes,Sometimes,3293,No,No,Yes,Not sure,Yes,Yes,* Small family business - YMMV.,0,0,1,0,8.099857910737585,1000+
+921,34.0,male,United States,TX,No,No,No,Often,1048,No,Yes,Don't know,No,No,Yes,* Small family business - YMMV.,0,0,1,0,6.955592608396297,1000+
+922,43.0,Cis Male,United States,WA,No,No,Yes,Sometimes,730,Yes,Yes,Yes,Yes,No,Yes,* Small family business - YMMV.,0,0,1,0,6.594413459749778,501-1000
+923,38.0,Male,United States,WA,No,Yes,Yes,Sometimes,2321,No,Yes,No,Not sure,No,No,* Small family business - YMMV.,0,0,1,1,7.7501841622578365,1000+
+924,26.0,Male,United States,WA,No,Yes,Yes,Sometimes,1413,No,Yes,Don't know,Not sure,No,Yes,* Small family business - YMMV.,0,0,1,1,7.254177846456518,1000+
+925,38.0,Male,United Kingdom,,Yes,Yes,Yes,Rarely,2634,Yes,No,No,No,No,No,,0,0,0,1,7.876638460975463,1000+
+926,42.0,Male,United States,TX,No,No,Yes,Often,2458,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,7.807510042216193,1000+
+927,33.0,Male,Netherlands,,No,Yes,Yes,No mental health condition,4488,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,8.409385238781931,1000+
+928,32.0,Male,United States,WA,No,No,Yes,Rarely,2256,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.721791776817535,1000+
+929,44.0,male,United States,WA,No,Yes,Yes,Sometimes,603,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.403574197934815,501-1000
+930,28.0,Male,United States,WA,No,Yes,Yes,Rarely,3828,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,8.250358951477294,1000+
+931,40.0,Male,United States,WA,No,Yes,Yes,Sometimes,1116,Yes,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.018401799069201,1000+
+932,31.0,F,United States,AZ,No,Yes,Yes,Sometimes,4733,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,8.46252579007393,1000+
+933,32.0,male,United States,WA,No,Yes,No,Sometimes,771,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.648984550024776,501-1000
+934,28.0,Male,United States,WA,No,Yes,Yes,Sometimes,4148,No,Yes,Don't know,No,Don't know,Don't know,,0,0,1,1,8.330622620332868,1000+
+935,39.0,Male,United States,AZ,No,Yes,Yes,Often,3234,No,Yes,Yes,Yes,No,No,,0,0,1,1,8.081784206935001,1000+
+936,45.0,Male,United States,NY,No,No,No,No mental health condition,2238,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,7.713784616598755,1000+
+937,43.0,Male,United States,WA,No,No,Yes,Rarely,3318,No,Yes,Yes,Yes,Yes,Yes,I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky.,0,0,1,1,8.107418811719974,1000+
+938,35.0,Male,United States,CA,No,No,Yes,Sometimes,2647,No,Yes,Yes,Yes,Don't know,Yes,,0,0,1,1,7.881559917056899,1000+
+939,40.0,Male,United States,WA,No,Yes,Yes,Sometimes,4555,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,1,8.424200324567073,1000+
+940,34.0,Male,Netherlands,,No,No,Yes,Rarely,254,No,Yes,No,Yes,No,No,,0,0,0,1,5.541263545158426,101-500
+941,24.0,Male,United Kingdom,,No,Yes,Yes,Often,4684,No,No,Don't know,Yes,No,No,,0,0,0,1,8.452121194672523,1000+
+942,61.0,male,South Africa,,Yes,No,Yes,Sometimes,3678,Yes,Yes,No,No,No,No,,0,0,0,0,8.210396255104774,1000+
+943,36.0,Female ,United States,WA,No,Yes,Yes,Rarely,2752,No,Yes,Don't know,No,No,Don't know,,0,0,1,0,7.920446505142607,1000+
+944,38.0,Male,United States,TN,No,No,No,No mental health condition,1459,No,Yes,No,No,No,No,Some of these should not be required.,0,0,1,1,7.286191714702382,1000+
+945,33.0,male,Germany,,No,Yes,Yes,Often,635,No,Yes,Don't know,Not sure,Yes,No,,0,0,0,0,6.455198563340122,501-1000
+946,30.0,male,United States,WA,No,Yes,No,Never,2324,No,No,Don't know,No,No,Don't know,,0,0,1,0,7.751475318021456,1000+
+947,34.0,male,Netherlands,,Yes,Yes,Yes,Rarely,3560,Yes,Yes,Yes,Yes,Yes,Yes,Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer.,0,0,0,0,8.177796683277778,1000+
+948,26.0,Male,United States,CA,No,No,Yes,Rarely,2916,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,1,7.978310969867722,1000+
+949,33.0,M,United Kingdom,,No,No,No,No mental health condition,3209,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,8.07402621612406,1000+
+950,32.0,Male,United Kingdom,,No,No,No,No mental health condition,1402,No,Yes,Don't know,No,No,No,,0,0,0,1,7.246368080102461,1000+
+951,25.0,male,Germany,,Yes,No,No,Sometimes,2017,Yes,Yes,No,Yes,No,No,,0,0,0,0,7.609862200913554,1000+
+952,35.0,male,Germany,,Yes,No,Yes,Sometimes,1919,Yes,No,Don't know,No,No,No,,0,0,0,0,7.560080465021827,1000+
+953,24.0,M,United Kingdom,,Yes,Yes,No,Often,4370,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,8.382747094863314,1000+
+954,55.0,male,United Kingdom,,No,No,Yes,Often,537,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,6.2878585601617845,501-1000
+955,33.0,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,4092,Yes,Yes,No,Yes,No,No,,0,0,0,1,8.317033476492403,1000+
+956,26.0,Female,United Kingdom,,Yes,Yes,Yes,Sometimes,3099,Yes,Yes,No,No,No,No,I am a Trans woman and suffer from depression relating to that. I'm a contractor so I've answered the questions as relating to my current contract.,0,0,0,0,8.039157390473237,1000+
+957,25.0,Male,United Kingdom,,No,No,No,Never,878,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,6.778784897685177,501-1000
+958,45.0,Male,United Kingdom,,No,Yes,No,Rarely,3480,No,No,Don't know,No,No,No,,0,0,0,1,8.15507488781144,1000+
+959,33.0,female,United Kingdom,,Yes,No,Yes,Sometimes,4717,Yes,Yes,No,Yes,Yes,Yes,,0,0,0,0,8.45914025996762,1000+
+960,43.0,Male,United States,MI,No,No,No,Sometimes,1485,Yes,Yes,No,Not sure,No,No,,0,0,1,1,7.303843225277705,1000+
+961,30.0,Male,United Kingdom,,Yes,No,Yes,Sometimes,3584,No,Yes,No,Yes,No,No,,0,0,0,1,8.184513753033722,1000+
+962,40.0,Male,United States,IN,No,Yes,Yes,Rarely,1209,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,1,7.098375638590786,1000+
+963,49.0,Male,United States,GA,No,Yes,No,Never,1928,No,Yes,Yes,Yes,Yes,Yes,Thank you for shining a light on this topic.,0,0,1,1,7.564757012905729,1000+
+964,29.0,Male,Germany,,No,No,No,No mental health condition,3097,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.038512020976814,1000+
+965,26.0,male,Germany,,No,No,No,No mental health condition,458,No,Yes,Don't know,No,Don't know,Don't know,,0,0,0,0,6.129050210060545,101-500
+966,38.0,cis male,United States,WA,No,No,No,Never,988,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.8966943316227125,501-1000
+967,27.0,Male,France,,No,Yes,No,No mental health condition,4570,No,No,Yes,Yes,Don't know,No,,0,0,0,1,8.427487278331744,1000+
+968,26.0,male,Belgium,,No,No,No,Never,4398,No,Yes,Yes,No,No,No,,0,0,0,0,8.389132521348719,1000+
+969,28.0,Male,United Kingdom,,No,Yes,Yes,Often,1763,No,Yes,No,No,No,No,,0,0,0,1,7.475339236566737,1000+
+970,40.0,Male,United States,ME,No,Yes,Yes,Sometimes,2301,Yes,Yes,No,No,No,No,,0,0,1,1,7.741533589281828,1000+
+971,37.0,Female,Canada,,Yes,Yes,Yes,Rarely,1695,Yes,Yes,No,Yes,No,No,,0,0,0,0,7.4360278163518485,1000+
+972,34.0,female,United Kingdom,,No,Yes,Yes,Often,3791,Yes,No,Yes,Yes,No,Yes,,0,0,0,0,8.240648863374913,1000+
+973,28.0,male,United States,NY,No,Yes,Yes,Often,2715,No,Yes,Don't know,Not sure,No,Don't know,,0,0,1,0,7.906915488678587,1000+
+974,27.0,Male,Canada,,No,No,No,Never,4502,No,Yes,Yes,Not sure,Yes,No,,0,0,0,1,8.412499120301572,1000+
+975,29.0,Male,United Kingdom,,No,No,Yes,Sometimes,1402,Yes,Yes,No,No,No,No,,0,0,0,1,7.246368080102461,1000+
+976,39.0,Female,United Kingdom,,No,Yes,No,Rarely,1440,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,7.273092595999522,1000+
+977,28.0,male,United Kingdom,,No,No,No,Often,4530,No,Yes,No,No,No,No,,0,0,0,0,8.418697944667139,1000+
+978,23.0,Male,United States,PA,No,Yes,No,Sometimes,3521,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,8.166784289056151,1000+
+979,32.96140530852571,A little about you,"Bahamas, The",IL,Yes,Yes,Yes,Often,4978,Yes,Yes,Yes,Yes,Yes,Yes, ,0,0,0,0,8.512984346642183,1000+
+980,38.0,Male,United Kingdom,,No,No,No,No mental health condition,2117,Yes,Yes,No,No,No,No,,0,0,0,1,7.658227526161352,1000+
+981,19.0,Male,United Kingdom,,No,No,No,No mental health condition,2946,No,Yes,Yes,No,No,Yes,,0,0,0,1,7.988542982737695,1000+
+982,30.0,Female,United States,IL,No,Yes,Yes,Sometimes,3735,No,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,8.225770799348734,1000+
+983,28.0,male,United Kingdom,,Yes,No,No,No mental health condition,4405,Yes,Yes,No,Yes,No,No,,0,0,0,0,8.39072252736229,1000+
+984,20.0,Male,India,,No,No,Yes,Sometimes,628,No,Yes,Don't know,No,No,No,,0,0,0,1,6.444131256700441,501-1000
+985,35.0,Male,United Kingdom,,Yes,No,No,Sometimes,1059,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,1,6.966024187106113,1000+
+986,39.0,male,United States,MN,No,No,Yes,Rarely,4389,Yes,Yes,Yes,Yes,No,No,,0,0,1,0,8.387084506069217,1000+
+987,31.0,Female,United States,TX,No,Yes,No,Never,2994,No,No,Yes,Not sure,No,Don't know,,0,0,1,0,8.00469951054955,1000+
+988,32.0,Male,United Kingdom,,No,No,No,Rarely,821,No,Yes,No,No,No,No,,0,0,0,1,6.71174039505618,501-1000
+989,27.0,Male,Sweden,,No,No,No,No mental health condition,3769,No,Yes,No,No,No,No,,0,0,0,1,8.234830280442056,1000+
+990,25.0,Male,United States,PA,No,Yes,Yes,Often,4149,Yes,Yes,Yes,Yes,No,Don't know,,0,0,1,1,8.330863613224745,1000+
+991,31.0,male,United States,IN,No,Yes,Yes,Sometimes,3127,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.048149101665201,1000+
+992,34.0,male,United States,PA,No,Yes,Yes,Often,1468,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.292337176173877,1000+
+993,26.0,female,United States,OH,No,No,Yes,Sometimes,281,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,5.641907070938114,101-500
+994,35.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,2789,No,Yes,No,Yes,No,No,,0,0,0,1,7.933796874815411,1000+
+995,34.0,Male,United Kingdom,,No,No,No,Never,3258,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,8.089175678837561,1000+
+996,38.0,m,United States,PA,No,Yes,Yes,Sometimes,2527,Yes,No,Yes,Yes,No,Yes,While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges.,0,0,1,0,7.8351837552667485,1000+
+997,34.0,M,United States,SD,No,No,No,Sometimes,3293,No,Yes,Don't know,No,No,No,,0,0,1,0,8.099857910737585,1000+
+998,39.0,M,United States,IN,No,Yes,Yes,Sometimes,2161,Yes,Yes,No,Yes,No,No,,0,0,1,0,7.6787889981991535,1000+
+999,44.0,F,United States,CA,No,No,No,No mental health condition,4978,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.512984346642183,1000+
+1000,40.0,male,United States,TN,No,No,No,No mental health condition,3635,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,8.19863945529737,1000+
+1001,33.0,female,United States,TX,Yes,No,No,Never,796,Yes,Yes,No,Yes,Don't know,Don't know,,0,0,1,0,6.680854678790215,501-1000
+1002,24.0,Female,United States,TN,No,Yes,No,Sometimes,3815,No,No,Yes,Yes,No,Don't know,,0,0,1,0,8.246958032568177,1000+
+1003,38.0,Female,United States,OR,No,Yes,No,Sometimes,2566,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.8504931808711405,1000+
+1004,31.0,male,United States,SD,No,No,No,Sometimes,3837,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,0,8.252706676567644,1000+
+1005,23.0,Male,Israel,,No,No,No,No mental health condition,1121,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,7.022868086082641,1000+
+1006,26.0,F,United States,NY,No,No,No,No mental health condition,4965,No,Yes,Don't know,Not sure,No,No,,0,0,1,0,8.510369966068112,1000+
+1007,46.0,Female (trans),United States,CT,No,No,Yes,Often,1736,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,7.459914766241105,1000+
+1008,30.0,Male,United States,CA,No,Yes,Yes,Sometimes,3412,Yes,Yes,Yes,No,No,No,,0,0,1,1,8.135346948906706,1000+
+1009,19.0,M,Canada,,No,No,No,Never,2388,Yes,Yes,Don't know,No,No,No,,0,0,0,0,7.77863014732581,1000+
+1010,30.0,Female,United States,GA,No,Yes,Yes,Sometimes,4134,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,8.327242607457793,1000+
+1011,32.0,m,United States,TN,No,No,No,Never,4875,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.492080490601163,1000+
+1012,32.0,Male,United Kingdom,,No,No,No,No mental health condition,4309,No,Yes,No,No,No,No,,0,0,0,1,8.368693183097793,1000+
+1013,42.0,Male,United States,IN,No,Yes,No,Sometimes,2151,Yes,Yes,Don't know,No,No,No,My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area.,0,0,1,1,7.674152921281675,1000+
+1014,42.0,M,United States,CA,No,Yes,Yes,Sometimes,4035,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,0,8.3030093814735,1000+
+1015,25.0,female,United States,OR,No,No,No,Never,3165,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,8.060224240440958,1000+
+1016,19.0,Male,United States,IN,No,No,No,Sometimes,4088,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,8.316055720364643,1000+
+1017,40.0,female,United States,GA,No,Yes,No,Never,2788,Yes,Yes,Yes,Yes,Yes,No,,0,0,1,0,7.933438387627489,1000+
+1018,34.0,Male,United States,IN,No,No,No,No mental health condition,2102,No,No,Yes,Not sure,Yes,Don't know,,0,0,1,1,7.6511201757027,1000+
+1019,26.0,Male,United States,MN,No,Yes,No,No mental health condition,1167,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,7.0630481633881725,1000+
+1020,31.0,Male,United States,MN,No,Yes,Yes,Rarely,2846,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,7.954021087278037,1000+
+1021,40.0,Male,United States,NC,No,Yes,No,Sometimes,2768,Yes,No,Yes,Not sure,Yes,Don't know,,0,0,1,1,7.926241523170962,1000+
+1022,31.0,Female,United States,FL,No,Yes,Yes,Often,3687,No,Yes,No,No,No,No,,0,0,1,0,8.212839584676484,1000+
+1023,36.0,M,United States,MN,No,No,No,Never,4958,No,No,Don't know,No,No,Don't know,,0,0,1,0,8.508959386489133,1000+
+1024,35.0,Male,Canada,,No,Yes,No,Sometimes,2984,Yes,Yes,No,Yes,No,No,,0,0,0,1,8.001355025826703,1000+
+1025,26.0,male,Australia,,No,Yes,Yes,Sometimes,1844,Yes,Yes,No,No,No,No,The questions related to employer-provided health benefits are largely irrelevant to where I live Australia so I'd discount them.,0,0,0,0,7.520234556474628,1000+
+1026,44.0,m,United States,MO,No,No,No,No mental health condition,3062,Yes,No,Don't know,No,Don't know,Don't know,,0,0,1,0,8.027150106832774,1000+
+1027,34.0,Female,United States,CA,No,No,No,Sometimes,3160,No,Yes,No,Not sure,No,No,,0,0,1,0,8.058643712215618,1000+
+1028,35.0,Male,United States,OR,No,No,No,No mental health condition,3893,Yes,Yes,No,No,No,No,,0,0,1,1,8.267192185932146,1000+
+1029,28.0,female,United States,OH,No,Yes,Yes,Sometimes,167,Yes,Yes,Don't know,No,No,No,,0,0,1,0,5.123963979403259,101-500
+1030,33.0,Male,United States,NY,No,No,No,No mental health condition,2511,Yes,Yes,Yes,No,Don't know,Yes,,0,0,1,1,7.828834527588089,1000+
+1031,40.0,M,United States,WI,No,Yes,Yes,Sometimes,4867,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,0,8.490438454107418,1000+
+1032,26.0,Male,United States,WA,No,No,Yes,Sometimes,448,No,Yes,Yes,Yes,No,No,,0,0,1,1,6.1070228877422545,101-500
+1033,29.0,f,United Kingdom,,No,No,Yes,Often,2096,No,No,Yes,Yes,No,No,,0,0,0,0,7.64826303090192,1000+
+1034,26.0,Female,Canada,,No,Yes,Yes,Sometimes,350,No,Yes,Yes,Not sure,No,No,,0,0,0,0,5.860786223465865,101-500
+1035,33.0,Malr,Italy,,No,Yes,Yes,Sometimes,886,No,Yes,No,Not sure,No,No,I suffered of panic attacks and agoraphobia for about 10 years.,0,0,0,0,6.787844982309579,501-1000
+1036,28.0,Male,Brazil,,No,Yes,No,Sometimes,3050,No,Yes,No,No,No,No,,0,0,0,1,8.02322468471667,1000+
+1037,41.0,Male,United States,IL,Yes,No,Yes,Often,3215,Yes,No,No,Yes,Yes,Yes,,0,0,1,1,8.075893630298857,1000+
+1038,39.0,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,1339,Yes,Yes,No,Yes,Yes,Yes,These result may be a tad confusing so a summary follows.* Currently self-employed so employer is me :)* Last place of employment was amazing when I first discovered I was bi-polar and helped me as long as I was there up to and including a mental health course for the whole team (although no mention why to others which was great).* I've never had a negative reaction yet but I know others who have.* I've been very lucky with company I keep which is why my experience is largely good.,0,0,0,1,7.200424892944957,1000+
+1039,26.0,female,United States,WA,No,Yes,Yes,Sometimes,2410,No,Yes,Yes,Yes,No,No,I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs.,0,0,1,0,7.787796878181171,1000+
+1040,23.0,Female,United States,IL,No,Yes,No,Sometimes,3637,No,No,No,No,No,No,,0,0,1,0,8.199189359078067,1000+
+1041,35.0,Male,Switzerland,,No,Yes,Yes,Often,467,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,6.148468295917647,101-500
+1042,36.0,Male,United States,FL,No,No,No,Never,3765,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,1,8.233768709217097,1000+
+1043,42.0,M,United States,TN,No,No,No,Rarely,3075,No,No,Don't know,No,No,Don't know,,0,0,1,0,8.031385330625534,1000+
+1044,39.0,Male,United States,WA,No,Yes,Yes,Sometimes,2360,No,Yes,Yes,Yes,No,Don't know,,0,0,1,1,7.766840537085513,1000+
+1045,27.0,Male,United States,CA,No,No,No,Never,1986,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,7.594381242551817,1000+
+1046,33.0,male,United States,FL,Yes,No,No,Never,165,Yes,Yes,Don't know,No,No,No,,0,0,1,0,5.111987788356544,101-500
+1047,31.0,Male ,Canada,,No,Yes,Yes,Often,4936,No,Yes,Yes,Not sure,Don't know,Don't know,,0,0,0,0,8.504513138258863,1000+
+1048,28.0,Female,United States,OR,No,No,Yes,Rarely,1336,No,Yes,Yes,Yes,Don't know,Yes,,0,0,1,0,7.198183577101943,1000+
+1049,29.0,Female,United States,NJ,No,No,Yes,Often,2089,Yes,No,Yes,No,No,No,,0,0,1,0,7.644919344958857,1000+
+1050,27.0,Male,United States,CA,No,No,Yes,Sometimes,1878,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,7.538494999413465,1000+
+1051,44.0,M,United States,FL,Yes,No,No,Never,1350,Yes,Yes,Don't know,No,No,No,,0,0,1,0,7.208600337960199,1000+
+1052,25.0,Male,United States,UT,No,No,Yes,Often,4702,Yes,Yes,Don't know,No,No,No,,0,0,1,1,8.455955881945048,1000+
+1053,24.0,male,Germany,,No,Yes,Yes,Sometimes,3217,No,Yes,No,No,No,No,Thank you this is very important.,0,0,0,0,8.076515327552329,1000+
+1054,25.0,Male,South Africa,,No,Yes,Yes,Often,2312,No,No,Don't know,No,No,No,,0,0,0,1,7.746300662231439,1000+
+1055,34.0,M,United States,NJ,No,No,No,Never,2460,Yes,Yes,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.8083230503910555,1000+
+1056,30.0,Male,United States,PA,No,No,No,Never,4574,No,No,Yes,Yes,No,Don't know,,0,0,1,1,8.428361977709622,1000+
+1057,48.0,Male,United States,IN,No,No,No,Never,3548,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,8.174421152646497,1000+
+1058,34.0,Male,Greece,,No,No,No,No mental health condition,1372,Yes,Yes,No,No,No,No,,0,0,0,1,7.224753405767971,1000+
+1059,39.0,Female,United States,OH,No,No,Yes,Sometimes,4970,Yes,Yes,No,No,No,No,I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!,0,0,1,0,8.511376306094673,1000+
+1060,43.0,Male,United States,OH,No,No,No,Sometimes,2654,Yes,Yes,Yes,Not sure,No,Yes,,0,0,1,1,7.884199933676039,1000+
+1061,41.0,M,United States,IL,No,No,No,Rarely,563,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,0,6.335054251498059,501-1000
+1062,25.0,Male,United States,IN,No,No,No,Never,3420,No,No,Don't know,No,No,No,,0,0,1,1,8.137688184977605,1000+
+1063,31.0,m,United States,CA,No,No,Yes,Sometimes,643,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.467698726104354,501-1000
+1064,40.0,Male,United States,WA,No,Yes,Yes,Sometimes,4434,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,8.39728289474368,1000+
+1065,43.0,Male,United States,VA,Yes,Yes,Yes,Sometimes,2685,Yes,Yes,Yes,Not sure,No,Don't know,This survey was tough as a self-employed individual. You may wish to discard responses from self employed people for much of your analysis.,0,0,1,1,7.895808377083183,1000+
+1066,27.0,Female,United States,WA,No,Yes,Yes,Often,2835,No,Yes,Yes,Yes,Yes,Yes,I answered based on previous job at large technical company where I was pushed out of my role within 3 months of disclosing diagnosis.I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) deserved stress was anxiety caused by my core diagnosis.) When disclosing I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing) I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.Two huge issues stick out to me from that experience:1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day four years later despite being stable I'm in counseling every other week in addition to being on meds. Rather than supporting that it would be seen as oh I'm sorry. I was a problem to my manager because he didn't see improvements each week.2) Accomodations.- There was no option for me to reduce work temporarily to part-time (too complicated). Instead they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily as psychologist said I didn't qualify for leave. (Expensive unnecessary appointment).- The assistance I needed the most at work was understanding: I was open but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up but was barred from asking and I was implied it was better to keep my mouth shut.- Accommodations weren't understood by even Benefits as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and putting on my dick hat to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling and turned to finish yelling at this person): FUCKING UNACCEPTABLE.While I will never return to that company and as such took the severance package I will NEVER agree with their legal reason for being unable to do the job: me being medically disqualified from this role. I was too expensive in the short term for them; I'm not worth the cost.,0,0,1,0,7.950149887652018,1000+
+1067,37.0,female,United States,NJ,No,Yes,Yes,Sometimes,2171,Yes,Yes,Yes,Yes,No,Don't know,If a man in tech is afraid of speaking up about these things it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  On the other hand if a female in tech does not commiserate with her male coworkers on mental health problems she will no longer be seen as a team player. It is really a catch-22 for women in STEM.,0,0,1,0,7.683403681053826,1000+
+1068,32.0,male,Netherlands,,Yes,No,Yes,Sometimes,1273,No,Yes,No,No,No,No,,0,0,0,0,7.149916836132109,1000+
+1069,25.0,Male,United States,UT,No,Yes,Yes,Often,1871,No,Yes,No,Yes,No,No,,0,0,1,1,7.534762657037537,1000+
+1070,29.0,Male,Netherlands,,No,Yes,Yes,Often,1833,No,Yes,Don't know,Not sure,Don't know,Yes,Autism is a bitch for those living with it and living it. For the past years I've really been working hard to get myself (known) in the community. The people in the community that know can be counted on one hand. In general I'm not telling anyway unless it really matters and it would be a gain in some way or the other. Not because I don't trust the community members close to me but because I don't want to be that guy. And IMHO it doesn't and shouldn't matter but sadly some people are funky about that. Yet sometimes I wan't to tell everyone what I've been through and share my lessons learned.,0,0,0,1,7.51425465281641,1000+
+1071,30.0,Female,United States,TN,No,Yes,Yes,Often,2458,No,No,Yes,No,No,No,This issue for me is very real at the moment. I have missed several days of work recently because of a bad reaction to a depression/anxiety drug and I hate not being able to discuss it with my boss without worrying that I will be labeled a liability. ,0,0,1,0,7.807510042216193,1000+
+1072,34.0,female,Canada,,No,Yes,Yes,Often,1057,No,No,Don't know,No,Yes,Don't know,,0,0,0,0,6.964135612418245,1000+
+1073,32.0,male,United Kingdom,,No,Yes,Yes,Sometimes,3794,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,8.24143968982973,1000+
+1074,37.0,male,Germany,,No,No,No,No mental health condition,2316,No,Yes,Don't know,No,No,No,,0,0,0,0,7.748028524432376,1000+
+1075,41.0,male,Germany,,No,No,Yes,Sometimes,1769,No,Yes,Don't know,No,No,No,,0,0,0,0,7.478734825567875,1000+
+1076,38.0,male,United States,IN,No,Yes,No,Never,1669,No,No,Yes,Not sure,Yes,Yes,,0,0,1,0,7.4205789054108005,1000+
+1077,32.0,Male,United States,IN,No,No,Yes,Sometimes,4862,No,Yes,Yes,Yes,Yes,Don't know,,0,0,1,1,8.489410810403786,1000+
+1078,28.0,Female,United States,CA,No,Yes,Yes,Sometimes,4414,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,8.392763113038061,1000+
+1079,31.97310271046195,male,United States,OH,Yes,No,No,Never,3157,Yes,Yes,No,Yes,No,No,,0,0,1,0,8.057694194815587,1000+
+1080,43.0,male,United States,TX,No,Yes,No,Never,4387,No,No,Yes,Yes,No,Don't know,,0,0,1,0,8.38662882139512,1000+
+1081,32.0,Male,United States,TN,No,Yes,Yes,Often,3548,No,Yes,No,Yes,No,No,,0,0,1,1,8.174421152646497,1000+
+1082,25.0,M,United States,WA,No,No,Yes,Sometimes,4872,No,Yes,Yes,Yes,Yes,Don't know,,0,0,1,0,8.491465042843506,1000+
+1083,37.0,Male,United States,UT,No,No,Yes,Sometimes,4016,No,Yes,Yes,No,No,Yes,,0,0,1,1,8.298290634359283,1000+
+1084,36.0,male,United States,AL,Yes,No,Yes,Sometimes,2738,No,No,No,Yes,No,No,,0,0,1,0,7.915348169263078,1000+
+1085,24.0,Male,United States,WI,No,Yes,Yes,Rarely,3324,Yes,Yes,Don't know,No,No,No,,0,0,1,1,8.109224953089955,1000+
+1086,40.0,male,United States,WA,No,Yes,Yes,Sometimes,2785,No,Yes,Yes,Not sure,Yes,Don't know,Really manager dependent. I have had managers who work with my strengths and others who want my to work on my weaknesses which are directly tied to my mental issues. ,0,0,1,0,7.932362154339751,1000+
+1087,29.0,Male,United States,WI,No,No,No,No mental health condition,1704,No,No,Don't know,Not sure,Yes,Don't know,Though it doesn't affect me (male) good job for making the Gender field a text input instead of a drop down of only two options.,0,0,1,1,7.4413203897176174,1000+
+1088,43.0,Male,United States,NY,No,No,No,Never,3835,No,Yes,Don't know,No,No,Don't know,,0,0,1,1,8.252185436003328,1000+
+1089,29.0,Male,United States,NY,No,No,No,No mental health condition,1726,Yes,Yes,Yes,Not sure,No,Yes,,0,0,1,1,7.454141078146678,1000+
+1090,26.0,Male,United States,OH,No,Yes,No,Sometimes,3138,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,8.051659556841953,1000+
+1091,33.0,Female,Canada,,Yes,Yes,Yes,Often,3884,Yes,Yes,No,Yes,No,No,,0,0,0,0,8.264878262801748,1000+
+1092,35.0,Female,United States,WA,No,Yes,No,Sometimes,3191,Yes,Yes,Don't know,No,No,No,,0,0,1,0,8.068402958569699,1000+
+1093,45.0,M,United States,CA,No,No,No,Never,2748,Yes,Yes,Yes,No,No,No,,0,0,1,0,7.918992488165245,1000+
+1094,25.0,Male,United States,SC,No,No,Yes,Rarely,3959,Yes,Yes,No,Yes,No,Don't know,,0,0,1,1,8.283999304248526,1000+
+1095,50.0,male,France,,Yes,No,Yes,Sometimes,184,Yes,Yes,No,No,No,No,,0,0,0,0,5.220355825078324,101-500
+1096,26.0,male,Australia,,No,Yes,Yes,Rarely,4858,No,Yes,No,No,Don't know,Don't know,,0,0,0,0,8.488587934405903,1000+
+1097,33.0,female,United States,CA,No,No,Yes,Often,3614,No,Yes,Yes,Yes,Don't know,Don't know,,0,0,1,0,8.192847134592865,1000+
+1098,30.0,Male,India,,No,No,No,Often,2590,No,Yes,No,No,No,No,,0,0,0,1,7.85979918056211,1000+
+1099,33.0,male,Croatia,,No,Yes,Yes,Sometimes,605,Yes,Yes,Yes,Yes,No,Don't know,,0,0,0,0,6.406879986069314,501-1000
+1100,29.0,M,France,,No,No,Yes,Often,3654,No,Yes,Yes,No,No,No,,0,0,0,0,8.203851372183879,1000+
+1101,37.0,male,Germany,,No,No,No,No mental health condition,582,Yes,Yes,No,Not sure,No,No,,0,0,0,0,6.368187186350492,501-1000
+1102,27.0,Male,United States,MN,No,Yes,Yes,Sometimes,355,Yes,Yes,Don't know,No,Don't know,Don't know,I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job.,0,0,1,1,5.87493073085203,101-500
+1103,40.0,m,United States,WA,No,No,No,No mental health condition,1362,No,No,Yes,Not sure,Don't know,Don't know,,0,0,1,0,7.217443431696533,1000+
+1104,24.0,Male,Canada,,No,No,No,Sometimes,898,No,Yes,Yes,Yes,No,No,,0,0,0,1,6.80128303447162,501-1000
+1105,40.0,Male,United Kingdom,,No,No,Yes,Never,973,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,1,6.881411303642535,501-1000
+1106,46.0,Male,United States,PA,No,Yes,Yes,Sometimes,4878,No,Yes,Don't know,Yes,No,Don't know,,0,0,1,1,8.492695559815838,1000+
+1107,38.0,Male,United States,NY,No,Yes,Yes,Rarely,3441,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,8.143807976771484,1000+
+1108,34.0,Male,United States,VT,No,No,No,Never,4260,Yes,Yes,No,Yes,No,No,My employer currently does not offer any health insurance I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers bosses etc for fear of negative reception.,0,0,1,1,8.357259153499912,1000+
+1109,32.0,Male,United Kingdom,,Yes,No,Yes,Rarely,3069,No,Yes,No,Yes,Yes,Yes,,0,0,0,1,8.029432840581244,1000+
+1110,44.0,Male,United Kingdom,,No,No,Yes,Sometimes,2189,No,No,No,No,No,Yes,,0,0,0,1,7.691656822810547,1000+
+1111,33.0,Female,United Kingdom,,No,No,Yes,Never,1756,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,0,7.471363088187097,1000+
+1112,45.0,female,United States,MI,No,No,Yes,Rarely,928,No,No,Don't know,No,Don't know,Don't know,,0,0,1,0,6.834108738813838,501-1000
+1113,35.0,Male,United States,NY,No,No,No,No mental health condition,2811,No,Yes,Don't know,Not sure,Don't know,Don't know,Mental health at work is not an issue if you leave work problems at work that may be easier for those of us not in a support role.,0,0,1,1,7.941651252930556,1000+
+1114,26.0,Male,Germany,,Yes,Yes,Yes,Often,3379,No,Yes,No,No,No,No,,0,0,0,1,8.125630988477065,1000+
+1115,20.0,female,United States,NY,No,No,Yes,Sometimes,2826,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,7.946971357693591,1000+
+1116,33.08022802628024,p,United States,AL,Yes,Yes,Yes,Often,3474,Yes,Yes,Yes,Yes,Yes,Yes,password: testered,0,0,1,0,8.153349757998892,1000+
+1117,37.0,Male,Netherlands,,No,Yes,No,Sometimes,3965,No,Yes,No,No,No,No,,0,0,0,1,8.285513309079741,1000+
+1118,28.0,male,United States,MI,No,No,No,No mental health condition,158,No,No,Yes,No,No,No,,0,0,1,0,5.0689042022202315,101-500
+1119,42.0,F,United States,WA,No,Yes,Yes,Sometimes,1207,No,No,Yes,Yes,No,No,,0,0,1,0,7.0967213784947605,1000+
+1120,32.0,male,United Kingdom,,No,No,No,No mental health condition,2206,No,Yes,No,No,No,No,,0,0,0,0,7.699389406256737,1000+
+1121,36.0,F,United States,TN,No,Yes,Yes,Rarely,3265,Yes,Yes,Yes,Yes,No,No,,0,0,1,0,8.09132127353041,1000+
+1122,27.0,M,New Zealand,,No,No,No,Rarely,1006,No,Yes,No,Yes,No,Yes,,0,0,0,0,6.914730892718563,1000+
+1123,27.0,M,New Zealand,,No,No,No,Rarely,3221,No,Yes,No,Yes,No,Yes,,0,0,0,0,8.07775756373692,1000+
+1124,27.0,Male,United Kingdom,,No,No,Yes,Sometimes,711,No,No,No,No,No,No,suffer from CR-PTSD so all answered based on that,0,0,0,1,6.568077911411976,501-1000
+1125,25.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,101,Yes,Yes,No,No,No,No,Since being advised by Occupational Health that the tempo and spontenaity of the office environment was likely to have a negative effect on my mental health (I'm schizoaffective) I've been moved to 100% remote (home) working. The company have furnished a home office for me and I am only required to attend the office once a month to keep in touch,0,0,0,1,4.624972813284271,101-500
+1126,41.0,M,United Kingdom,,No,Yes,No,No mental health condition,2244,No,Yes,No,No,No,No,,0,0,0,0,7.716460800176355,1000+
+1127,23.0,Male,Germany,,No,Yes,Yes,Sometimes,2112,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,7.655864017616056,1000+
+1128,21.0,Male,United Kingdom,,No,No,Yes,Sometimes,2731,No,No,Don't know,No,No,Don't know,,0,0,0,1,7.912789220690681,1000+
+1129,26.0,Male,Moldova,,No,No,Yes,Often,3659,No,Yes,No,Yes,No,No,,0,0,0,1,8.205218426395412,1000+
+1130,29.0,Male,Sweden,,No,No,No,Rarely,3309,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,8.104703468371108,1000+
+1131,28.0,male,Belgium,,No,No,No,Sometimes,2253,No,No,No,No,No,No,,0,0,0,0,7.720461694599722,1000+
+1132,27.0,female,United Kingdom,,No,Yes,No,No mental health condition,4868,No,No,No,Yes,No,No,,0,0,0,0,8.4906438561827,1000+
+1133,23.0,Male,Israel,,No,No,No,Never,3556,No,No,No,Yes,Yes,Yes,,0,0,0,1,8.176672771948455,1000+
+1134,26.0,F,United States,NY,No,Yes,No,Sometimes,1646,Yes,Yes,Don't know,No,No,No,,0,0,1,0,7.4067107301776405,1000+
+1135,38.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,1172,No,Yes,No,Not sure,Don't know,Don't know,,0,0,0,1,7.067319848653476,1000+
+1136,39.0,M,United Kingdom,,No,Yes,Yes,Sometimes,1940,No,No,No,No,No,No,Despite the impression that several 'no' responses might give my employer has been very supportive. But then I work in health care.,0,0,0,0,7.57095858316901,1000+
+1137,35.0,M,United States,IN,No,Yes,Yes,Often,2311,No,No,Yes,Yes,No,Yes,,0,0,1,0,7.7458682297922685,1000+
+1138,32.0,male,United States,NC,No,No,No,Rarely,3094,No,Yes,Yes,Not sure,No,Don't know,,0,0,1,0,8.037543185118697,1000+
+1139,32.0,Male,United States,CA,No,No,Yes,Sometimes,1563,No,Yes,Yes,Yes,Yes,Yes,,0,0,1,1,7.355001921105257,1000+
+1140,26.0,Male,United Kingdom,,No,No,No,Never,4951,No,Yes,No,No,No,No,,0,0,0,1,8.507546814364431,1000+
+1141,38.0,Male,Canada,,No,Yes,Yes,Rarely,2259,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,1,7.723120092266331,1000+
+1142,34.0,Female,United Kingdom,,No,Yes,No,Rarely,1020,No,No,Yes,Yes,Yes,Yes,,0,0,0,0,6.928537818164665,1000+
+1143,39.0,Male,United States,TN,No,Yes,Yes,Often,3350,No,No,Don't know,Not sure,No,No,,0,0,1,1,8.11701408773731,1000+
+1144,32.0,male,Canada,,Yes,No,No,Never,2631,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,7.875499292445208,1000+
+1145,37.0,Male,Netherlands,,Yes,No,No,Never,1663,Yes,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,1,7.416979621381154,1000+
+1146,31.0,male,United Kingdom,,No,Yes,Yes,Never,113,No,Yes,Don't know,Not sure,No,Don't know,When I've had a depression I was lucky to have an awesome manager who was very understanding and found a budget to pay for my therapy sessions.,0,0,0,0,4.736198448394496,101-500
+1147,30.0,m,United States,MN,No,Yes,Yes,Rarely,1848,No,Yes,No,Yes,No,No,People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects.,0,0,1,0,7.522400231387125,1000+
+1148,51.0,M,Singapore,,No,No,No,Never,3789,Yes,Yes,Don't know,No,No,Don't know,,0,0,0,0,8.240121298076472,1000+
+1149,29.0,M,United States,NC,No,No,Yes,Sometimes,1738,No,Yes,Yes,Yes,No,No,,0,0,1,0,7.461065514354283,1000+
+1150,33.14331115037531,Male,United Kingdom,,No,No,No,Never,2978,No,Yes,Yes,No,No,Yes,,1,1,0,1,7.999342952713282,1000+
+1151,31.0,Male,India,,No,No,No,No mental health condition,1405,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,7.2485040723706105,1000+
+1152,26.0,Male,United States,TX,No,Yes,Yes,Sometimes,1784,Yes,Yes,Don't know,No,No,Don't know,,0,0,1,1,7.487173694213739,1000+
+1153,46.0,Female,United States,CA,No,No,Yes,Often,1239,Yes,No,Yes,Yes,No,No,,0,0,1,0,7.122866658599083,1000+
+1154,32.0,Male,United States,CA,No,Yes,No,Sometimes,3860,No,Yes,Yes,No,Yes,Don't know,,0,0,1,1,8.258681496264236,1000+
+1155,29.0,Male,United States,IL,No,Yes,Yes,Sometimes,1713,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,7.446585099157725,1000+
+1156,34.0,male,Poland,,No,No,No,Never,2230,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,7.7102051944325325,1000+
+1157,26.0,Male,Colombia,,No,No,No,Often,4845,No,Yes,No,No,No,No,,0,0,0,1,8.48590890137647,1000+
+1158,32.0,Female,United States,PA,No,No,Yes,Sometimes,285,No,Yes,Yes,Yes,No,Don't know,,0,0,1,0,5.655991810819852,101-500
+1159,29.0,Male,United States,IL,No,No,No,No mental health condition,4613,No,Yes,Don't know,Not sure,No,No,,0,0,1,1,8.4368504387337,1000+
+1160,30.0,Male,United States,IL,No,No,No,No mental health condition,3854,No,No,Yes,No,Yes,Yes,,0,0,1,1,8.25712628599743,1000+
+1161,40.0,F,United States,MN,No,Yes,Yes,Sometimes,995,No,Yes,Yes,Yes,No,Yes,,0,0,1,0,6.903747257584598,501-1000
+1162,23.0,Male,United Kingdom,,No,No,Yes,Sometimes,2667,No,Yes,No,No,No,No,I burnt out this year. I worked too much had too much pressure on myself from being the sole developer on a delayed project that seemed to grow in size with each week it was delayed by and worried about money a lot.I became depressed and anxious and had trouble eating sleeping and generally being myself. As my depression worsened I was regularly late for work couldn't perform as well as I should and became irritable with my colleagues.My employers response after a while was to send me private messages complaining about my lateness which only worsened the situation. I was prescribed 3 weeks off work by my doctor which my employer agreed to only to come back after to find I had been on 'statutory pay' which was roughly half of what I was expecting and was not enough to cover my rent bills AND food. This made me worse and sent me into another depression until I eventually admitted defeat gave up working and left the company. It took me months to recover and I'm now left (over 6 months after this all started) recovering from the fallout I created leaving employment with hardly any money to my name.I had previously been told by my employer that I was too young to burn out and (stupidly) trusted them. I did not feel comfortable discussing my problems with my employer because each time I was met with an attitude that I had to get myself together and ultimately given the amount of employees before me who had left the company by being fired after an altercation with the employer left me with no option but to hide it from them so I too wouldn't be fired.,0,0,0,1,7.889084407035514,1000+
+1163,20.0,Male,Georgia,,No,No,No,Rarely,958,No,No,No,No,No,No,,0,0,0,1,6.8658910748834385,501-1000
+1164,38.0,male,United States,NY,No,Yes,No,No mental health condition,3260,No,Yes,Don't know,No,No,No,,0,0,1,0,8.089789175789319,1000+
+1165,26.0,Female,United States,MI,No,Yes,Yes,Rarely,4632,No,Yes,Yes,No,No,No,,0,0,1,0,8.440959885416648,1000+
+1166,29.0,Male,United States,OH,No,No,No,Never,3385,No,Yes,No,No,No,Don't know,,0,0,1,1,8.12740456269308,1000+
+1167,40.0,m,China,,Yes,No,No,Sometimes,2961,Yes,Yes,No,Yes,No,No,,0,0,0,0,7.993619994827744,1000+
+1168,25.0,female,Bulgaria,UT,No,No,Yes,Sometimes,677,Yes,Yes,No,No,No,No,,0,0,0,0,6.519147287940395,501-1000
+1169,32.0,Woman,United States,NY,No,No,Yes,Sometimes,521,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.257667587882639,501-1000
+1170,38.0,male,United States,CA,No,Yes,Yes,Sometimes,2218,No,No,Yes,Yes,Yes,Yes,,0,0,1,0,7.704811922932594,1000+
+1171,72.0,Female,United States,IN,No,Yes,Yes,Never,388,Yes,No,Yes,Not sure,Don't know,Yes,,0,0,1,0,5.963579343618446,101-500
+1172,35.0,female,United States,IN,No,Yes,Yes,Sometimes,2204,Yes,Yes,No,No,No,No,,0,0,1,0,7.6984827878809465,1000+
+1173,28.0,F,United States,VA,No,No,Yes,Often,1646,No,Yes,No,Yes,No,No,,0,0,1,0,7.4067107301776405,1000+
+1174,27.0,femail,United States,OK,No,No,No,Never,3266,No,No,Don't know,Not sure,Don't know,Don't know,,0,0,1,0,8.09162741160107,1000+
+1175,56.0,female,United States,OR,Yes,No,No,Rarely,2042,Yes,Yes,Don't know,Not sure,Don't know,Don't know,I'm self-employed on contract with small start-up. Covered through spouse's insurance.,0,0,1,0,7.622174594817622,1000+
+1176,38.0,Male,United States,AL,No,Yes,Yes,Sometimes,1337,Yes,Yes,Yes,No,No,No,,0,0,1,1,7.198931240688173,1000+
+1177,31.0,Female,Belgium,,No,No,No,No mental health condition,240,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,5.484796933490655,101-500
+1178,40.0,Male,United States,AL,No,Yes,Yes,Sometimes,4115,No,Yes,Yes,Yes,No,No,,0,0,1,1,8.32263709695394,1000+
+1179,44.0,M,United States,OH,No,Yes,Yes,Sometimes,2278,No,Yes,Yes,Yes,No,Yes,My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating.,0,0,1,0,7.731492029245684,1000+
+1180,34.0,Male,Canada,,No,Yes,No,Sometimes,3508,No,Yes,Yes,Not sure,Yes,Yes,,0,0,0,1,8.163086375583216,1000+
+1181,37.0,Male,United Kingdom,,No,No,No,Never,4596,Yes,Yes,Don't know,No,No,No,,0,0,0,1,8.433159195806228,1000+
+1182,38.0,male,Italy,,No,No,No,Never,3039,No,Yes,Don't know,Not sure,Don't know,Don't know,,0,0,0,0,8.019612794400267,1000+
+1183,27.0,male,Germany,,No,No,No,No mental health condition,2581,No,Yes,Don't know,Not sure,No,No,,0,0,0,0,7.856319571406588,1000+
+1184,34.0,female,Ireland,,No,No,Yes,Sometimes,289,No,No,Yes,Yes,Yes,No,,0,0,0,0,5.66988092298052,101-500
+1185,35.0,Female,Ireland,,No,No,No,Rarely,4062,No,Yes,Don't know,No,No,No,,0,0,0,0,8.309676895987726,1000+
+1186,34.0,male,Ireland,,No,No,Yes,Often,3892,No,Yes,No,No,No,No,,0,0,0,0,8.266935347610456,1000+
+1187,32.0,Male,United States,TX,No,No,Yes,Often,1503,Yes,Yes,Yes,Not sure,No,Don't know,,0,0,1,1,7.315883504509785,1000+
+1188,25.0,male,Ireland,,No,No,No,No mental health condition,3077,No,Yes,Don't know,Not sure,No,Don't know,,0,0,0,0,8.032035314398824,1000+
+1189,28.0,Male,Australia,,No,No,Yes,Often,757,Yes,Yes,No,Yes,No,No,,0,0,0,1,6.630683385642372,501-1000
+1190,28.0,Female,United States,TX,No,No,Yes,Rarely,4491,No,Yes,Yes,No,No,No,,0,0,1,0,8.410053315858335,1000+
+1191,31.0,Male,Brazil,,Yes,No,Yes,No mental health condition,1486,No,Yes,No,Yes,No,No,,0,0,0,1,7.304515946460155,1000+
+1192,24.0,Male,United Kingdom,,No,No,No,No mental health condition,3035,No,Yes,Don't know,Not sure,No,No,,0,0,0,1,8.01829613851552,1000+
+1193,34.0,Male,Ireland,,No,Yes,Yes,Never,3028,Yes,Yes,No,No,No,No,,0,0,0,1,8.015987811027237,1000+
+1194,32.0,male,Ireland,,No,No,Yes,Sometimes,770,No,Yes,No,No,No,No,,0,0,0,0,6.647688373563329,501-1000
+1195,34.0,Male,United Kingdom,,No,Yes,No,Often,590,Yes,No,Don't know,Not sure,No,No,,0,0,0,1,6.3818160174060985,501-1000
+1196,23.0,Male,United States,TX,No,No,Yes,Sometimes,2659,No,Yes,No,Yes,No,No,,0,0,1,1,7.886081401775745,1000+
+1197,33.0,Male,Czech Republic,,No,Yes,No,Often,197,No,Yes,No,Yes,No,No,,0,0,0,1,5.288267030694535,101-500
+1198,29.0,male,Singapore,,No,Yes,Yes,Sometimes,185,No,Yes,Don't know,Not sure,No,No,it is my opinion that bad mental health is a red flag for employers and i would never bring it up.,0,0,0,0,5.225746673713202,101-500
+1199,24.0,male,Ireland,,No,Yes,No,No mental health condition,4030,No,Yes,No,No,No,No,,0,0,0,0,8.301769763117166,1000+
+1200,45.0,male,Ireland,,No,No,No,Never,3118,Yes,Yes,Don't know,Not sure,No,No,,0,0,0,0,8.045267716607803,1000+
+1201,34.0,Female,United Kingdom,,No,No,Yes,Sometimes,4137,No,No,No,Yes,No,Yes,,0,0,0,0,8.327967858305488,1000+
+1202,31.0,Male,Philippines,,No,No,No,Sometimes,2787,No,Yes,Don't know,No,No,No,,0,0,0,1,7.933079771880415,1000+
+1203,33.0,Male,United States,FL,No,No,Yes,Often,1980,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,7.591357046698551,1000+
+1204,28.0,male,Netherlands,,No,No,No,No mental health condition,3016,No,Yes,No,Not sure,No,No,,0,0,0,0,8.012018239159062,1000+
+1205,27.0,Male,United Kingdom,,No,No,No,Rarely,1938,Yes,No,Don't know,Not sure,No,Yes,,0,0,0,1,7.569927655242652,1000+
+1206,42.0,male,Ireland,,No,No,No,Never,2205,No,Yes,No,Yes,No,No,,0,0,0,0,7.698936199813447,1000+
+1207,28.0,male,Netherlands,,No,No,No,No mental health condition,4564,No,Yes,No,Not sure,No,No,,0,0,0,0,8.426173793029069,1000+
+1208,38.0,Male,United States,TX,No,No,Yes,Sometimes,447,Yes,Yes,Yes,No,Yes,Yes,I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well.,0,0,1,1,6.104793232414985,101-500
+1209,46.0,Male,United States,CA,No,Yes,Yes,Often,3026,No,Yes,Don't know,No,No,No,,0,0,1,1,8.01532730902172,1000+
+1210,46.0,male,United States,MD,No,Yes,Yes,Sometimes,4021,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Just starting a new job hence the numerous I don't know selections.,0,0,1,0,8.299534570332597,1000+
+1211,41.0,female,Netherlands,,Yes,No,Yes,Rarely,2868,Yes,Yes,Don't know,Yes,Don't know,Yes,The data will be skewed for self-employed people as the questions contain some bias.Having said that: being self-employed I *choose* to work for companies which want to employ *me* not just my skills but including my opinions my life-experience etc. If a potential contract/job doesn't *feel* right I prefer to not take it (and be poor) than to compromise myself.,0,0,0,0,7.9617188159813645,1000+
+1212,23.0,Male ,United Kingdom,,No,No,No,Never,2518,No,Yes,Don't know,No,No,No,Although my employer does everything they can to accommodate employees with mental health problems when those individuals cannot carry out any work assigned to them (even over the course of months) they appear to have no alternative but to terminate their employment. However I believe this would be the same for a physical health problem. ,0,0,0,0,7.831617276352611,1000+
+1213,24.0,male,Ireland,,No,Yes,Yes,Sometimes,2186,No,Yes,Yes,Yes,No,Yes,,0,0,0,0,7.690286020676768,1000+
+1214,23.0,female,Ireland,,No,No,Yes,Rarely,2104,No,Yes,No,Yes,Yes,No,,0,0,0,0,7.652070746116482,1000+
+1215,39.0,Male,Netherlands,,No,No,No,No mental health condition,4195,No,No,Yes,Not sure,Yes,Don't know,,0,0,0,1,8.341886969516187,1000+
+1216,32.0,Female,Ireland,,No,Yes,No,Never,1923,No,Yes,Yes,Yes,Don't know,Yes,,0,0,0,0,7.562161631225652,1000+
+1217,25.0,Male,United States,MN,No,Yes,Yes,Sometimes,1374,No,Yes,Don't know,Yes,No,No,,0,0,1,1,7.226209010100671,1000+
+1218,39.0,Male,Greece,,No,No,No,No mental health condition,4171,Yes,Yes,No,No,No,No,,0,0,0,1,8.336150816120663,1000+
+1219,23.0,Female,United Kingdom,,No,Yes,Yes,Sometimes,2252,No,Yes,No,Yes,No,Yes,,0,0,0,0,7.720017940432244,1000+
+1220,24.0,Cis Man,United Kingdom,,Yes,No,Yes,Sometimes,3750,Yes,Yes,No,No,No,No,,0,0,0,0,8.229777750081887,1000+
+1221,25.0,Male,United Kingdom,,No,Yes,Yes,Sometimes,2515,No,No,Yes,Yes,Yes,Yes,I work at a large university with a track record of health and wellbeing support,0,0,0,1,7.830425617820331,1000+
+1222,23.0,Male,United Kingdom,,No,No,Yes,Rarely,2242,No,Yes,No,Yes,No,No,,0,0,0,1,7.715569534520208,1000+
+1223,24.0,"ostensibly male, unsure what that really means",United Kingdom,,No,No,Yes,Sometimes,2101,No,No,Don't know,No,No,Don't know,i'm in a country with social health care so my options are not dependant on my employer. this makes a few of the early questions less relevant than they would be for a resident of the US.,0,0,0,0,7.650644551436897,1000+
+1224,23.0,Male,Canada,,No,No,Yes,Often,4781,No,Yes,Yes,Yes,Yes,Don't know,,0,0,0,1,8.47261414801827,1000+
+1225,60.0,Male,United States,CA,No,No,Yes,Often,1019,Yes,Yes,Don't know,No,Yes,Don't know,,0,0,1,1,6.927557906278317,1000+
+1226,28.0,male,Ireland,,No,No,No,Sometimes,3118,No,Yes,No,Yes,No,No,,0,0,0,0,8.045267716607803,1000+
+1227,28.0,Male,United States,TN,No,Yes,Yes,Often,2329,No,No,Yes,Yes,Yes,Yes,,0,0,1,1,7.753623546559746,1000+
+1228,30.0,male,Netherlands,,No,No,No,Sometimes,3506,No,Yes,Don't know,No,No,No,,0,0,0,0,8.162516250140179,1000+
+1229,31.0,male,Germany,,No,Yes,Yes,Sometimes,1864,No,Yes,Don't know,No,No,No,,0,0,0,0,7.5310163320779155,1000+
+1230,31.0,Male,Poland,,Yes,No,Yes,Often,2970,Yes,Yes,No,No,No,No,,0,0,0,1,7.9966538754626075,1000+
+1231,28.0,Male,Ireland,,No,No,Yes,Rarely,4395,No,Yes,Don't know,No,No,Don't know,,0,0,0,1,8.388450315523512,1000+
+1232,43.0,f,United States,FL,No,Yes,Yes,Rarely,435,Yes,Yes,Yes,Yes,No,Yes,,0,0,1,0,6.077642243349034,101-500
+1233,32.0,female,United Kingdom,,No,No,No,No mental health condition,4474,No,No,No,No,No,Don't know,,0,0,0,0,8.406261630708956,1000+
+1234,22.0,Male,Australia,,No,Yes,Yes,Often,1076,No,No,Yes,Yes,Yes,Yes,In australia all organisations of a certain size have to provide free access to a 'employee assistance program' to discuss work and personal issues.EAPs are an external provider totally confidential and anonymous (ring up andsay the name of who you work for - so they know to bill your work)  and they offer phone and face to face consults.,0,0,0,1,6.981934677156389,1000+
+1235,32.0,Male,United States,OR,No,No,No,Never,1204,No,Yes,Yes,Not sure,Don't know,Yes,,0,0,1,1,7.094234845924755,1000+
+1236,36.0,male,Finland,,No,No,Yes,Often,3793,No,Yes,No,No,No,No,,0,0,0,0,8.24117615049496,1000+
+1237,41.0,Female,United States,WA,No,Yes,Yes,Sometimes,2433,No,Yes,Yes,No,No,Don't know,,0,0,1,0,7.797291273547472,1000+
+1238,30.0,M,United States,CA,No,Yes,Yes,Sometimes,1956,No,Yes,Yes,Yes,Don't know,No,Bipolar disorder ,0,0,1,0,7.579167967396076,1000+
+1239,30.0,Male,United States,CA,Yes,Yes,Yes,Often,1758,No,Yes,Yes,Not sure,Yes,Yes,,0,0,1,1,7.472500744737558,1000+
+1240,36.0,Male,South Africa,,No,Yes,Yes,Often,311,No,No,No,Yes,No,No,,0,0,0,1,5.7430031878094825,101-500
+1241,29.0,male,United States,NC,No,Yes,Yes,Sometimes,1111,Yes,Yes,Yes,Yes,Yes,No,,0,0,1,0,7.013915474810528,1000+
+1242,36.0,Male,United States,UT,No,Yes,No,Rarely,1587,No,No,Don't know,No,Yes,Yes,,0,0,1,1,7.370230641807081,1000+
+1243,31.95262177373731,male,United Kingdom,,No,No,Yes,No mental health condition,3265,No,Yes,No,No,No,No,,1,1,0,0,8.09132127353041,1000+
+1244,32.0,Male,United States,IL,No,Yes,Yes,Often,2749,Yes,Yes,Yes,Yes,No,No,,0,0,1,1,7.919356190660617,1000+
+1245,34.0,male,United States,CA,No,Yes,Yes,Sometimes,825,No,Yes,Yes,Yes,No,No,,0,0,1,0,6.716594773520978,501-1000
+1246,46.0,f,United States,NC,No,No,No,No mental health condition,4797,Yes,Yes,No,Yes,No,No,,0,0,1,0,8.47595444339964,1000+
+1247,25.0,Male,United States,IL,No,Yes,Yes,Sometimes,3793,No,No,Yes,Yes,No,No,,0,0,1,1,8.24117615049496,1000+

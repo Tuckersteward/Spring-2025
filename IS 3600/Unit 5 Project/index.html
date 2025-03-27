@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple CSV Table Display</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="CSVTable"></div>
+
+    <script>
+    $(function() {
+        $.get('car_price_dataset.csv', function(data) {
+            var lines = data.split('\n');
+            var table = '<table border="1">';
+            lines.forEach(function(line) {
+                table += '<tr>' + line.split(',').map(function(cell) {
+                    return '<td>' + cell + '</td>';
+                }).join('') + '</tr>';
+            });
+            table += '</table>';
+            $('#CSVTable').html(table);
+        });
+    });
+    </script>
+</body>
+</html>

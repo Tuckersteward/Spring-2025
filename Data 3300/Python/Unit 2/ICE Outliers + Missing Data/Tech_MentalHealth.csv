@@ -1,0 +1,1249 @@
+SurveyID,Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,comments
+1,37,Female,United States,IL,No,No,Yes,Often,2347,No,Yes,Yes,Not sure,No,Yes,NA
+2,44,M,United States,IN,No,No,No,Rarely,3126,No,No,Don't know,No,Don't know,Don't know,NA
+3,32,Male,Canada,,No,No,No,Rarely,1360,No,Yes,No,No,No,No,NA
+4,,Male,United Kingdom,,No,Yes,Yes,Often,492,No,Yes,No,Yes,No,No,NA
+5,31,Male,United States,TX,No,No,No,Never,769,Yes,Yes,Yes,No,Don't know,Don't know,NA
+6,33,Male,United States,TN,No,Yes,No,Sometimes,2394,No,Yes,Yes,Not sure,No,Don't know,NA
+7,35,Female,United States,MI,No,Yes,Yes,Sometimes,2308,Yes,Yes,No,No,No,No,NA
+8,39,M,Canada,,No,No,No,Never,4493,Yes,Yes,No,Yes,No,No,NA
+9,42,Female,United States,IL,No,Yes,Yes,Sometimes,1875,No,Yes,Yes,Yes,No,No,NA
+10,23,Male,Canada,,No,No,No,Never,269,No,Yes,Don't know,No,Don't know,Don't know,NA
+11,31,Male,United States,OH,No,No,Yes,Sometimes,4295,Yes,Yes,Don't know,No,No,No,NA
+12,29,male,Bulgaria,,No,No,No,Never,4626,Yes,Yes,Don't know,Not sure,No,No,NA
+13,42,female,United States,CA,No,Yes,Yes,Sometimes,553,No,No,Yes,Yes,No,No,NA
+14,36,Male,United States,CT,No,Yes,No,Never,4000,No,Yes,Don't know,Not sure,No,Don't know,I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions.
+15,27,Male,Canada,,No,No,No,Never,1382,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+16,29,female,United States,IL,No,Yes,Yes,Rarely,1215,No,Yes,Yes,Not sure,No,No,I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. 
+17,,Male,United Kingdom,,No,No,Yes,Sometimes,3587,Yes,Yes,Don't know,No,Don't know,Don't know,My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work.
+18,32,Male,United States,TN,No,No,Yes,Sometimes,3070,No,Yes,Yes,Yes,No,Don't know,NA
+19,46,male,United States,MD,Yes,Yes,No,Sometimes,2699,Yes,Yes,Yes,Not sure,Yes,Don't know,NA
+20,36,Male,France,,Yes,Yes,No,,1680,Yes,Yes,No,No,Yes,No,NA
+21,29,Male,United States,NY,No,Yes,Yes,Sometimes,3717,No,Yes,Yes,Yes,No,No,NA
+22,31,male,United States,NC,Yes,No,No,Never,2829,Yes,Yes,No,No,No,No,NA
+23,45,Male,United States,MA,No,No,Yes,Often,1416,Yes,Yes,Yes,Yes,No,No,NA
+24,41,Male,United States,IA,No,No,Yes,Never,3367,No,No,Don't know,No,No,Don't know,NA
+25,33,male,United States,CA,No,Yes,Yes,Rarely,50000,No,Yes,Yes,Not sure,Don't know,Yes,Relatively new job. Ask again later
+26,35,male,United States,TN,No,Yes,Yes,Sometimes,4865,No,No,Yes,Yes,No,Don't know,Sometimes I think  about using drugs for my mental health issues. If i use drugs I feel better
+27,33,male,United States,TN,No,No,No,,4463,No,Yes,Don't know,Not sure,No,Don't know,NA
+28,35,Female,United States,CA,No,Yes,Yes,Rarely,2381,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+29,34,male,United States,OH,No,No,Yes,Sometimes,4199,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+30,37,Male,United Kingdom,,No,No,No,Sometimes,4773,No,Yes,No,No,No,No,NA
+31,32,Male,United Kingdom,,No,No,No,Never,638,Yes,Yes,No,No,No,No,NA
+32,31,Male,United States,PA,Yes,Yes,No,Rarely,1755,Yes,Yes,No,Yes,No,No,NA
+33,30,male,United Kingdom,,No,Yes,Yes,Sometimes,2154,Yes,Yes,Don't know,No,No,No,NA
+34,42,Male,United States,WA,No,Yes,Yes,Sometimes,3422,Yes,Yes,Yes,Yes,Yes,Yes,I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns.
+35,40,female,United States,WI,No,No,Yes,Sometimes,3214,No,Yes,Yes,Yes,No,No,NA
+36,27,Male,United States,NY,No,No,Yes,Rarely,518,No,Yes,No,Yes,No,No,NA
+37,29,Male,Canada,,No,No,No,Rarely,4558,No,Yes,No,No,No,No,NA
+38,,Male,Portugal,,No,No,No,,2616,No,Yes,No,Yes,No,No,NA
+39,50,M,United States,IN,No,No,No,,2188,No,Yes,Yes,Yes,No,Don't know,NA
+40,35,M,United States,TX,No,No,Yes,Rarely,4135,Yes,Yes,Yes,Yes,No,Yes,NA
+41,24,Male,United Kingdom,,No,No,Yes,Sometimes,2832,No,Yes,No,No,No,No,NA
+42,35,Male,United States,MI,No,No,No,,265,Yes,Yes,Yes,Not sure,Don't know,Yes,NA
+43,27,Male,Canada,,No,Yes,Yes,Sometimes,3819,No,Yes,No,Yes,No,No,NA
+44,18,Male,Netherlands,,No,No,No,Often,3592,No,Yes,No,Not sure,No,No,NA
+45,30,Male,United States,IN,No,No,Yes,Sometimes,546,No,Yes,Don't know,No,No,No,NA
+46,38,Female,United States,TX,No,Yes,Yes,Sometimes,555,No,Yes,Yes,Yes,No,Yes,Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering.
+47,228,Male,United Kingdom,,No,No,No,,4671,No,Yes,Don't know,Not sure,No,No,NA
+48,34,Male,United States,TN,No,No,No,,2291,No,Yes,No,No,No,No,NA
+49,26,m,Canada,,Yes,No,No,Sometimes,2772,No,Yes,No,Yes,Yes,No,NA
+50,30,male,United States,IL,No,Yes,Yes,Rarely,2012,No,Yes,Yes,No,No,Don't know,I just started a new job last week hence a lot of don't know's
+51,22,M,United States,TX,No,Yes,Yes,Often,2611,No,Yes,No,Yes,No,No,NA
+52,33,Male,United States,UT,No,No,No,,815,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+53,32,Male,United States,TN,No,No,No,Never,1505,Yes,Yes,Don't know,Not sure,No,No,NA
+54,28,M,Switzerland,,No,No,No,,2119,No,Yes,No,No,No,No,NA
+55,27,Male-ish,United States,NY,No,Yes,Yes,Rarely,4933,No,Yes,Yes,Yes,No,No,NA
+56,32,maile,United States,TN,No,Yes,No,,609,Yes,Yes,Don't know,No,No,No,NA
+57,24,Male,United States,NY,No,Yes,Yes,Sometimes,2441,Yes,Yes,Don't know,No,No,No,NA
+58,26,Male,United States,TN,No,No,No,,4578,No,No,No,No,No,No,NA
+59,33,male,Canada,,No,Yes,Yes,Often,3580,Yes,Yes,Don't know,No,No,No,In addition to my own mental health issues I've known several coworkers that may be suffering and I don't know how to tell them I empathize and that I want to help.
+60,44,Male,United States,IA,No,Yes,Yes,Sometimes,1068,No,No,Yes,No,No,Don't know,NA
+61,,Female,Poland,,No,No,Yes,Sometimes,2658,Yes,Yes,Don't know,Not sure,Yes,Yes,NA
+62,27,Male,United Kingdom,,No,No,No,Never,1090,No,Yes,Yes,Not sure,No,Yes,NA
+63,26,Male,France,,No,No,No,,1049,No,Yes,No,No,No,No,NA
+64,35,male,Canada,,No,No,No,Sometimes,4803,No,Yes,Don't know,No,No,No,NA
+65,35,Male,United States,CA,No,Yes,No,Sometimes,3980,Yes,Yes,Yes,Yes,Yes,Yes,NA
+66,23,Female,Australia,,No,Yes,Yes,Often,3117,Yes,Yes,No,Not sure,No,No,Thanks for doing this research.
+67,36,M,United States,TX,No,No,No,Sometimes,2113,Yes,Yes,Yes,No,Don't know,Yes,NA
+68,31,Female,United States,NM,No,No,No,,1248,Yes,No,Don't know,No,Don't know,Don't know,NA
+69,34,Male,United States,NY,Yes,No,No,Rarely,4079,Yes,Yes,No,No,No,No,NA
+70,28,m,France,,No,No,No,Never,3033,No,Yes,No,No,No,No,NA
+71,34,male,Canada,,No,No,No,Never,2063,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+72,23,Trans-female,United States,MA,No,No,No,Rarely,1627,No,Yes,Yes,Yes,No,No,NA
+73,38,Male,United Kingdom,,No,No,No,,1807,No,Yes,No,No,No,Don't know,NA
+74,33,Male,United States,CA,No,No,No,Never,1320,No,Yes,Don't know,Not sure,Yes,Don't know,NA
+75,19,Male,United Kingdom,,No,No,No,,2802,No,Yes,No,Yes,No,No,NA
+76,25,Male,United States,WA,No,No,No,,1758,Yes,Yes,Yes,Yes,Yes,Yes,NA
+77,31,Male,United States,WA,Yes,Yes,No,Sometimes,1066,Yes,Yes,No,No,No,No,NA
+78,26,Male,United States,UT,No,Yes,Yes,Sometimes,502,Yes,Yes,No,No,No,No,NA
+79,28,m,Germany,,No,No,No,Never,1910,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+80,38,Male,United States,NY,No,Yes,No,Sometimes,2490,Yes,Yes,Yes,Yes,No,Yes,NA
+81,23,Male,United Kingdom,,No,No,No,Never,931,No,Yes,Yes,Not sure,Yes,Don't know,NA
+82,30,male,Canada,,No,No,No,Never,1935,No,No,No,No,No,No,NA
+83,27,Cis Female,United States,NY,Yes,No,Yes,Often,3055,Yes,Yes,Yes,Yes,Yes,Yes,NA
+84,33,Male,United States,CA,No,Yes,No,Never,274,No,Yes,No,No,No,No,NA
+85,31,Male,United States,TX,No,No,No,,3245,No,Yes,Don't know,Not sure,No,No,NA
+86,39,Male,United Kingdom,,Yes,No,Yes,Often,2875,No,Yes,No,No,No,No,NA
+87,34,female,United States,OR,No,Yes,Yes,Rarely,3566,Yes,Yes,Yes,Not sure,No,Don't know,NA
+88,29,F,United States,FL,No,No,Yes,Sometimes,722,No,Yes,Yes,Yes,No,No,NA
+89,32,M,United States,IL,No,No,No,,1121,No,Yes,Don't know,No,No,Don't know,NA
+90,31,Male,United States,NY,No,No,No,Never,1733,No,Yes,Yes,Yes,Yes,Yes,NA
+91,40,male,United States,TX,No,No,Yes,Sometimes,603,No,Yes,No,Yes,No,No,NA
+92,34,Male,United States,OH,No,No,No,,2882,No,Yes,Don't know,No,No,No,NA
+93,,something kinda male?,Russia,,No,No,No,,4631,Yes,Yes,Yes,Yes,No,No,In Russia we have mandatory medical insurance. Every employer must pay 3.6% of every employee's salary to the insurance fund like a tax. Everyone gets free healthcare at public clinics and hospitals. Some types of healthcare including mental health are still funded from the government budget but that doesn't matter it's still FREE!However this is Russia :D I don't know much about what actually happens in mental hospitals here except that a lot of young people with male in their passports use these to avoid military draft and doctors seem to help them.
+94,25,F,Canada,,No,No,Yes,Sometimes,3746,No,Yes,Yes,Yes,No,Don't know,NA
+95,29,male,United States,MN,No,No,No,Never,1875,No,Yes,Don't know,No,No,Don't know,NA
+96,24,Male,United States,MO,No,Yes,No,Rarely,2574,No,Yes,Don't know,Not sure,No,Don't know,NA
+97,31,male,Mexico,,No,Yes,Yes,Sometimes,821,No,Yes,Don't know,No,No,No,NA
+98,33,Cis Male,United States,AZ,No,No,Yes,Sometimes,1046,No,Yes,No,Yes,No,No,NA
+99,30,M,United States,IN,No,No,Yes,Often,1792,No,Yes,No,Yes,No,No,NA
+100,26,female,Canada,,No,Yes,Yes,Sometimes,4483,No,No,No,Yes,No,No,In my previous workplace which had mental health protections policies and access to counsellors my Director went so far as to say to me in somewhat casual conversation A woman was murdered across the street. At best though she was bipolar and at worst - who knowsI have bipolar disorder. I have zero faith that an organization with policies in place could appropriately handle mental health. I have even less faith that a workplace without the policies in place could appropriately handle mental health. I can only imagine it's worse in full tech environments.
+101,44,Female,United States,MA,No,No,No,Never,1895,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+102,25,Male,United States,NY,No,Yes,No,,203,No,Yes,Don't know,No,Don't know,Don't know,NA
+103,33,Male,United States,WI,No,Yes,Yes,Sometimes,3198,Yes,Yes,Yes,Yes,Yes,Yes,NA
+104,29,Male,United States,NY,No,No,No,Never,2816,No,Yes,Yes,Not sure,Yes,Don't know,NA
+105,35,Male,United States,MO,No,Yes,No,Rarely,3605,No,Yes,Yes,Not sure,No,No,NA
+106,35,M,United States,OR,No,Yes,Yes,Sometimes,1685,Yes,Yes,Don't know,Not sure,No,No,I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way.
+107,,Male,Brazil,,No,Yes,Yes,Rarely,4978,No,Yes,No,No,No,No,NA
+108,34,m,United States,TN,No,Yes,No,Never,2164,Yes,Yes,Yes,No,No,No,NA
+109,32,Male,United States,WA,No,No,Yes,Sometimes,1050,No,Yes,Yes,No,Yes,Yes,NA
+110,22,Male,United States,NY,No,No,Yes,Sometimes,876,No,Yes,Yes,Yes,No,Don't know,NA
+111,28,Male,United States,CA,No,No,Yes,Sometimes,1679,No,Yes,Yes,Yes,Yes,Yes,NA
+112,45,male,United States,MO,No,Yes,Yes,Rarely,977,Yes,Yes,Yes,Yes,No,Yes,NA
+113,32,Male,United States,NY,No,No,No,Never,4016,No,Yes,Yes,Yes,No,Don't know,NA
+114,28,male,United States,TX,No,No,No,,981,No,Yes,Don't know,No,No,Don't know,NA
+115,,Male,United Kingdom,,No,No,No,Never,3359,No,Yes,Don't know,No,No,Don't know,NA
+116,21,Male,United Kingdom,,Yes,No,No,Often,4551,Yes,No,No,Yes,No,No,NA
+117,27,Male,Canada,,No,No,No,Rarely,2379,No,No,Yes,Yes,Yes,Yes,NA
+118,18,Male,United States,CT,No,No,Yes,Rarely,3380,Yes,Yes,No,No,No,No,NA
+119,35,Male,United States,CO,No,No,No,,1844,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+120,29,Male,United States,GA,No,No,No,Never,1795,No,Yes,Yes,Yes,No,Yes,NA
+121,25,Male,United States,DC,No,No,No,,3390,Yes,Yes,Don't know,No,No,No,NA
+122,33,Male,United States,MN,No,Yes,Yes,Sometimes,1335,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+123,36,Male,United States,WA,No,No,No,Often,2501,No,Yes,Yes,No,No,No,NA
+124,27,Male,Canada,,No,No,Yes,Never,3771,No,No,Yes,Not sure,No,No,NA
+125,27,Male,United States,WA,No,Yes,No,Never,3517,No,Yes,Yes,No,Yes,Yes,NA
+126,27,Male,United Kingdom,,No,No,No,,251,No,Yes,No,No,No,No,NA
+127,29,M,United States,OR,No,No,Yes,Rarely,1274,No,Yes,Yes,Yes,No,Yes,NA
+128,31,Male,United Kingdom,,No,Yes,No,Sometimes,4231,No,Yes,No,No,No,No,NA
+129,19,male,Slovenia,,No,No,Yes,Sometimes,2862,No,Yes,Don't know,No,No,No,NA
+130,33,Male,United States,IL,No,Yes,Yes,Sometimes,3022,No,Yes,Yes,Yes,No,No,NA
+131,32,male,United States,CA,No,No,No,Rarely,2612,Yes,Yes,No,Yes,No,No,NA
+132,27,Male,United States,NE,No,No,No,Never,1291,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+133,38,Male,Costa Rica,,No,No,No,,377,Yes,Yes,No,Yes,No,No,NA
+134,24,Male,Canada,,No,No,Yes,Never,4131,No,Yes,Don't know,No,No,No,NA
+135,,M,United Kingdom,,No,No,No,Never,4432,No,No,No,No,No,No,NA
+136,28,Male,United Kingdom,,No,No,No,Never,2321,No,Yes,Don't know,No,No,No,NA
+137,39,Male,United States,IA,No,No,Yes,Often,2206,No,Yes,Yes,Not sure,No,No,NA
+138,29,Female,United States,MD,No,No,No,,3396,No,Yes,Don't know,No,No,Don't know,NA
+139,22,m,Austria,,No,No,No,,1634,Yes,Yes,Don't know,No,Don't know,No,NA
+140,45,Male,United States,OR,No,Yes,Yes,Sometimes,4788,No,Yes,Don't know,No,Don't know,Don't know,NA
+141,37,Male,United Kingdom,,Yes,No,Yes,Sometimes,1051,No,No,No,Yes,Yes,Yes,I'm not a permanent employee so do not get they benefits they get.My client is extremely supportive of permanent staff with mental health issues.
+142,35,M,United States,TX,No,No,No,Never,3619,Yes,No,Don't know,Not sure,Don't know,Don't know,NA
+143,-29,Male,United States,MN,No,No,No,,4808,Yes,No,Yes,No,Don't know,Yes,NA
+144,30,Female,United States,PA,No,Yes,No,,4644,Yes,Yes,Don't know,Not sure,No,Don't know,I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave.
+145,37,Male,United States,IN,No,Yes,Yes,Rarely,2216,No,No,Yes,Yes,Yes,Yes,NA
+146,24,M,United Kingdom,,No,No,No,Never,1292,No,Yes,No,No,No,No,NA
+147,23,Male,United States,WV,No,No,No,Sometimes,464,No,No,No,No,No,No,NA
+148,30,male,Ireland,,No,No,Yes,Rarely,3247,No,Yes,No,Yes,Yes,Yes,NA
+149,29,Female,United States,MI,No,No,No,,4714,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+150,19,Male,Canada,,Yes,Yes,No,,4911,Yes,Yes,Don't know,Not sure,No,Yes,NA
+151,32,male,United States,CA,No,Yes,No,Never,1917,No,Yes,Don't know,Not sure,No,No,NA
+152,28,male,Poland,,No,No,No,Rarely,2970,Yes,Yes,No,No,No,No,NA
+153,36,Male,United States,IL,No,No,No,Never,2980,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+154,37,Male,United Kingdom,,No,Yes,Yes,Rarely,4081,No,No,Yes,Yes,Yes,Yes,NA
+155,25,Male,United States,IL,No,Yes,Yes,Sometimes,3252,No,No,Don't know,No,No,Don't know,NA
+156,27,Male,United States,CA,No,Yes,Yes,Sometimes,61000,No,Yes,Don't know,No,No,Don't know,NA
+157,26,male,United States,OK,No,No,No,Often,661,No,No,Don't know,Not sure,No,No,NA
+158,27,male,United States,UT,No,No,Yes,Rarely,2139,Yes,Yes,No,Yes,No,No,Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing.
+159,25,Male,United States,IL,No,Yes,Yes,Sometimes,1437,No,Yes,Don't know,Not sure,No,No,Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive.
+160,36,Male,United Kingdom,,No,No,Yes,Sometimes,2372,No,No,Yes,Yes,Yes,Yes,I feel that my employer and colleagues have created my mental health issue. Additionally I have contributed to this by staying in the same job with the same employer for 10+ years.
+161,25,F,United States,NY,No,Yes,Yes,Sometimes,543,No,Yes,Yes,No,No,No,NA
+162,31,M,United States,CA,No,No,No,Never,3280,No,Yes,Yes,No,No,Yes,NA
+163,26,male,United States,MA,No,Yes,No,Rarely,210,No,Yes,Don't know,No,No,No,NA
+164,33,F,United States,WA,Yes,Yes,Yes,Sometimes,2174,No,Yes,No,Yes,Yes,Yes,Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these.
+165,27,Woman,United Kingdom,,Yes,Yes,No,,2620,Yes,Yes,No,Yes,No,No,as a UK-based company we don't have any medical provisions as it's all provided on the National Health Service (for now!) However if we do need to take days off for any kind of health problems everyone is understanding :)
+166,34,Male,United States,MN,No,No,No,Never,549,No,Yes,No,No,No,No,NA
+167,42,male,United States,CA,No,No,No,,1832,No,Yes,No,Yes,No,No,NA
+168,23,male,Ireland,,Yes,Yes,No,Sometimes,399,No,Yes,No,No,No,No,NA
+169,24,Male,United Kingdom,,No,No,No,Rarely,1155,No,Yes,Don't know,Not sure,Yes,Don't know,NA
+170,,Male,United Kingdom,,No,No,Yes,Sometimes,1024,No,Yes,Yes,Yes,Don't know,Don't know,My employer employs 17k people worldwide and my previous employer only 140 globally both have been very supportive and accommodating with my moderate depression and intense anxiety.
+171,31,Male,United Kingdom,,Yes,No,Yes,Often,765,No,Yes,Don't know,No,No,No,NA
+172,22,M,India,,No,No,Yes,Never,2775,No,Yes,Don't know,Not sure,No,No,NA
+173,23,Female,United States,NC,No,No,No,,3867,No,Yes,Don't know,No,No,Don't know,NA
+174,34,Female,Canada,,No,Yes,Yes,Sometimes,639,No,No,Yes,Yes,Yes,No,NA
+175,31,male,United States,MO,No,No,No,Never,1381,No,Yes,Don't know,Not sure,No,Don't know,NA
+176,28,Male,United Kingdom,,No,No,No,,1336,No,No,No,Not sure,No,Yes,NA
+177,32,Female,United States,MA,No,No,Yes,Often,2999,Yes,Yes,Yes,Not sure,Don't know,Don't know,I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all.
+178,45,F,United States,CA,No,No,Yes,Sometimes,3983,No,Yes,Yes,No,No,No,In small startups it is very hard to keep mental health issues truly private no matter what management does.
+179,33,Male,United States,TX,No,No,No,,1669,Yes,Yes,Don't know,No,No,No,A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.
+180,29,male,Mexico,,No,No,No,Never,4581,Yes,Yes,No,No,No,No,NA
+181,26,f,India,,Yes,No,No,Sometimes,1196,No,No,No,No,No,No,NA
+182,28,Female,United Kingdom,,No,No,No,Never,3891,No,Yes,Don't know,No,No,Don't know,NA
+183,45,M,United States,CA,No,No,Yes,Sometimes,1814,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+184,43,Male,United States,WA,No,Yes,Yes,Often,2372,Yes,Yes,Yes,Not sure,No,Don't know,NA
+185,37,male,United States,MA,No,No,No,,296,Yes,Yes,Yes,No,No,No,NA
+186,,Male,United Kingdom,,No,No,No,Sometimes,3591,No,Yes,Don't know,No,No,Don't know,NA
+187,26,Male,France,,No,No,No,,2806,Yes,Yes,No,Yes,No,No,NA
+188,23,male,United Kingdom,,No,Yes,No,,3710,Yes,Yes,Don't know,No,No,No,NA
+189,35,Female,United States,CA,No,Yes,Yes,Never,1463,No,Yes,Yes,Not sure,Don't know,No,NA
+190,38,Female,South Africa,,Yes,Yes,Yes,Often,3505,Yes,Yes,No,Yes,No,No,NA
+191,28,Male,United States,MI,No,Yes,Yes,Sometimes,4784,No,Yes,Yes,No,No,No,NA
+192,28,Male,Russia,,No,No,No,Sometimes,4409,No,Yes,No,No,No,No,NA
+193,35,Male,United States,CA,No,No,Yes,Rarely,3811,No,Yes,No,No,No,No,NA
+194,,female,Germany,,No,No,No,Sometimes,1513,No,Yes,No,No,No,No,Too many people even especially IT considered mental health issues as a choice or something people can freely act about. You are depressed: take vacation. You feel weird: admit it is physical (otherwise it is not serious) go and see a doctor (and if you are on sick leave too many days you will get fired). You don't feel good today: take a holiday but don't work from home. In startup there is what I call the tyranny of happiness: you have to look happy to be accepted and to be worked with. At some point playing a role can definitely make the mental health issue worse and it is also a threat to diversity :(I don't like to call mental health issues an issue but actually when it comes to company field it too often becomes an issue and this is sad because working is sometimes better than medication. It is a vicious circle: people are scared of speaking about it so they don't inform their coworkers about what mental health is for real and so coworkers are so scared on a regular basis that the people with mental health issues keep it for themselves. 
+195,31,Mal,Italy,,Yes,Yes,No,Never,557,No,Yes,No,No,No,No,NA
+196,35,Female,United States,NY,No,No,No,Never,810,Yes,Yes,Don't know,Not sure,No,No,NA
+197,26,Male,United States,CA,No,No,No,Rarely,1993,No,Yes,Yes,No,No,No,NA
+198,27,Male,United States,TN,No,Yes,No,,4999,Yes,Yes,Yes,Yes,No,No,NA
+199,28,Male,United Kingdom,,No,Yes,Yes,Sometimes,674,No,Yes,Don't know,No,No,No,NA
+200,27,Female,United States,OR,No,Yes,Yes,Sometimes,1243,No,Yes,Yes,No,No,No,My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma.
+201,34,female,United States,MN,No,No,Yes,Sometimes,2837,No,No,Yes,Yes,Yes,Yes,NA
+202,41,male,United States,FL,No,No,Yes,Often,838,Yes,Yes,No,Not sure,No,No,NA
+203,37,Male,Ireland,,No,No,No,Sometimes,3067,No,Yes,No,Yes,No,No,When you are an introvert people don't notice if you are depressed. Its a vicious cycle of sorts.
+204,34,male,Austria,,No,Yes,No,,862,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+205,32,Male,United Kingdom,,No,Yes,Yes,Sometimes,4521,Yes,Yes,Don't know,Not sure,No,No,I've answered 'Yes' on remote working but 50% is the maximum time we're allowed.The branch of the company I work for doesn't offer any medical benefits. It's not as common in the UK as we have the NHS for the moment. There are international branches that may so I've answered 'Don't know'.
+206,21,Male,Canada,,No,No,Yes,Sometimes,1759,Yes,Yes,No,Yes,No,No,NA
+207,30,M,United States,MA,No,No,Yes,Often,470,No,Yes,No,Yes,No,No,NA
+208,24,male,United States,KS,No,No,No,Never,464,No,Yes,Don't know,Not sure,No,Don't know,NA
+209,26,male,Bulgaria,,No,No,No,,2402,No,Yes,No,No,No,No,NA
+210,40,Female,United States,DC,No,No,No,,4356,No,Yes,Yes,Yes,Yes,Yes,NA
+211,37,Male,United Kingdom,,No,Yes,No,Sometimes,4831,No,No,No,No,No,No,NA
+212,26,Male,United Kingdom,,Yes,No,Yes,Often,938,Yes,Yes,No,No,No,No,NA
+213,32,F,United States,TX,No,Yes,Yes,Sometimes,3803,No,Yes,Don't know,No,No,No,NA
+214,32,f,United States,MA,No,No,Yes,Sometimes,1085,No,No,Yes,Yes,Don't know,Don't know,NA
+215,27,female,United States,MI,Yes,Yes,Yes,Sometimes,4146,Yes,Yes,No,No,Don't know,Don't know,Many of these questions were difficult to answer as a self-employed person; I did my best with the available options.
+216,,Male,Germany,,Yes,No,Yes,Often,3933,Yes,Yes,Yes,Yes,No,No,I tried to answer as good as possible but I am CEO of a company so many questions don't fit very well.Also many of the questions are very US-centric in most systems healthcare is not your employers business.
+217,31,M,Canada,,Yes,No,No,,2255,No,Yes,Yes,Yes,No,Don't know,NA
+218,29,F,United States,NY,No,No,Yes,Never,2129,No,No,Yes,No,No,Don't know,NA
+219,41,Male (CIS),United States,VA,No,No,No,,4677,No,Yes,Yes,Not sure,No,No,NA
+220,34,female,United States,WA,No,No,No,,2833,No,Yes,Yes,No,No,No,One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company.
+221,33,Male,United Kingdom,,No,No,No,,407,No,Yes,Don't know,No,No,No,NA
+222,28,male,United States,PA,No,No,No,Rarely,1163,No,Yes,Don't know,No,No,No,NA
+223,28,Male,United States,MI,No,No,Yes,Sometimes,2326,No,Yes,No,Yes,No,No,NA
+224,23,Male,United States,PA,No,No,No,Never,1362,No,Yes,Don't know,Not sure,Don't know,Don't know,A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head. 
+225,24,M,United States,OR,No,No,No,,1902,No,Yes,Don't know,No,Don't know,No,Would you bring up a mental health issue with a potential employer in an interview?Poignant.
+226,32,male,United States,WA,No,No,No,Rarely,4569,Yes,Yes,No,Yes,No,No,NA
+227,34,Male,Australia,,Yes,No,No,Sometimes,888,Yes,Yes,Don't know,Not sure,Yes,Yes,NA
+228,24,Male,United States,PA,No,No,No,Never,519,No,Yes,Yes,Not sure,No,Don't know,NA
+229,26,male,United Kingdom,,Yes,No,Yes,Sometimes,1554,No,Yes,No,Yes,No,No,NA
+230,36,Male,United States,OH,No,No,Yes,Sometimes,4093,No,Yes,Yes,No,No,Yes,NA
+231,41,Male,United States,TX,No,No,Yes,Rarely,2989,Yes,Yes,Yes,Yes,No,Don't know,I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion.
+232,38,Male,United Kingdom,,No,No,Yes,Sometimes,4770,No,No,Don't know,Not sure,Don't know,Don't know,NA
+233,38,Male,United States,NH,No,No,No,Sometimes,4703,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+234,30,male,Netherlands,,No,No,No,,2336,No,Yes,Don't know,No,Don't know,Don't know,NA
+235,25,Male,United Kingdom,,No,No,No,Never,1231,No,Yes,No,No,No,No,NA
+236,37,Male,Canada,,No,Yes,Yes,Often,3921,No,Yes,Yes,Yes,No,Don't know,NA
+237,34,Male,United Kingdom,,No,Yes,No,,3894,No,Yes,No,No,No,No,NA
+238,37,F,United States,NC,No,Yes,Yes,Sometimes,3129,No,No,Yes,Yes,Yes,Yes,NA
+239,28,Female,Canada,,No,Yes,Yes,Sometimes,1826,No,No,Yes,Yes,Yes,Yes,NA
+240,22,Male,Sweden,,No,No,No,,3217,No,Yes,Don't know,No,No,No,NA
+241,34,male,United States,FL,No,Yes,Yes,Sometimes,2376,No,Yes,No,No,No,No,NA
+242,33,M,United States,CA,No,Yes,Yes,Sometimes,4384,No,Yes,Yes,Yes,Yes,Yes,NA
+243,25,Male,South Africa,,No,No,No,,2317,No,Yes,No,No,No,No,NA
+244,27,Male,United States,GA,No,No,No,Never,2285,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+245,40,M,United States,OH,No,No,Yes,Sometimes,4075,Yes,Yes,Yes,Yes,Yes,Yes,I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences.
+246,21,Male,United States,KY,No,No,Yes,Often,3469,No,No,Don't know,No,No,Don't know,NA
+247,29,Male,United Kingdom,,No,No,No,,3305,No,No,No,No,No,No,NA
+248,32,M,United States,NC,No,Yes,Yes,Sometimes,2491,Yes,Yes,No,No,No,No,NA
+249,29,f,United States,NY,No,Yes,Yes,Rarely,2620,Yes,No,Yes,Yes,Yes,Don't know,NA
+250,23,Male,United States,AL,No,Yes,Yes,Sometimes,578,Yes,No,Don't know,No,No,Don't know,NA
+251,28,Male,United States,GA,No,Yes,No,,502,No,Yes,Yes,No,No,Don't know,NA
+252,31,male,United States,CA,No,Yes,Yes,Rarely,4116,Yes,Yes,Yes,Yes,Yes,Don't know,NA
+253,27,Male,United Kingdom,,No,No,No,,3858,No,No,Don't know,Not sure,Don't know,Don't know,NA
+254,24,Male,United States,VA,No,No,No,Sometimes,3888,No,Yes,Don't know,No,Don't know,Don't know,NA
+255,29,Male,Canada,,No,No,No,Often,4097,No,Yes,No,No,No,No,NA
+256,23,Female,United Kingdom,,No,No,Yes,Sometimes,2152,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+257,42,Male,United States,WA,No,No,No,Never,1034,Yes,Yes,No,Yes,No,Yes,No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. 
+258,24,Male,United Kingdom,,No,No,No,,2836,No,Yes,No,No,No,No,NA
+259,25,Male,Australia,,No,Yes,Yes,Often,2135,No,Yes,No,Yes,No,No,NA
+260,27,Female,United States,TX,No,No,Yes,Rarely,1589,No,Yes,Yes,No,No,No,NA
+261,27,Male,Canada,,No,No,No,Sometimes,4321,Yes,Yes,No,Yes,No,No,NA
+262,30,Male,United States,FL,No,No,Yes,Sometimes,2571,Yes,Yes,Yes,Yes,No,Yes,NA
+263,29,male,Poland,,No,Yes,Yes,Rarely,1182,No,Yes,No,Yes,No,No,NA
+264,43,Male,Canada,,Yes,No,No,,4565,Yes,Yes,No,Not sure,No,No,NA
+265,32,male,United States,NV,No,No,No,,805,No,Yes,No,Yes,No,Don't know,NA
+266,41,Male,United States,AL,No,No,Yes,Sometimes,779,Yes,Yes,Yes,Yes,Don't know,No,I think I am very lucky in my workplace. Our CEO has a degree in psychology.
+267,32,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,2070,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Some of these questions were difficult to answer as being self-employed they didn't all apply to me.
+268,37,Female,United States,CA,No,Yes,Yes,Often,446,No,Yes,Yes,Yes,No,No,NA
+269,32,Male,United States,CO,No,No,No,Never,4657,Yes,Yes,No,No,No,No,NA
+270,30,Male,Ireland,,Yes,No,No,Sometimes,3936,Yes,Yes,No,No,No,No,NA
+271,23,female,United States,MN,No,Yes,Yes,Never,1820,No,No,Yes,No,Don't know,Don't know,NA
+272,30,Male,United States,NJ,No,No,No,,4112,No,Yes,Yes,Yes,Yes,Yes,NA
+273,,male,United Kingdom,,No,No,No,Sometimes,1068,No,Yes,No,Yes,No,No,NA
+274,38,Male,United States,PA,No,No,Yes,Rarely,4287,Yes,Yes,Yes,No,No,No,NA
+275,33,Male,Canada,,No,No,No,,4643,No,Yes,Yes,No,Yes,Yes,NA
+276,34,male,United States,MO,No,No,No,,4820,No,No,Yes,No,No,No,NA
+277,28,male,Colombia,,No,No,No,Sometimes,784,No,Yes,No,Yes,No,No,NA
+278,30,male,United States,MN,No,No,Yes,Rarely,676,No,No,Yes,Yes,Yes,Don't know,NA
+279,23,Male,United States,PA,No,Yes,No,Sometimes,4563,No,Yes,Don't know,No,No,Don't know,NA
+280,22,Male,Australia,,Yes,Yes,Yes,Sometimes,4234,Yes,Yes,Don't know,Not sure,Yes,Yes,NA
+281,27,male,Portugal,,No,No,No,Never,4203,No,Yes,No,No,No,No,It's a small startup in a small city in a small country.
+282,18,male,United States,TX,No,No,Yes,Sometimes,1329,No,Yes,Don't know,No,No,Don't know,NA
+283,35,male,United States,NY,No,Yes,Yes,Sometimes,415,No,Yes,Yes,Yes,No,No,NA
+284,25,Male,Canada,,No,No,No,,4985,No,No,Don't know,Not sure,No,No,NA
+285,27,Male,United Kingdom,,No,Yes,Yes,Sometimes,4858,No,Yes,No,No,No,No,Hi Ed it's Paul Dragoonis. I have Aspergers/High Functioning Autism :-)
+286,26,Female,United States,WA,No,Yes,Yes,Rarely,4734,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+287,18,Male,United States,WA,No,No,No,Never,3113,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+288,38,Female,United States,TX,No,No,Yes,Sometimes,1736,No,Yes,No,Yes,No,No,The form of mental health problem that I suffer is anxiety.
+289,26,Female,United States,TX,No,Yes,Yes,Rarely,2222,Yes,Yes,Yes,Yes,Yes,Don't know,NA
+290,30,Male,Switzerland,,Yes,No,No,Never,1201,No,Yes,No,No,No,No,NA
+291,35,male,United States,CA,No,No,No,Never,3287,No,Yes,Don't know,No,No,Don't know,NA
+292,45,male,United States,NY,No,Yes,Yes,Sometimes,4335,No,Yes,Yes,Yes,Don't know,Don't know,NA
+293,32,Male,United States,CA,No,No,No,Never,4079,No,Yes,Yes,No,No,Don't know,NA
+294,24,Female,United States,CA,No,No,No,,2321,No,Yes,Don't know,Not sure,No,Don't know,NA
+295,30,F,United States,SC,No,Yes,Yes,Sometimes,940,No,Yes,Yes,Yes,Yes,Don't know,NA
+296,60,male,United States,CA,No,No,No,,2505,No,Yes,Yes,No,Don't know,Yes,NA
+297,33,Male,United States,CA,No,Yes,Yes,Sometimes,3394,No,Yes,Yes,No,Yes,Yes,NA
+298,37,M,United States,NY,No,No,No,Never,201,No,Yes,Yes,Yes,Yes,Yes,NA
+299,23,Female,United States,NY,No,No,Yes,Sometimes,4884,No,Yes,Yes,Yes,Yes,Yes,NA
+300,31,f,United States,CA,No,No,Yes,Sometimes,2638,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+301,26,Male,United States,MA,No,No,No,Rarely,1082,No,Yes,Yes,Not sure,No,Don't know,NA
+302,28,female,United States,WA,No,Yes,Yes,Often,4035,Yes,No,Yes,Yes,Yes,Yes,NA
+303,37,F,United States,CA,No,No,Yes,Rarely,4796,No,Yes,Yes,Yes,Don't know,Yes,NA
+304,26,male,Canada,,No,Yes,Yes,Often,791,No,Yes,Yes,No,No,Don't know,NA
+305,30,queer/she/they,United States,IL,No,Yes,Yes,Rarely,4791,No,Yes,Yes,Not sure,No,No,NA
+306,26,M,United States,IN,No,No,No,,3507,No,Yes,No,No,No,No,NA
+307,25,Male,United States,OR,No,No,No,,4429,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+308,27,Male,United States,TN,No,No,No,Sometimes,4989,No,Yes,Yes,Not sure,Yes,Yes,The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help.
+309,25,Male,Canada,,No,No,Yes,Often,1668,Yes,No,Don't know,No,No,Don't know,NA
+310,35,male,United States,OR,No,No,Yes,Rarely,542,No,Yes,Yes,Not sure,Don't know,Yes,NA
+311,36,Male,United States,WA,Yes,No,Yes,Never,3856,No,Yes,No,Yes,No,No,NA
+312,26,Male,United States,CA,No,Yes,Yes,Sometimes,2370,No,Yes,Yes,Not sure,No,Don't know,NA
+313,27,Male,United States,CA,No,Yes,No,,4850,No,Yes,Don't know,No,Don't know,Don't know,Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer.
+314,30,male,United States,VT,No,No,No,,3481,No,No,Don't know,Not sure,No,Don't know,NA
+315,29,M,United States,NY,No,No,No,,3348,No,No,Don't know,Not sure,No,Don't know,NA
+316,25,Male,United States,UT,No,No,No,Never,3909,No,No,Yes,Yes,Yes,Yes,NA
+317,22,Female,United States,NY,No,Yes,Yes,Often,609,No,Yes,Yes,Yes,Yes,Yes,NA
+318,29,male,Latvia,NY,No,No,No,,965,No,Yes,No,Yes,No,No,NA
+319,41,Male,United States,SD,No,Yes,Yes,Rarely,2062,Yes,Yes,Yes,Yes,Don't know,Yes,NA
+320,29,Male,United States,CA,No,No,Yes,Sometimes,1891,No,Yes,Yes,No,No,Don't know,NA
+321,32,Male,United States,OR,No,No,No,Never,4334,No,Yes,Yes,Not sure,Don't know,Yes,NA
+322,24,female,United States,CA,No,Yes,Yes,Sometimes,4032,No,Yes,Yes,Yes,No,Yes,NA
+323,25,Male,United States,CA,No,No,Yes,Rarely,4138,No,Yes,Yes,No,Don't know,No,NA
+324,25,m,United States,CA,No,No,No,,479,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+325,30,Female,United States,CO,No,No,No,Never,4376,No,Yes,Yes,Yes,Yes,Yes,NA
+326,25,Male,United States,CA,No,Yes,Yes,Sometimes,1264,No,Yes,Don't know,Not sure,Don't know,Yes,NA
+327,30,Male,United States,OH,Yes,No,No,Never,189,Yes,Yes,No,Yes,No,No,NA
+328,,male,Germany,,Yes,Yes,Yes,Rarely,2487,No,No,No,No,No,No,NA
+329,24,Male,United States,WA,No,No,No,,973,No,Yes,Yes,Not sure,Yes,Yes,NA
+330,25,Male,Canada,,No,Yes,Yes,Sometimes,1871,No,Yes,Yes,Yes,No,Don't know,NA
+331,31,Male,United States,OH,No,No,No,,133,No,No,Don't know,No,No,No,NA
+332,45,Male,Ireland,,Yes,No,Yes,Often,3148,No,Yes,No,No,No,No,NA
+333,29,m,Romania,,No,No,No,,3008,Yes,No,No,Yes,No,No,NA
+334,46,M,United States,WA,No,No,No,Never,3292,No,Yes,Yes,Not sure,Yes,Don't know,NA
+335,30,Male,United Kingdom,,No,No,Yes,Sometimes,1413,No,Yes,Don't know,No,No,Don't know,NA
+336,29,F,United States,CA,Yes,No,No,Sometimes,1553,No,Yes,Yes,Not sure,Don't know,No,NA
+337,24,Male,United States,MA,No,No,No,,2174,No,Yes,Yes,Yes,Don't know,Don't know,I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label.
+338,29,male,United States,WA,No,No,No,,1950,No,Yes,Yes,Yes,Yes,Yes,I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.
+339,35,Male,United States,MI,No,No,No,,982,No,No,Don't know,Not sure,No,Don't know,NA
+340,33,f,United States,WA,No,Yes,No,Sometimes,2569,Yes,Yes,No,Yes,No,No,NA
+341,27,Male,United States,CA,No,No,No,Sometimes,649,No,Yes,Don't know,Not sure,Don't know,Don't know,Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge.
+342,36,Male,United States,IA,No,No,No,,2494,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+343,33,Male,United Kingdom,,No,No,No,Rarely,873,Yes,Yes,Don't know,No,No,No,NA
+344,25,F,United States,WA,No,Yes,Yes,Sometimes,1618,No,Yes,Yes,Yes,No,No,NA
+345,23,Male,United States,AL,No,Yes,Yes,Sometimes,3016,No,No,Don't know,No,No,No,YOU MAY WANT TO THROW OUT MY ENTRY.I answered all of these questions with the assumption that Attention Deficit Disorder is considered a mental illness and with ADD in mind.
+346,54,M,United States,CA,No,Yes,Yes,Never,2792,No,Yes,Don't know,No,Yes,Yes,NA
+347,22,Male,United States,CA,No,No,No,Sometimes,2177,No,Yes,Don't know,No,Don't know,Don't know,NA
+348,25,non-binary,United States,CA,No,Yes,Yes,Sometimes,1533,No,Yes,Yes,Yes,Don't know,Don't know,NA
+349,29,Male,Belgium,,No,No,No,Often,274,No,No,Don't know,No,No,No,In Belgium we have all medical care so perhaps some question are not relevant
+350,27,Male,United States,MA,No,No,Yes,Sometimes,2083,No,Yes,Yes,Yes,Yes,Yes,NA
+351,30,Male,United Kingdom,,No,No,No,Never,4159,No,Yes,No,No,No,Don't know,A co-worker recently had mental health issues and my employer was very reasonable with them I don't know the full story but I do know that he was given ample time off and eased back in to the work place.
+352,26,male,United States,CA,No,Yes,Yes,Often,86000,No,Yes,Yes,Not sure,Don't know,Yes,NA
+353,25,Female,Sweden,,No,Yes,No,Sometimes,197,No,Yes,Yes,Yes,Yes,No,NA
+354,31,Male,United States,CA,No,No,Yes,Sometimes,1412,No,No,No,Yes,No,Don't know,NA
+355,33,M,United States,IN,No,Yes,Yes,Sometimes,4511,No,Yes,Don't know,Not sure,No,No,NA
+356,34,M,United States,WA,No,Yes,Yes,Sometimes,3861,No,Yes,Yes,Yes,Don't know,Yes,NA
+357,34,Male,United States,WA,No,No,Yes,Sometimes,3815,Yes,Yes,No,No,No,No,NA
+358,29,M,United States,IN,Yes,No,No,,1778,Yes,Yes,No,Yes,No,No,NA
+359,33,Femake,United States,WA,No,No,No,,4164,No,Yes,No,No,No,No,NA
+360,,male,Germany,,Yes,Yes,Yes,Rarely,1859,Yes,Yes,No,No,No,Don't know,NA
+361,26,male,United States,OK,Yes,Yes,Yes,Rarely,4757,Yes,No,No,No,No,Don't know,NA
+362,32,Male,United States,MI,No,Yes,Yes,Rarely,1647,No,No,Yes,Yes,Yes,Yes,NA
+363,329,Male,United States,OH,No,No,Yes,Often,2694,Yes,Yes,Yes,Yes,No,No,NA
+364,28,Male,United States,GA,No,Yes,Yes,Sometimes,1408,No,Yes,Don't know,Not sure,No,Don't know,NA
+365,35,Male,United States,CA,No,Yes,No,,3650,No,Yes,Yes,No,Yes,Yes,NA
+366,21,Male,United States,IN,No,Yes,Yes,Rarely,2103,No,Yes,Yes,No,No,Don't know,NA
+367,21,Male,United Kingdom,,No,No,Yes,Sometimes,3368,No,No,Don't know,Not sure,No,No,NA
+368,22,F,United States,WA,No,No,No,,2888,No,Yes,Yes,No,Yes,Yes,NA
+369,41,m,United States,WA,No,Yes,Yes,Often,503,No,Yes,Yes,No,Yes,Yes,NA
+370,55,M,United States,PA,No,Yes,Yes,Rarely,1983,No,Yes,Yes,Yes,Yes,Yes,My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia
+371,32,F,United States,WA,No,No,Yes,Sometimes,1960,No,Yes,Yes,Yes,Yes,Yes,My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction.
+372,21,F,United States,CA,No,Yes,Yes,Rarely,986,No,Yes,Don't know,Not sure,Don't know,No,NA
+373,45,M,United States,MA,No,No,Yes,Never,1178,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+374,27,female,United States,WA,No,No,Yes,Rarely,1708,No,Yes,Yes,Yes,No,No,NA
+375,25,Female,United States,WA,No,Yes,Yes,Sometimes,2158,Yes,Yes,Don't know,No,No,No,NA
+376,34,woman,United States,NY,No,Yes,Yes,Rarely,2463,No,No,Yes,Yes,Yes,Yes,I work for a university.
+377,26,F,United States,CA,No,Yes,Yes,Never,3827,No,Yes,Yes,Yes,No,Yes,NA
+378,41,Male,Canada,,No,No,Yes,Never,308,No,Yes,Yes,Not sure,No,Don't know,NA
+379,27,Male,United States,CA,No,No,Yes,Rarely,4929,No,Yes,Yes,No,Yes,Yes,NA
+380,31,Make,United States,IN,No,Yes,Yes,Sometimes,4064,Yes,Yes,Yes,No,No,No,NA
+381,,Male,Germany,,No,Yes,Yes,Often,376,Yes,Yes,No,No,No,No,NA
+382,26,M,United States,NV,No,No,Yes,Sometimes,2495,No,Yes,Don't know,No,No,No,NA
+383,27,female,United States,CO,No,Yes,Yes,Rarely,4262,Yes,Yes,Yes,Yes,No,Don't know,NA
+384,42,Male,New Zealand,,No,No,No,Never,3571,No,Yes,Don't know,Not sure,No,No,NA
+385,29,Nah,United States,CA,Yes,Yes,Yes,Sometimes,4151,Yes,Yes,Yes,Yes,No,No,NA
+386,25,female,United States,CA,No,No,Yes,Sometimes,3652,No,Yes,Don't know,Not sure,No,No,NA
+387,33,Female,Sweden,,No,Yes,Yes,Rarely,1617,No,Yes,Yes,Yes,No,Yes,NA
+388,,All,Zimbabwe,,Yes,Yes,Yes,Often,1966,No,Yes,No,Yes,No,No,NA
+389,40,female,United States,PA,No,Yes,Yes,Rarely,3555,No,No,Yes,No,Don't know,Don't know,NA
+390,31,Male,United States,SC,No,No,No,Never,3007,No,Yes,Don't know,No,No,Don't know,NA
+391,26,Male,Canada,,No,Yes,Yes,Often,4114,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+392,24,female,United States,TX,No,Yes,No,,2750,No,No,No,No,No,No,NA
+393,29,Male,United States,TX,No,No,No,Never,712,No,No,Yes,Not sure,No,Don't know,NA
+394,48,M,United Kingdom,,No,No,No,,2671,No,Yes,Don't know,No,No,No,NA
+395,35,Male,United Kingdom,,No,No,No,Sometimes,4226,No,Yes,No,No,No,No,NA
+396,32,female,United States,AL,No,No,No,Never,2728,No,Yes,Don't know,Not sure,No,No,NA
+397,29,Male,Canada,,No,No,Yes,Sometimes,165,No,Yes,Don't know,Not sure,Don't know,Don't know,Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past!
+398,26,Male,United States,OR,No,Yes,Yes,Often,754,No,Yes,Yes,Yes,No,No,NA
+399,28,Male,United States,NJ,No,Yes,Yes,Sometimes,473,No,Yes,Yes,Yes,No,No,NA
+400,23,male,United States,CA,No,No,No,,770,No,Yes,Don't know,No,No,Don't know,NA
+401,35,M,United States,CA,No,Yes,Yes,Sometimes,2024,No,Yes,Yes,Yes,No,No,I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire.
+402,29,male,Germany,,No,Yes,Yes,Sometimes,4432,No,Yes,Don't know,No,No,No,NA
+403,26,Male,United States,CA,No,Yes,No,,1799,No,Yes,Yes,Yes,No,Yes,NA
+404,33,Male,United States,NH,No,Yes,Yes,Never,2600,Yes,Yes,Yes,Yes,Yes,Yes,NA
+405,33,Male,United States,CA,No,No,No,,1973,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+406,22,Male,Brazil,,Yes,No,No,Never,4010,Yes,Yes,Don't know,No,No,No,NA
+407,30,female,Spain,,No,Yes,No,,4297,No,Yes,No,No,No,No,NA
+408,33,male,United States,OH,No,Yes,Yes,Often,1353,Yes,Yes,Yes,Yes,No,No,NA
+409,31,Female,United States,OH,No,Yes,Yes,Rarely,953,No,No,Don't know,Not sure,No,Don't know,NA
+410,21,male,United States,MA,No,Yes,No,Never,2288,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+411,31,Enby,United Kingdom,,No,Yes,Yes,Sometimes,404,No,Yes,Don't know,No,No,No,NA
+412,26,F,United States,OK,No,No,Yes,Sometimes,2478,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+413,30,Male,United States,CA,No,Yes,No,Often,4088,No,Yes,Don't know,No,No,Don't know,NA
+414,,fluid,Germany,,No,Yes,Yes,Sometimes,2576,No,Yes,Don't know,Not sure,No,No,In Germany your employer doesn't really provide mental health benefits. There's a standard and I get that but I would get the same at any other company in Germany.
+415,23,Male,India,,No,No,No,,2967,No,Yes,No,No,No,No,NA
+416,34,Male,Finland,,No,No,No,Never,1363,No,Yes,No,No,No,No,NA
+417,55,M,United States,ID,No,Yes,Yes,Sometimes,4769,Yes,Yes,No,Yes,No,Don't know,NA
+418,,male,Germany,,No,Yes,Yes,Rarely,807,Yes,Yes,Yes,No,No,No,fwiw I am a co founder of this company and the would you X in an interview questions shouldn't reflect how I would treat anyone addressing their own phys/mental health issue to me in such a situation. 
+419,26,M,Uruguay,,No,No,No,,2558,Yes,Yes,Don't know,No,Don't know,No,NA
+420,28,Male,New Zealand,,No,Yes,Yes,Sometimes,308,Yes,Yes,Yes,Yes,Yes,No,NA
+421,32,Male,United Kingdom,,No,Yes,Yes,Sometimes,1717,No,Yes,No,No,No,Don't know,NA
+422,28,Female,United States,NY,No,No,Yes,Rarely,4564,No,No,Yes,Yes,No,Don't know,NA
+423,21,M,United States,CA,No,No,No,Sometimes,1847,No,No,Don't know,Not sure,No,Yes,NA
+424,24,Male,United States,TX,No,Yes,Yes,Sometimes,1290,No,Yes,No,Yes,No,No,NA
+425,26,Female,United States,MD,No,No,No,,1964,No,No,Yes,Not sure,Yes,Don't know,NA
+426,23,Male,United States,IN,No,No,No,,4610,No,No,Yes,No,No,No,NA
+427,24,Female,United States,OR,No,No,No,,205,No,Yes,Yes,Yes,Yes,Yes,NA
+428,28,Male,Canada,,Yes,No,No,Never,1211,Yes,Yes,Don't know,No,No,No,NA
+429,24,F,United States,NY,No,Yes,Yes,Rarely,995,No,Yes,No,No,No,No,NA
+430,33,male,United States,MS,Yes,No,Yes,Often,2407,Yes,Yes,No,No,No,No,NA
+431,34,male,United States,NJ,No,No,No,Sometimes,1955,No,Yes,Don't know,No,No,No,NA
+432,27,female,United States,CA,No,No,Yes,Sometimes,4361,No,Yes,Don't know,Not sure,No,No,I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since.
+433,28,Male,United States,TN,No,No,No,Never,1727,No,Yes,Don't know,No,No,Don't know,NA
+434,26,Male,United States,WA,No,No,No,,1838,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+435,20,Male,Australia,,No,No,No,,1530,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+436,23,female,United States,MA,No,No,Yes,Sometimes,4861,No,Yes,Yes,Yes,No,Don't know,NA
+437,29,Male,United States,PA,No,Yes,Yes,Rarely,2536,Yes,Yes,Yes,Yes,Yes,Yes,NA
+438,26,Male,United Kingdom,,No,Yes,No,Sometimes,2366,No,Yes,No,No,No,No,NA
+439,36,Male,United States,KY,No,No,No,Rarely,2377,Yes,Yes,Yes,No,Yes,Don't know,NA
+440,41,m,United States,PA,No,No,Yes,Sometimes,2164,No,Yes,Yes,Yes,Yes,Yes,NA
+441,33,female,United States,MA,No,No,No,,227,Yes,Yes,Yes,No,Don't know,No,NA
+442,23,M,Canada,,No,Yes,Yes,Sometimes,3893,No,Yes,Yes,Yes,No,No,NA
+443,39,Male,United States,CA,No,Yes,No,Often,1384,No,Yes,Yes,No,No,Don't know,NA
+444,34,M,United States,VT,No,Yes,No,,1743,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+445,26,F,United States,CA,No,No,Yes,Sometimes,3836,No,Yes,Yes,Yes,No,No,NA
+446,24,Male,United States,AZ,No,No,Yes,Rarely,522,No,Yes,Yes,Yes,Yes,No,NA
+447,37,Male,Canada,,No,Yes,Yes,Rarely,2252,No,No,Yes,Yes,Yes,Yes,NA
+448,43,Male,United States,MA,Yes,Yes,Yes,Often,1095,Yes,Yes,Yes,Yes,No,No,So much depends upon the organization. 
+449,40,Genderqueer,United States,VA,No,Yes,No,Never,1756,No,Yes,Yes,Yes,Yes,Don't know,NA
+450,30,male,United States,WA,No,Yes,Yes,Often,4905,No,Yes,Yes,Yes,Yes,No,NA
+451,34,M,United States,CA,No,No,Yes,Sometimes,3747,No,Yes,Don't know,Not sure,No,No,Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma.
+452,27,Male,United States,OR,No,Yes,Yes,Sometimes,4331,No,Yes,Don't know,Not sure,No,Don't know,NA
+453,36,Male,United States,MI,No,No,No,Sometimes,3777,No,Yes,Don't know,No,No,No,NA
+454,27,Male,Brazil,,No,No,No,Rarely,4993,No,Yes,No,Yes,No,No,NA
+455,35,Male,Netherlands,,No,Yes,No,Never,2096,No,Yes,Yes,No,No,No,Nice job on the text field for gender :-)
+456,32,Male,United Kingdom,,No,No,No,Never,1499,No,Yes,No,No,No,No,NA
+457,37,M,United States,OR,No,No,No,,522,No,Yes,Yes,No,No,No,NA
+458,29,Male,United Kingdom,,No,No,No,,1761,No,Yes,Don't know,No,Don't know,Don't know,NA
+459,33,Female ,United States,CA,No,No,No,Never,4740,No,Yes,Yes,Not sure,Yes,Yes,I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well. 
+460,28,Make,United States,UT,No,No,No,Sometimes,1063,Yes,Yes,No,Yes,No,No,NA
+461,26,Female,United States,CA,No,Yes,No,Never,4584,No,Yes,Don't know,Not sure,No,No,NA
+462,27,M,United States,TX,No,Yes,Yes,Sometimes,163,Yes,Yes,Don't know,No,Yes,Don't know,NA
+463,38,Male,United Kingdom,,Yes,No,Yes,Sometimes,2330,Yes,Yes,No,No,No,No,NA
+464,57,M,United States,CA,No,Yes,Yes,Rarely,4206,No,Yes,Yes,Yes,No,No,NA
+465,28,Male,United Kingdom,,No,No,Yes,Sometimes,1923,No,Yes,No,No,No,No,NA
+466,26,male,France,,No,No,No,Never,4783,No,Yes,No,Yes,No,No,NA
+467,42,f,Netherlands,,No,No,Yes,Rarely,4037,Yes,Yes,Yes,Yes,No,No,NA
+468,31,Male,United States,OR,No,No,Yes,Sometimes,4831,Yes,Yes,Yes,Yes,Yes,Yes,NA
+469,58,Male,United States,CA,No,No,Yes,Rarely,1589,No,Yes,Yes,Yes,Yes,Yes,NA
+470,29,Male,United States,OH,No,No,No,Sometimes,640,No,Yes,Don't know,No,No,No,NA
+471,39,Female,United Kingdom,,No,No,Yes,Sometimes,1883,No,Yes,Yes,Yes,No,Yes,NA
+472,34,Male,United States,OH,No,No,No,Sometimes,1972,Yes,Yes,Don't know,No,No,No,NA
+473,57,Male,United States,CA,No,No,Yes,Sometimes,635,No,Yes,Yes,Not sure,Yes,Yes,NA
+474,,Male,Germany,,No,Yes,Yes,Sometimes,1345,No,Yes,No,Not sure,No,No,NA
+475,,male,Germany,,Yes,Yes,Yes,Often,267,Yes,Yes,Don't know,No,Don't know,Don't know,you rock for doing this!
+476,18,male,Finland,,No,No,No,,4171,Yes,No,Don't know,No,No,Don't know,NA
+477,30,female,United States,NY,No,No,No,,3722,No,Yes,Don't know,Not sure,No,No,NA
+478,23,Male,United States,VA,No,No,No,Never,4416,No,No,Don't know,Not sure,Don't know,Don't know,NA
+479,43,M,United States,CA,No,No,Yes,Sometimes,787,No,Yes,Yes,Yes,Yes,Yes,NA
+480,18,Female,United Kingdom,,No,Yes,Yes,Sometimes,1730,Yes,Yes,Don't know,Not sure,Don't know,Don't know,I don't have a job :D
+481,29,male,United States,IL,No,No,Yes,Rarely,4204,No,Yes,Yes,Yes,No,No,NA
+482,48,M,United States,TX,No,No,No,Never,3523,No,Yes,Don't know,No,No,Don't know,NA
+483,,male,Germany,,No,No,Yes,Sometimes,3323,No,No,No,Yes,Don't know,No,NA
+484,28,Female,United States,NY,No,Yes,Yes,Sometimes,3098,No,Yes,Don't know,Not sure,No,No,NA
+485,30,Male,United States,CA,Yes,Yes,Yes,Often,66000,Yes,Yes,No,Yes,No,No,NA
+486,26,Male,Israel,MD,No,No,No,Sometimes,4094,No,Yes,No,No,No,No,Israel has public health insurance for everyone. Everyone has free mental health coverage and it's quite good. So that explains some of my answers.
+487,33,Male,Italy,,No,No,No,Never,2745,No,No,No,No,No,No,NA
+488,31,Male,United States,CA,No,No,No,,4311,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+489,30,M,United States,PA,No,No,No,Rarely,2547,No,No,Don't know,Not sure,No,No,NA
+490,27,Male,Israel,,No,No,No,,3485,No,Yes,No,No,No,No,NA
+491,24,Female,United States,CA,Yes,Yes,Yes,Sometimes,3315,Yes,Yes,No,No,Don't know,Don't know,NA
+492,25,male,United States,WA,No,No,No,,4874,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+493,23,Female,United States,NY,No,Yes,Yes,Often,964,No,Yes,Yes,Not sure,Don't know,No,NA
+494,36,m,United States,TX,No,No,Yes,Sometimes,1103,No,No,Yes,Not sure,No,No,Stigma is the worst. People first language is a small step but we can't get that right.
+495,25,female,United States,CA,Yes,Yes,Yes,Often,3370,Yes,Yes,Don't know,Not sure,No,No,NA
+496,54,Male,United Kingdom,,No,No,Yes,Sometimes,2391,Yes,No,No,Yes,Yes,Yes,NA
+497,34,Male,Netherlands,,No,No,No,Rarely,3732,No,Yes,Don't know,Not sure,Don't know,Don't know,-
+498,38,female,United States,AZ,No,No,Yes,,4376,No,Yes,Yes,Yes,No,No,NA
+499,40,Male,Ireland,,Yes,Yes,No,,385,No,Yes,No,No,No,No,NA
+500,32,male,United Kingdom,,No,No,No,,1303,No,Yes,No,Not sure,No,Don't know,NA
+501,25,Male,Germany,,No,No,No,Never,2675,No,No,Don't know,Not sure,Don't know,Yes,NA
+502,35,Female,United States,OH,No,No,Yes,Sometimes,4745,No,Yes,No,Yes,No,No,NA
+503,46,male,United States,CA,No,No,Yes,Sometimes,825,No,Yes,Yes,Yes,Yes,Yes,NA
+504,42,male,United States,KS,No,No,No,Never,3040,No,No,Yes,No,Yes,No,NA
+505,32,male,United Kingdom,,No,Yes,Yes,Sometimes,2193,Yes,Yes,Yes,No,No,No,NA
+506,47,M,United States,CA,No,Yes,Yes,Sometimes,1944,No,Yes,Yes,Yes,Yes,Yes,NA
+507,22,Male,United States,CA,No,No,No,,4700,No,Yes,Yes,Not sure,Yes,Don't know,NA
+508,33,Female,United States,NY,No,No,Yes,Sometimes,2732,Yes,Yes,Yes,Yes,Yes,Yes,NA
+509,25,f,United States,WA,No,No,No,Sometimes,1512,No,Yes,No,No,No,No,NA
+510,29,M,United States,CA,No,No,No,,2965,No,Yes,Don't know,Not sure,No,Don't know,NA
+511,39,Male,United States,WA,No,No,No,Never,1927,No,Yes,Yes,Yes,Yes,Yes,I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.
+512,38,male,United States,VA,No,Yes,Yes,Sometimes,222,No,Yes,Yes,Not sure,Yes,Yes,NA
+513,43,Male,United States,NC,No,No,No,,120,Yes,Yes,Don't know,No,No,Don't know,NA
+514,46,Male,United States,OH,No,No,Yes,Rarely,2878,Yes,Yes,Yes,Not sure,Yes,Yes,NA
+515,38,Female,United States,PA,No,Yes,Yes,Sometimes,398,No,No,Yes,Yes,Yes,Yes,NA
+516,33,Male,Germany,,No,No,Yes,Sometimes,622,No,Yes,Yes,Yes,No,No,NA
+517,34,Male,United Kingdom,,No,Yes,Yes,Often,3705,No,Yes,No,Yes,No,No,NA
+518,62,M,United States,CA,No,No,No,Never,2718,No,Yes,Yes,Yes,Don't know,Yes,NA
+519,23,F,United States,TX,No,No,No,,1836,No,No,Don't know,Not sure,Don't know,Don't know,NA
+520,35,Male,United States,AZ,No,No,No,,3880,No,No,No,No,No,No,NA
+521,25,Male,Bosnia and Herzegovina,,No,Yes,No,Rarely,219,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+522,36,M,United States,IL,Yes,Yes,Yes,Sometimes,501,Yes,Yes,Don't know,Yes,Don't know,No,NA
+523,24,male,Austria,,Yes,No,No,Sometimes,2172,No,Yes,Yes,Yes,Don't know,Don't know,NA
+524,51,Male,New Zealand,,No,No,Yes,Sometimes,3727,Yes,Yes,No,Yes,Yes,No,NA
+525,29,M,United States,NC,No,No,Yes,Sometimes,652,No,Yes,Yes,Yes,No,Yes,NA
+526,31,Female,Canada,,Yes,Yes,Yes,Sometimes,1405,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+527,27,Male,United Kingdom,,No,No,No,,3440,No,Yes,No,No,No,No,NA
+528,31,Male,Australia,,No,No,Yes,Rarely,2923,No,Yes,Yes,Yes,Yes,Yes,NA
+529,27,female,Hungary,,Yes,Yes,No,Sometimes,2162,Yes,Yes,No,No,No,No,NA
+530,23,Male,Sweden,,No,No,No,Rarely,1352,No,Yes,Don't know,No,No,Don't know,NA
+531,21,Male,Canada,,No,No,No,Never,3189,No,Yes,Don't know,Not sure,Don't know,No,NA
+532,27,Female,Australia,,No,Yes,Yes,Sometimes,351,No,Yes,No,Yes,No,No,NA
+533,39,M,United States,WI,No,Yes,Yes,Often,1970,Yes,Yes,Yes,Yes,Yes,Yes,NA
+534,26,M,United States,CA,No,Yes,Yes,Never,3864,No,Yes,Don't know,No,No,Don't know,NA
+535,27,Male,United Kingdom,,No,No,No,Never,3561,No,Yes,Don't know,No,No,No,NA
+536,22,Female,United States,CA,No,Yes,Yes,Sometimes,2236,No,Yes,Yes,Yes,No,Don't know,NA
+537,26,F,United States,MN,No,Yes,Yes,Often,2766,No,No,Don't know,No,No,No,NA
+538,31,Female,United States,PA,No,Yes,Yes,Rarely,836,No,Yes,Yes,Yes,No,No,NA
+539,,male,United Kingdom,,No,No,No,Never,4507,No,Yes,Don't know,No,No,No,NA
+540,28,female,United States,CA,No,Yes,Yes,Often,1376,Yes,Yes,Yes,No,No,Don't know,NA
+541,28,Androgyne,United Kingdom,,No,Yes,Yes,Rarely,4043,No,Yes,No,Not sure,No,No,I bring up my depression in interviews solely because I have a large gap on my CV due to mental health issues which could be mistaken for a gap taken to say have children which I feel would harm my chances much more. I have other MH issues I would never bring up with employers or peers.
+542,23,female,United Kingdom,,No,No,No,,3968,No,Yes,Don't know,Not sure,No,No,NA
+543,30,Male,United Kingdom,,No,No,No,Never,3202,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+544,36,Male,United States,CA,No,Yes,Yes,Sometimes,2056,No,Yes,Yes,No,No,Yes,NA
+545,21,M,United States,CA,No,Yes,No,,1629,No,Yes,Yes,Yes,Yes,Yes,NA
+546,30,male,Germany,,No,No,No,Often,4263,No,Yes,No,No,Don't know,No,NA
+547,25,Woman,United States,CA,No,Yes,No,,3080,No,No,Don't know,Not sure,No,No,I'm not aware of anyone with mental health issues at work it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues.
+548,32,Male,New Zealand,,No,No,Yes,Sometimes,3341,No,Yes,No,No,No,No,I suffer from mild depression and anxiety.
+549,29,female,Canada,,No,No,Yes,Sometimes,1812,No,Yes,No,No,No,No,The family history question needs a don't know option.
+550,21,Agender,United Kingdom,,No,No,Yes,Sometimes,1981,No,Yes,No,Yes,Yes,No,NA
+551,27,Female,New Zealand,,No,Yes,Yes,Rarely,2276,Yes,Yes,No,No,No,No,NA
+552,32,Female,Canada,,No,No,Yes,Often,2175,No,No,Don't know,Not sure,Don't know,Don't know,NA
+553,34,M,Australia,,No,No,No,Sometimes,1684,No,Yes,Yes,Yes,Yes,Yes,NA
+554,33,M,United States,NY,No,No,No,,1125,No,Yes,Don't know,No,Don't know,Don't know,I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else.
+555,22,Male,Netherlands,,No,Yes,Yes,Sometimes,1144,Yes,Yes,No,Not sure,No,Don't know,NA
+556,24,M,United States,CA,No,No,No,,729,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+557,65,Male,United States,FL,Yes,No,No,,1909,Yes,No,No,No,No,No,NA
+558,27,Male,United States,OR,No,Yes,Yes,Sometimes,4045,Yes,Yes,Don't know,No,No,Don't know,NA
+559,33,Male,Australia,,No,No,No,Never,344,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+560,33,Male,United States,CO,No,No,Yes,Rarely,1100,No,Yes,Don't know,Not sure,No,Don't know,NA
+561,40,Male,Canada,,No,No,No,Never,1528,No,Yes,No,No,No,No,NA
+562,28,male,United States,GA,No,No,Yes,Sometimes,2312,No,Yes,Yes,Yes,No,No,NA
+563,39,Male,United States,OR,No,No,Yes,Sometimes,2621,No,Yes,Yes,Not sure,Yes,Don't know,NA
+564,32,Male,United States,CA,No,No,Yes,Sometimes,3800,No,Yes,Yes,No,No,Yes,NA
+565,31,male,United States,CA,No,Yes,No,Sometimes,3659,No,Yes,Yes,Not sure,Don't know,Don't know,Mental health issue I have dealt with: acute depression
+566,38,Make,United States,PA,No,Yes,Yes,Sometimes,761,No,Yes,Don't know,No,No,No,NA
+567,23,Male,United States,CA,No,Yes,Yes,Rarely,2763,No,Yes,No,Yes,No,No,NA
+568,42,Make,United States,CA,No,No,Yes,Often,4493,No,Yes,Yes,Yes,Yes,Yes,NA
+569,27,Female,United States,NY,No,No,No,Sometimes,768,No,Yes,Don't know,Not sure,Don't know,Yes,NA
+570,26,Female,United States,MA,No,Yes,Yes,Sometimes,4402,No,Yes,Yes,Yes,No,No,NA
+571,37,Male,United States,PA,No,Yes,No,Never,4335,No,Yes,Don't know,No,No,Don't know,NA
+572,23,Male,United States,RI,No,No,No,,3172,No,Yes,Don't know,No,Don't know,No,NA
+573,33,M,United States,MI,No,Yes,No,Sometimes,574,Yes,Yes,Don't know,Not sure,No,No,NA
+574,29,male,Canada,,Yes,No,No,Never,1921,Yes,Yes,Yes,Yes,No,No,NA
+575,25,Male,United States,IL,No,Yes,Yes,Sometimes,4273,Yes,No,Yes,No,No,No,Thanks for doing this. It will help end the stigma!
+576,41,male,United States,CA,No,Yes,Yes,Often,4250,No,Yes,Yes,No,No,No,NA
+577,50,Male,United States,OR,No,Yes,No,,4145,Yes,Yes,Don't know,No,No,Don't know,NA
+578,29,Male,Canada,,No,No,Yes,Never,1509,No,No,Yes,Not sure,Yes,Yes,For clarity I work at a casino.
+579,35,Male,United States,IN,No,No,No,Never,3151,No,Yes,No,Yes,No,No,NA
+580,27,Male,Singapore,,No,No,No,Sometimes,2367,Yes,Yes,No,No,No,No,Most employers / coworkers and even immediate family is not all the time supportive to discuss depression and other problems. ie. My wife thinks she should be able to make sure that I am not depressed  which is funny because sometimes depression state has nothing to do with her. 
+581,40,Female,United States,MA,No,No,No,Never,374,No,No,Don't know,Not sure,No,No,NA
+582,27,Male,Australia,,No,No,Yes,Often,4046,Yes,Yes,No,No,No,No,NA
+583,29,f,United States,MI,No,No,No,Never,3980,No,Yes,Yes,Yes,Yes,No,NA
+584,31,Male,United States,OH,No,Yes,Yes,Sometimes,1559,No,Yes,No,No,No,No,NA
+585,43,Male,United States,OH,No,No,Yes,Sometimes,2240,No,Yes,No,Yes,No,No,NA
+586,34,Male,United States,NH,No,Yes,Yes,Sometimes,4206,Yes,Yes,Yes,Yes,No,No,NA
+587,29,Male,United States,OH,No,Yes,Yes,Sometimes,1105,No,Yes,Don't know,No,No,No,It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in.
+588,19,Male,Canada,,No,Yes,Yes,Sometimes,800,No,Yes,No,No,No,No,NA
+589,41,m,United States,TN,No,Yes,Yes,Sometimes,1403,No,Yes,Yes,Not sure,Yes,Yes,NA
+590,30,Male,United States,OR,No,Yes,No,Never,4922,No,Yes,Yes,Yes,Yes,Yes,NA
+591,23,Male,United States,PA,No,No,No,Rarely,1713,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+592,31,M,United States,NY,No,No,No,,3414,Yes,Yes,Don't know,No,No,Don't know,NA
+593,43,Male,United States,WA,No,No,No,,2012,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+594,31,Male,United States,NY,No,Yes,Yes,Rarely,3821,No,Yes,No,No,No,Don't know,NA
+595,29,Male,United States,CA,No,Yes,No,Often,1478,No,Yes,Yes,Yes,Yes,Yes,NA
+596,35,Male,United States,TN,Yes,Yes,No,,1439,Yes,Yes,No,No,Yes,Yes,The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here.
+597,33,Male,United States,WI,No,Yes,Yes,Sometimes,3507,No,No,Yes,Not sure,No,No,NA
+598,30,cis-female/femme,United States,WI,Yes,Yes,Yes,Often,4840,Yes,No,No,Yes,No,Yes,Because I'm self-employed and the only person in my organization I would have liked a not applicable option. I don't want my answers to be misleading.
+599,27,male,United States,PA,No,No,No,,1153,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+600,40,Male,United States,MI,No,No,No,Sometimes,2409,No,Yes,No,Yes,No,No,NA
+601,50,Male,United States,WY,No,No,No,Sometimes,1527,Yes,Yes,Don't know,No,No,Don't know,I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome.
+602,24,male,United States,KY,No,No,No,Never,4905,No,No,Don't know,Not sure,No,No,NA
+603,27,Male,United States,NY,No,No,No,,4157,No,Yes,Don't know,No,No,No,NA
+604,27,Male,Australia,,No,No,No,Never,1737,Yes,Yes,No,No,No,No,NA
+605,32,Male,United States,TX,No,No,Yes,Sometimes,3869,No,Yes,No,Yes,No,No,I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss.
+606,42,Male,United States,WI,Yes,No,No,Rarely,4375,Yes,No,No,Yes,No,No,NA
+607,37,Male,United States,WA,No,No,No,Often,3897,No,No,Don't know,No,No,No,NA
+608,30,Male,Singapore,,No,No,No,Sometimes,3309,No,Yes,Don't know,Not sure,No,No,NA
+609,29,Male,United States,WA,No,No,No,Rarely,4419,No,Yes,Yes,No,No,No,NA
+610,30,Male,United States,GA,Yes,No,Yes,Often,2128,Yes,Yes,No,Not sure,No,Yes,NA
+611,35,Male,United States,MI,No,No,No,Never,3373,No,Yes,Yes,No,Yes,Don't know,NA
+612,35,Male,United States,MD,No,Yes,Yes,Rarely,1711,Yes,No,Yes,Yes,No,No,I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims.
+613,38,male,Netherlands,,No,Yes,No,Often,4937,Yes,Yes,No,Not sure,No,Don't know,NA
+614,22,Male,United Kingdom,,No,Yes,Yes,Sometimes,280,No,Yes,Yes,Yes,No,No,NA
+615,24,m,Germany,,No,Yes,No,Sometimes,2630,No,Yes,Don't know,No,No,No,We don't fucking talk about it ever.
+616,22,M,Netherlands,,Yes,No,No,Never,274,No,Yes,Don't know,Not sure,No,No,NA
+617,31,Female,United States,WA,No,No,Yes,Often,3800,Yes,Yes,Yes,Yes,No,No,NA
+618,23,female,United States,CA,No,Yes,Yes,Sometimes,3709,No,Yes,Yes,Yes,Yes,Yes,NA
+619,31,Female,United States,OR,No,Yes,Yes,Sometimes,4182,No,Yes,Don't know,No,No,No,NA
+620,28,Female,United States,CA,No,Yes,Yes,Rarely,315,No,Yes,Yes,Yes,Yes,Yes,NA
+621,37,Guy (-ish) ^_^,Canada,,No,Yes,Yes,Sometimes,3719,No,No,Yes,Yes,No,No,NA
+622,34,male,United States,CA,Yes,Yes,Yes,Sometimes,1168,No,Yes,No,Yes,No,No,thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me
+623,32,male leaning androgynous,Canada,,No,No,No,Sometimes,1790,Yes,Yes,No,Yes,No,No,NA
+624,33,Male,United States,MI,No,Yes,Yes,Sometimes,832,Yes,Yes,Yes,Not sure,No,Don't know,NA
+625,24,Female,United Kingdom,,No,No,Yes,Sometimes,4647,No,Yes,No,No,No,No,NA
+626,56,Male ,United States,MA,No,Yes,Yes,Rarely,4805,No,Yes,Yes,Yes,No,No,NA
+627,31,Male,Germany,,No,No,No,Sometimes,3050,Yes,Yes,No,No,No,No,NA
+628,34,female,United States,CA,No,No,Yes,Sometimes,1119,Yes,Yes,Yes,Yes,No,Don't know,NA
+629,35,m,Germany,,No,No,Yes,Rarely,2743,No,No,Don't know,No,Yes,Don't know,NA
+630,28,male,Germany,,No,No,No,Never,3620,No,Yes,No,No,No,No,NA
+631,36,male,Poland,,Yes,Yes,Yes,Often,1767,No,Yes,No,No,No,No,NA
+632,30,Male,United Kingdom,,No,No,Yes,Often,4175,No,Yes,No,No,No,No,NA
+633,49,male,Japan,,Yes,Yes,Yes,Sometimes,4966,Yes,Yes,No,Yes,Yes,No,NA
+634,36,Male,Germany,,No,No,No,,377,No,Yes,Yes,Yes,No,No,NA
+635,35,male,Germany,,No,No,No,,2858,No,Yes,No,No,No,No,NA
+636,29,Female,Australia,,No,Yes,Yes,Sometimes,3080,No,No,Yes,Yes,Yes,Yes,NA
+637,57,Male,United States,CA,No,No,No,Never,3895,No,Yes,Yes,Yes,No,Yes,NA
+638,31,female,Belgium,,No,Yes,Yes,Rarely,2981,No,No,Yes,No,No,No,NA
+639,37,Male,Ireland,,Yes,No,No,Never,2687,No,Yes,No,No,No,No,NA
+640,25,Male,Ireland,,No,Yes,Yes,Sometimes,376,No,Yes,No,No,No,No,NA
+641,30,Male,Australia,,No,No,No,Sometimes,4268,No,Yes,No,No,No,No,NA
+642,26,F,Australia,,No,Yes,No,Sometimes,2432,No,No,No,Yes,Yes,Yes,Majority of qs on survey not relevant if you are self employed
+643,22,Female,Netherlands,,No,No,No,Often,2512,No,Yes,No,No,No,No,NA
+644,39,M,United States,FL,No,No,No,Rarely,806,Yes,No,Don't know,No,Yes,Yes,I mostly suffer from social anxiety which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something so he's doing the job of at least two ppl (poorly) and working crazy hours setting the tone for the test of us that work/life balance isn't important.
+645,29,Male,United Kingdom,,No,Yes,Yes,Never,3323,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+646,54,male,United Kingdom,,Yes,Yes,Yes,Sometimes,932,Yes,Yes,Don't know,Not sure,No,No,NA
+647,34,Female,Australia,,No,Yes,No,Never,4122,No,No,Don't know,No,Yes,Yes,I don't have any mental health issues but for a number of years I had to care for a family member who did and I felt that I was not able to discuss or get support from friends or colleagues in the same way that I might have if they had suffered from a physical condition.
+648,32,M,United States,WA,No,No,Yes,Never,4496,No,No,Yes,Not sure,Yes,Yes,NA
+649,25,Male,Nigeria,,No,No,No,,1487,No,Yes,No,No,No,No,NA
+650,29,male,Poland,,No,No,No,Rarely,176,No,Yes,No,No,No,No,NA
+651,32,male,Germany,,Yes,No,No,Never,3190,Yes,Yes,No,No,No,No,NA
+652,30,M,United Kingdom,,No,Yes,Yes,Sometimes,928,No,Yes,Yes,Yes,No,Don't know,NA
+653,31,male,Germany,,No,No,No,,918,No,Yes,Don't know,No,No,Don't know,NA
+654,20,F,Switzerland,,No,No,No,Rarely,4137,No,Yes,Yes,Yes,Yes,Yes,NA
+655,27,Male,United Kingdom,,No,No,No,Never,3471,No,Yes,Don't know,No,No,Don't know,NA
+656,32,Male,United States,CA,No,No,No,Never,1066,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+657,26,Male,Ireland,,Yes,No,No,Never,1739,Yes,Yes,No,No,No,No,NA
+658,30,Male,Italy,,No,No,No,Sometimes,751,No,No,Don't know,No,No,No,NA
+659,30,Male,Ireland,,No,No,Yes,Sometimes,950,Yes,Yes,No,No,Don't know,No,NA
+660,22,male,India,,Yes,No,No,,4619,Yes,Yes,Don't know,No,Don't know,Don't know,NA
+661,24,male,Ireland,,No,No,No,,2136,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+662,26,m,Netherlands,,No,No,No,Never,4094,No,Yes,No,No,No,No,NA
+663,43,male,France,,No,No,No,,1410,No,Yes,Don't know,No,No,No,NA
+664,26,Male,Russia,,No,No,No,Never,3036,No,Yes,No,Not sure,No,Don't know,NA
+665,23,Male,United States,NC,No,Yes,No,Sometimes,1826,No,Yes,Don't know,Not sure,No,Don't know,NA
+666,26,Man,Canada,,No,No,No,,2870,Yes,Yes,Yes,Not sure,Don't know,Yes,NA
+667,26,female,Israel,,No,Yes,No,Never,3582,No,Yes,Don't know,No,Don't know,Don't know,NA
+668,35,Male,Canada,,No,Yes,No,Sometimes,1753,No,Yes,Don't know,No,No,No,NA
+669,28,Male,United States,IL,No,No,Yes,Sometimes,4056,Yes,No,Don't know,Not sure,No,Don't know,NA
+670,22,Male,India,,No,No,No,,2984,No,Yes,No,No,No,No,NA
+671,29,Female,United States,OH,No,Yes,Yes,Rarely,4080,No,Yes,Don't know,No,No,No,NA
+672,29,Male,Germany,,Yes,No,No,,2026,No,Yes,No,Yes,No,No,NA
+673,45,Male,United States,VA,No,No,Yes,Often,601,Yes,Yes,Yes,Not sure,No,Yes,NA
+674,33,male,Bulgaria,,No,No,Yes,Rarely,4326,Yes,Yes,No,No,No,No,NA
+675,38,Male,United States,MN,No,No,Yes,Sometimes,567,No,No,Yes,Yes,Yes,Yes,NA
+676,19,Trans woman,United States,MO,No,Yes,Yes,Often,4963,No,No,Don't know,Not sure,No,No,NA
+677,29,female,Canada,,No,No,Yes,Rarely,197,Yes,No,Yes,Yes,Yes,Don't know,NA
+678,21,Female,United Kingdom,,No,No,No,,3015,No,Yes,No,No,No,No,NA
+679,23,Female,India,,No,Yes,Yes,Sometimes,2877,No,Yes,Don't know,Not sure,No,Don't know,NA
+680,33,female,United States,NC,No,Yes,Yes,Rarely,2245,No,Yes,Yes,Yes,Yes,Yes,NA
+681,27,Male,United States,NY,No,Yes,Yes,Sometimes,2549,No,Yes,Yes,Not sure,Yes,Yes,NA
+682,28,Male,United States,NM,No,No,No,,4573,Yes,Yes,Don't know,No,No,No,NA
+683,27,f,United Kingdom,,No,No,Yes,Sometimes,1463,Yes,Yes,Don't know,Not sure,Yes,Don't know,NA
+684,23,male,Canada,,No,No,Yes,Sometimes,2811,No,Yes,Yes,No,No,No,NA
+685,29,M,Netherlands,,No,No,No,Never,4533,Yes,Yes,No,No,No,No,NA
+686,30,m,Germany,,No,No,No,,1472,No,Yes,Don't know,No,No,Don't know,NA
+687,28,Female,Canada,,No,No,No,,1809,No,Yes,Yes,Not sure,Don't know,Don't know,I am a contractor so my lack of knowledge of workplace wellness stems directly from my lack of access to that material since I am not covered by it. I am aware that mental health services are available and am aware of a colleague who has taken a leave of absence to deal with mental health issues but am otherwise uninformed.
+688,32,Male,United Kingdom,,No,No,No,,1893,No,Yes,No,No,No,No,NA
+689,32,Male,United Kingdom,,No,No,Yes,Sometimes,4762,No,No,Yes,Yes,No,No,NA
+690,37,Male,France,,No,No,No,,3613,No,Yes,No,No,No,No,NA
+691,39,F,United States,TX,No,No,No,,1942,Yes,No,No,Yes,No,No,NA
+692,31,male,France,,No,No,No,,2267,No,Yes,Don't know,No,No,Don't know,NA
+693,29,Male,United States,SC,No,No,No,,1520,No,Yes,No,No,No,Don't know,NA
+694,30,M,United States,FL,No,No,No,,2821,No,No,Yes,No,No,Don't know,NA
+695,33,M,United States,WA,Yes,Yes,Yes,Rarely,2603,Yes,Yes,No,Yes,Yes,Yes,NA
+696,37,male,United States,CA,No,Yes,Yes,Sometimes,1062,No,Yes,Yes,Yes,Don't know,Don't know,NA
+697,23,Male,United States,OH,No,No,Yes,Often,4090,No,No,Yes,Yes,Yes,No,NA
+698,43,M,United States,TN,No,Yes,Yes,Sometimes,2446,No,No,Yes,Not sure,No,Yes,NA
+699,32,Male,United Kingdom,,No,No,Yes,Rarely,1947,No,Yes,Don't know,No,No,No,NA
+700,26,Male,United States,NY,No,No,No,Never,2581,No,Yes,Don't know,Not sure,No,No,NA
+701,32,Male,United States,NY,Yes,No,Yes,Sometimes,3380,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+702,37,F,United States,MO,No,No,No,,2323,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+703,29,Male,United States,NY,No,No,Yes,Often,3190,No,Yes,Yes,Yes,No,No,NA
+704,34,Male,United Kingdom,,No,No,No,,1083,No,Yes,No,No,No,No,NA
+705,27,male,France,,No,No,No,,1694,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+706,30,male,United States,TN,No,Yes,No,Never,621,No,Yes,Don't know,No,No,Don't know,NA
+707,34,Male,United States,CO,No,No,No,Never,3957,No,Yes,Yes,Yes,No,Yes,NA
+708,32,Male,United States,PA,Yes,Yes,Yes,Sometimes,2192,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+709,26,male,United Kingdom,,No,No,Yes,Sometimes,3112,No,No,No,No,No,No,NA
+710,25,Male,Germany,,No,No,No,,4166,No,Yes,Yes,Yes,Don't know,Yes,NA
+711,37,male,United States,NY,Yes,No,No,,2346,Yes,Yes,Yes,Yes,Yes,No,NA
+712,29,Male,Netherlands,,No,Yes,No,,1550,No,Yes,No,No,No,No,NA
+713,27,Man,United States,MN,No,No,No,,1514,No,Yes,Yes,Not sure,No,Don't know,NA
+714,33,Male,United Kingdom,,No,No,No,,1391,No,Yes,Don't know,No,No,No,NA
+715,30,male,Canada,,No,Yes,Yes,Sometimes,4968,No,No,Don't know,No,No,No,NA
+716,29,male,Canada,,No,No,No,,542,Yes,Yes,No,Yes,No,No,NA
+717,25,Male,United States,MO,No,Yes,Yes,Never,3096,Yes,Yes,Don't know,No,Yes,Don't know,NA
+718,33,Male,United States,WY,No,Yes,Yes,Sometimes,4553,No,No,No,Yes,No,No,NA
+719,31,Male,South Africa,,No,No,No,Never,2573,Yes,Yes,No,No,No,No,Fully remote developer
+720,21,male,Germany,,No,No,No,Rarely,3293,Yes,Yes,Don't know,No,No,No,NA
+721,30,Male,Switzerland,,No,Yes,Yes,Sometimes,3625,No,Yes,Don't know,No,No,No,NA
+722,29,Male,United States,MN,No,No,No,,3704,No,No,Don't know,Not sure,Don't know,Don't know,NA
+723,43,Male,Croatia,,Yes,No,Yes,Sometimes,433,Yes,Yes,No,No,No,No,NA
+724,37,m,United Kingdom,,No,No,Yes,Often,2950,No,Yes,No,No,No,No,NA
+725,24,Male,France,,No,No,No,,586,No,Yes,No,No,Yes,No,NA
+726,29,Male,United States,MD,No,No,No,,628,Yes,Yes,Don't know,Not sure,No,No,NA
+727,31,Male,United States,KY,No,No,No,,4078,No,No,Yes,Yes,Yes,Yes,NA
+728,5,Male,United States,OH,No,No,No,,1364,No,Yes,Don't know,Not sure,No,No,We had a developer suffer from depression and pretty hard burnout but he refused treatment even when the company said we'd foot the bill. Eventually he had to be asked to resign which was a shame. I don't know if we have any specific programs for mental health but we're definitely on the lookout for those types of issues.
+729,33,Male,United Kingdom,,Yes,No,No,Never,2797,No,No,No,Not sure,No,No,NA
+730,43,male,United States,NY,No,No,No,,4048,No,No,Yes,Yes,Don't know,Yes,NA
+731,33,Male,United Kingdom,,No,No,Yes,Sometimes,3454,No,Yes,Don't know,Not sure,No,No,NA
+732,,Male,United Kingdom,,No,No,No,,2692,No,Yes,No,No,No,Yes,NA
+733,36,Male,United States,TN,No,Yes,Yes,Sometimes,1145,Yes,No,Don't know,No,Don't know,Don't know,NA
+734,37,male,Australia,,No,Yes,Yes,Sometimes,716,No,Yes,No,Yes,No,No,NA
+735,32,male,Belgium,,No,No,No,,3521,No,Yes,No,Yes,No,No,NA
+736,39,Male,United Kingdom,,No,No,Yes,Sometimes,4290,No,Yes,No,No,No,No,NA
+737,31,Male,United States,TX,No,Yes,Yes,Sometimes,2366,No,Yes,Yes,Yes,No,Don't know,NA
+738,36,Male,United States,OH,No,No,Yes,Sometimes,1723,Yes,Yes,Yes,Yes,No,No,I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture. 
+739,30,Male,United States,TX,Yes,No,Yes,Sometimes,2675,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+740,28,male,Canada,,No,No,No,,3861,No,Yes,Yes,Not sure,No,Don't know,NA
+741,32,Male,Italy,,No,No,No,,4836,No,Yes,No,No,No,No,Italians are somewhat behind for what concerns mental health care in the workplace.  Physical health care is very much accepted with a doctor that certifies your ailment.  Mental health is treated quite differently I believe because most people are willing to admit that physical ailments should be covered while mental ailments are almost considered non-existent in most respects.  
+742,35,Male,United States,CA,No,Yes,Yes,Rarely,4340,No,Yes,Yes,Yes,Yes,Yes,Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this.
+743,19,Male,Canada,,No,No,Yes,Sometimes,3350,No,Yes,Don't know,Not sure,No,No,NA
+744,33,m,Norway,,No,Yes,No,,1950,No,Yes,Yes,Yes,No,No,NA
+745,42,male,Germany,,No,No,No,,109,Yes,Yes,Don't know,Not sure,Yes,Yes,NA
+746,37,Male,United States,MI,No,Yes,Yes,Sometimes,1251,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+747,40,Male,Thailand,,Yes,No,No,Never,3287,No,Yes,No,No,No,No,NA
+748,36,M,United States,CA,No,No,No,Never,2901,No,Yes,Yes,Yes,Yes,Yes,NA
+749,29,Female,United States,OR,No,Yes,Yes,Sometimes,4555,Yes,No,Don't know,No,No,Don't know,NA
+750,38,f,United States,NC,No,Yes,Yes,Sometimes,3238,No,No,Yes,Not sure,No,Don't know,I work for the state so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department but hardly run like any tech company around.
+751,26,M,United States,CA,No,Yes,Yes,Sometimes,4510,No,Yes,Yes,No,Yes,Don't know,NA
+752,34,male,Germany,,No,No,No,Rarely,4003,No,Yes,No,No,No,No,NA
+753,21,Male,United States,IL,No,No,Yes,Often,3013,No,No,No,Yes,No,No,I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating.
+754,31,Male,Canada,,Yes,Yes,No,Sometimes,2349,Yes,Yes,No,Yes,No,No,I feel like most of my answers were useless due to answering that I am self-employed early on. Since my employer is me... my employer does/doesn't offer mental health benefits or would I be comfortable bring it up with 'them' doesn't make sense...
+755,37,Female,United States,CA,No,Yes,Yes,Rarely,290,No,No,Yes,Yes,Yes,Yes,NA
+756,37,Male,Ireland,,No,Yes,Yes,Sometimes,1996,No,Yes,No,No,No,No,NA
+757,38,Male,Ireland,,No,Yes,Yes,Sometimes,2883,No,Yes,No,No,No,No,NA
+758,27,Female,United States,CA,No,No,Yes,Sometimes,1149,No,Yes,Don't know,Not sure,Yes,Don't know,NA
+759,39,Male,Netherlands,,Yes,No,No,,2592,No,Yes,No,No,Yes,No,NA
+760,33,Female,United States,AZ,Yes,Yes,Yes,Sometimes,1749,No,Yes,Yes,Yes,Yes,Yes,NA
+761,27,Male,United Kingdom,,No,No,No,Never,580,No,Yes,Don't know,Not sure,No,Don't know,NA
+762,36,F,United States,CA,No,No,Yes,Never,4322,Yes,Yes,Yes,No,No,No,NA
+763,28,Male,United Kingdom,,No,No,No,Never,4036,No,Yes,Don't know,Not sure,No,No,NA
+764,39,male,United Kingdom,,No,No,Yes,Sometimes,1686,No,No,Don't know,No,No,No,NA
+765,33,Male,United States,VA,Yes,Yes,Yes,Sometimes,4095,Yes,Yes,No,Yes,No,No,My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company. 
+766,32,Male,United Kingdom,,No,No,No,,1104,No,No,Don't know,Not sure,No,Don't know,NA
+767,28,Male,United Kingdom,,No,No,No,,4003,No,No,Don't know,Not sure,No,Don't know,NA
+768,37,Male,United Kingdom,,No,Yes,Yes,Rarely,836,No,Yes,No,No,No,No,Some of these questions are not really suitable for non US people.
+769,39,Male,Canada,,No,No,Yes,Sometimes,3689,No,No,Yes,Yes,Yes,Yes,NA
+770,43,msle,United States,VA,No,No,No,Sometimes,4838,Yes,Yes,Don't know,No,No,Don't know,NA
+771,32,Neuter,United Kingdom,,No,No,Yes,Sometimes,2089,No,No,Don't know,No,Yes,Yes,NA
+772,27,Female,United States,WA,No,No,No,,4480,No,Yes,Don't know,Not sure,No,Yes,NA
+773,31,Female,United Kingdom,,No,No,No,,3761,No,Yes,Don't know,No,No,No,NA
+774,,Male,United Kingdom,,No,No,Yes,Never,3926,No,Yes,Don't know,No,No,Don't know,NA
+775,33,Male,United States,WI,No,No,Yes,Sometimes,667,Yes,Yes,No,Yes,No,No,NA
+776,34,male,United Kingdom,,No,Yes,Yes,Sometimes,4877,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+777,33,M,United States,CA,Yes,No,No,,3950,No,Yes,Don't know,No,No,No,NA
+778,25,Male,United States,CA,No,No,No,,1276,No,Yes,Don't know,No,No,No,NA
+779,25,Male,United States,NE,No,Yes,Yes,Sometimes,1095,No,No,Yes,Yes,Yes,Yes,NA
+780,32,Male,United Kingdom,,Yes,Yes,No,,1245,No,Yes,No,Yes,No,No,NA
+781,25,Male,United States,CO,No,Yes,Yes,Sometimes,2402,No,Yes,Yes,Yes,Don't know,Don't know,NA
+782,37,Male,Netherlands,,No,No,No,,587,Yes,No,Don't know,No,Don't know,Don't know,NA
+783,39,m,Switzerland,,No,No,Yes,Never,2541,No,Yes,Yes,Yes,Yes,Yes,NA
+784,29,M,United Kingdom,,No,No,No,Rarely,3156,No,Yes,Don't know,Not sure,No,No,NA
+785,33,Male,United States,NY,No,No,Yes,Sometimes,1531,No,Yes,Yes,Yes,Don't know,Don't know,NA
+786,37,female,United States,TX,No,No,Yes,Often,2580,Yes,Yes,Don't know,Not sure,No,No,NA
+787,35,Female,United States,LA,No,No,Yes,Sometimes,2805,No,No,Yes,No,No,No,I work for the state government. While things are slowly changing regarding covering mental health with state employees it's just not something that is acceptable in this kind of strict environment so I have to be careful about what I say and how I say it. I often take mental health days but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave.
+788,22,Female,United States,WA,No,Yes,Yes,Sometimes,2919,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+789,38,Male,United States,MI,No,No,No,Never,1990,No,Yes,Yes,Yes,No,No,NA
+790,32,Female,United States,CA,No,Yes,Yes,Often,4245,No,Yes,Yes,No,No,Don't know,NA
+791,28,Male,Brazil,,No,No,No,,4081,No,Yes,Don't know,No,No,No,NA
+792,27,Male,Switzerland,,No,Yes,No,,1410,No,Yes,No,No,No,No,Thank you for your work what you do is important!
+793,35,female,United States,CA,No,No,Yes,Sometimes,2936,Yes,Yes,Don't know,No,Don't know,Don't know,It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it.
+794,29,Male,United States,MD,No,No,No,Never,3858,No,No,Yes,Yes,Yes,No,NA
+795,23,Male,United States,CA,No,Yes,Yes,Sometimes,3593,No,Yes,No,Yes,No,No,NA
+796,39,M,United States,CT,No,No,No,,2347,Yes,Yes,Yes,No,No,No,NA
+797,30,Female,United States,CA,No,No,No,,808,No,Yes,Yes,Yes,Yes,Yes,NA
+798,32,M,United Kingdom,,No,No,No,,829,No,Yes,Don't know,Not sure,No,Don't know,NA
+799,28,Female (trans),United States,CA,No,No,Yes,Sometimes,4200,No,Yes,No,Yes,No,No,NA
+800,40,female,United States,WA,No,Yes,Yes,Sometimes,2606,No,No,Yes,Yes,Yes,Yes,I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me!
+801,36,f,United States,CA,No,Yes,No,,2489,No,Yes,Don't know,No,No,Don't know,NA
+802,27,Male,United States,IN,No,No,No,,4638,Yes,Yes,Don't know,Not sure,No,Don't know,NA
+803,41,Male,United States,TX,No,Yes,No,Sometimes,3536,No,Yes,Yes,Yes,No,Yes,NA
+804,29,Male,United Kingdom,,No,No,No,Never,2517,No,Yes,Don't know,No,No,No,NA
+805,29,m,United Kingdom,,No,No,Yes,Sometimes,917,No,Yes,No,No,No,No,NA
+806,35,Male,United States,MO,No,No,Yes,Often,4446,No,No,No,No,No,No,NA
+807,28,Male,United States,NV,No,No,Yes,Never,2473,Yes,Yes,No,Yes,No,No,NA
+808,36,F,United Kingdom,,Yes,No,No,Sometimes,738,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+809,39,Female,United States,WA,No,No,No,Sometimes,671,No,Yes,Don't know,Not sure,No,Don't know,NA
+810,39,Male,United States,FL,No,Yes,Yes,Sometimes,2688,No,Yes,Yes,Yes,Yes,Yes,NA
+811,26,queer,Germany,,Yes,No,Yes,Sometimes,130,Yes,Yes,No,Not sure,Yes,Yes,NA
+812,35,Male,Denmark,,Yes,Yes,Yes,Often,171,No,Yes,No,Yes,Yes,No,NA
+813,40,Female,United States,WA,No,Yes,Yes,Sometimes,3277,No,No,Yes,Not sure,Yes,Don't know,NA
+814,35,Male,Denmark,,Yes,Yes,Yes,Often,146,No,Yes,No,Yes,Yes,No,NA
+815,38,M,United States,IL,No,No,No,Never,1793,Yes,Yes,No,Yes,No,No,NA
+816,34,Male,United States,FL,No,No,No,,1422,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+817,43,M,United States,MA,No,No,No,,2849,No,Yes,Yes,No,Yes,Yes,NA
+818,48,Female (cis),United States,CA,No,Yes,No,Often,3005,No,Yes,Don't know,No,No,No,None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health.
+819,20,Male,United States,WA,No,No,No,Never,435,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+820,40,M,United States,MI,Yes,No,No,Sometimes,4453,Yes,Yes,Don't know,Not sure,No,No,NA
+821,29,female,United Kingdom,,No,No,Yes,Rarely,2504,No,Yes,Don't know,No,No,No,NA
+822,35,Male,United States,MI,No,Yes,Yes,Sometimes,3400,No,No,No,Yes,No,No,NA
+823,29,Male,United States,WI,No,Yes,No,Sometimes,3804,Yes,No,Yes,Yes,No,Yes,NA
+824,40,M,United States,CA,No,No,No,Never,3030,No,Yes,Yes,Not sure,No,Don't know,NA
+825,29,Male,Sweden,,No,No,Yes,Rarely,3379,No,Yes,No,Yes,No,No,NA
+826,29,F,United States,CA,No,Yes,Yes,Rarely,4682,No,Yes,Yes,Not sure,Don't know,No,NA
+827,34,male,United States,TX,No,No,Yes,Sometimes,1739,No,Yes,No,No,No,No,NA
+828,44,Male,United Kingdom,,No,Yes,Yes,Sometimes,524,No,No,Don't know,No,No,No,NA
+829,24,female,United States,NY,No,Yes,Yes,Often,2778,No,Yes,Yes,Yes,No,No,NA
+830,47,F,United States,PA,No,No,No,,3628,Yes,Yes,Don't know,No,No,Don't know,NA
+831,43,m,United Kingdom,,No,Yes,No,,2315,No,No,Don't know,No,No,No,NA
+832,36,M,United States,PA,No,No,No,Rarely,4768,No,Yes,Yes,Yes,Yes,Yes,NA
+833,43,male,United States,GA,No,No,Yes,Sometimes,2437,No,No,Don't know,No,No,Don't know,NA
+834,36,male,United Kingdom,,Yes,No,No,Sometimes,2724,Yes,Yes,No,No,No,No,NA
+835,31,Female,United States,NY,No,Yes,Yes,Sometimes,597,No,Yes,Yes,Yes,No,No,I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. 
+836,35,Male,United States,CA,No,No,No,Sometimes,1577,No,Yes,Don't know,Not sure,Yes,Don't know,NA
+837,33,male,United States,TN,No,Yes,No,,4152,No,No,Yes,No,No,No,NA
+838,37,Male,Italy,,No,No,No,Sometimes,3768,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+839,34,M,United States,TN,No,No,Yes,Sometimes,2025,No,Yes,Don't know,No,Yes,Don't know,At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(
+840,36,Male,Netherlands,,Yes,No,Yes,Sometimes,123,No,Yes,No,No,No,No,NA
+841,40,m,United States,TN,Yes,Yes,Yes,Sometimes,4598,Yes,Yes,No,Yes,No,No,NA
+842,40,M,United States,IL,No,No,No,Rarely,414,No,Yes,Yes,Yes,Yes,Yes,While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey.
+843,42,Male,United States,WI,No,No,Yes,Sometimes,4026,Yes,Yes,No,Yes,No,No,NA
+844,23,M,United States,KY,No,Yes,No,,2512,Yes,Yes,Yes,Yes,No,Don't know,NA
+845,21,Male,United Kingdom,,No,Yes,No,Never,3090,No,No,No,No,No,No,NA
+846,26,Male,Canada,,No,No,No,Sometimes,2787,Yes,Yes,No,No,No,No,NA
+847,25,M,United States,CA,No,Yes,No,,2146,No,Yes,Yes,Yes,Yes,Yes,NA
+848,51,Male,United States,MN,No,No,No,Never,3461,Yes,Yes,Yes,Yes,Yes,Yes,NA
+849,24,Male,United States,TN,No,No,No,,4458,No,Yes,Don't know,Not sure,Don't know,No,NA
+850,33,Male,United States,MN,No,No,No,,226,No,Yes,No,No,No,No,The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health.
+851,32,male,United Kingdom,,No,Yes,Yes,Rarely,3706,No,No,No,No,No,No,NA
+852,32,male,United Kingdom,,No,Yes,Yes,Rarely,3100,No,No,No,No,No,No,NA
+853,26,Male,United Kingdom,,Yes,No,Yes,Rarely,2815,Yes,Yes,No,Not sure,Don't know,Don't know,NA
+854,23,M,United States,IL,No,No,No,Never,559,No,No,Don't know,No,Don't know,Don't know,NA
+855,33,Male,United States,TN,No,Yes,Yes,Often,4018,Yes,Yes,No,Yes,No,No,NA
+856,46,Male,United States,IL,No,No,Yes,Rarely,615,No,No,Yes,Yes,Yes,Yes,NA
+857,34,male,United Kingdom,,No,No,No,,3471,Yes,Yes,No,No,No,No,NA
+858,35,M,United States,DC,No,Yes,Yes,Sometimes,1905,No,Yes,Yes,Yes,No,No,NA
+859,39,M,United States,KS,No,No,No,,289,Yes,Yes,No,Yes,No,No,Thank you for all you are doing to study this topic and raise awareness in our communities. 
+860,32,male,Germany,,Yes,No,No,Sometimes,2392,Yes,Yes,No,Yes,No,No,NA
+861,43,Male,Mexico,,Yes,No,No,,2642,Yes,Yes,Don't know,No,No,Don't know,NA
+862,56,m,United States,CA,No,No,Yes,Rarely,4042,Yes,Yes,Yes,Yes,Don't know,Yes,NA
+863,32,Female,United Kingdom,,No,Yes,Yes,Sometimes,296,No,Yes,Don't know,No,No,No,NA
+864,41,male,United Kingdom,,No,No,No,,1704,No,No,Yes,Yes,Yes,Yes,NA
+865,39,Male,United States,TN,No,No,No,,1500,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+866,37,Male,United States,OK,No,Yes,No,,2545,No,No,Yes,Yes,No,No,NA
+867,30,m,United States,CA,Yes,Yes,Yes,Sometimes,636,Yes,Yes,Don't know,Not sure,No,Don't know,The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.)
+868,31,Male,United States,TN,No,No,No,,1802,No,Yes,Yes,No,Yes,No,NA
+869,29,M,United States,TX,No,No,No,,566,No,No,Don't know,Not sure,No,Don't know,NA
+870,23,Female,United Kingdom,,No,Yes,No,Never,1220,No,No,No,No,No,Yes,NA
+871,31,male,United States,CO,No,No,Yes,Never,1125,No,Yes,Yes,Yes,No,Don't know,NA
+872,29,Male,United States,TN,No,Yes,Yes,Sometimes,1680,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+873,30,Mail,United States,GA,No,No,No,Never,1122,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+874,37,Male,United States,TN,No,No,No,Never,2788,Yes,Yes,Yes,No,Yes,Don't know,(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence)
+875,36,male,United States,VA,Yes,No,No,Never,1986,No,Yes,Yes,No,No,Don't know,NA
+876,35,Male,United States,TN,No,Yes,Yes,Sometimes,2072,Yes,Yes,Yes,Yes,No,Don't know,NA
+877,41,M,United States,DC,No,Yes,No,Never,509,Yes,No,Don't know,No,No,No,NA
+878,31,Male,United Kingdom,,No,No,Yes,Rarely,1592,No,Yes,Don't know,Not sure,No,No,NA
+879,38,m,United Kingdom,,No,Yes,No,,2458,No,No,Yes,Yes,Yes,Yes,NA
+880,26,Male,India,,Yes,No,No,,3552,No,Yes,No,No,No,No,NA
+881,39,Male,United States,TN,No,Yes,No,Sometimes,1737,No,Yes,Yes,No,Yes,Yes,I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated.
+882,42,male,United States,VA,Yes,Yes,No,Sometimes,2668,Yes,No,Yes,Not sure,Don't know,Yes,NA
+883,32,Male,United States,TN,Yes,Yes,Yes,Rarely,4895,Yes,Yes,No,Yes,No,No,NA
+884,29,m,United States,TN,No,Yes,No,,3125,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+885,30,Male,United States,TN,No,Yes,No,Never,1135,No,Yes,Yes,No,Don't know,Yes,NA
+886,40,M,United States,TN,No,Yes,Yes,Often,185,Yes,Yes,Don't know,Not sure,No,Don't know,Bipolar spectrum is tricky.
+887,51,m,United States,TN,No,No,No,,1581,No,No,Don't know,Not sure,No,Don't know,NA
+888,33,Male,United States,IN,No,No,No,Never,4536,No,Yes,Yes,Yes,Yes,Yes,NA
+889,34,male,Germany,,Yes,No,Yes,Sometimes,2115,Yes,Yes,No,Not sure,No,No,To be self employed helps but also brings you in touch with lots of new people that you might have to explain yourself to.
+890,50,Male,United States,VA,Yes,No,No,Never,863,Yes,Yes,No,Yes,No,No,A lot of these answers aren't really applicable since I'm self employed as a sole proprietor.
+891,24,Male,United States,TX,No,No,No,Sometimes,1048,Yes,Yes,Don't know,No,No,Don't know,NA
+892,25,Male,United States,TX,No,Yes,Yes,Rarely,2887,No,No,No,No,No,No,NA
+893,43,Male,United Kingdom,,No,Yes,Yes,Rarely,1036,No,Yes,No,No,No,No,NA
+894,25,f,United States,CA,Yes,No,Yes,Often,285,No,Yes,Yes,Yes,Yes,Yes,NA
+895,24,Male,United Kingdom,,Yes,No,No,,2510,Yes,Yes,No,Yes,No,No,NA
+896,51,m,United States,CO,Yes,No,No,Never,1530,No,Yes,No,Yes,No,No,NA
+897,49,Male,United States,OR,No,Yes,Yes,Sometimes,1113,No,Yes,Yes,Yes,No,Yes,NA
+898,30,Male,United States,OK,No,No,No,,1355,Yes,Yes,Yes,No,Yes,Yes,NA
+899,25,female,United States,OH,No,Yes,Yes,Sometimes,2881,No,Yes,Yes,Yes,Yes,No,While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.)
+900,36,Male,United States,TN,No,No,Yes,Rarely,965,Yes,Yes,Yes,Yes,Don't know,Don't know,NA
+901,48,Male,United States,VA,No,No,Yes,Never,1013,No,Yes,Yes,Yes,Yes,Yes,NA
+902,48,male,Australia,,No,No,Yes,Sometimes,3155,No,Yes,No,No,No,No,NA
+903,53,Male,United States,OR,No,No,Yes,Rarely,474,Yes,Yes,Yes,Yes,No,Yes,NA
+904,24,Female,United Kingdom,,No,Yes,Yes,Often,224,Yes,Yes,No,No,No,No,NA
+905,33,Male,United States,OR,No,Yes,Yes,Sometimes,3036,No,Yes,Don't know,Yes,No,Yes,NA
+906,25,Female,Canada,,No,Yes,Yes,Sometimes,1057,No,Yes,Yes,Yes,No,No,NA
+907,30,Male,United Kingdom,,No,No,Yes,Sometimes,268,No,Yes,No,No,No,No,NA
+908,30,Male,United States,PA,Yes,No,No,Never,4385,Yes,Yes,No,Yes,No,No,NA
+909,34,male,United Kingdom,,Yes,No,Yes,Sometimes,4885,Yes,Yes,No,No,No,No,NA
+910,31,Male,United States,SC,No,No,No,,4826,Yes,Yes,Yes,Yes,Yes,Yes,NA
+911,22,F,United States,CA,No,Yes,Yes,Often,3944,No,Yes,Don't know,Not sure,No,Don't know,NA
+912,28,Male,United States,TN,No,Yes,No,Sometimes,4686,No,Yes,Don't know,Not sure,No,Don't know,NA
+913,35,Male,United States,UT,No,Yes,Yes,Rarely,4633,No,No,Yes,Yes,No,Yes,NA
+914,28,Male,United States,CA,No,Yes,Yes,Sometimes,3350,No,No,Yes,No,No,No,NA
+915,42,male,New Zealand,,No,No,Yes,Sometimes,1721,No,No,No,Yes,Don't know,No,NA
+916,33,Male,United States,MO,No,Yes,No,,4247,No,Yes,Yes,No,Don't know,Don't know,NA
+917,29,male,United States,CA,No,No,No,Sometimes,4640,No,Yes,Yes,No,Yes,No,NA
+918,29,Male,United States,NY,No,No,No,,2506,No,Yes,Yes,Yes,Yes,Yes,NA
+919,25,Male,United States,TX,No,No,No,,1015,Yes,Yes,Yes,No,No,No,NA
+920,31,Male,United States,MO,No,Yes,No,Never,2581,No,Yes,Don't know,No,Don't know,Don't know,NA
+921,35,Female,United States,GA,No,Yes,Yes,Sometimes,3293,No,No,Yes,Not sure,Yes,Yes,* Small family business - YMMV.
+922,34,male,United States,TX,No,No,No,Often,1048,No,Yes,Don't know,No,No,Yes,* Small family business - YMMV.
+923,43,Cis Male,United States,WA,No,No,Yes,Sometimes,730,Yes,Yes,Yes,Yes,No,Yes,* Small family business - YMMV.
+924,38,Male,United States,WA,No,Yes,Yes,Sometimes,2321,No,Yes,No,Not sure,No,No,* Small family business - YMMV.
+925,26,Male,United States,WA,No,Yes,Yes,Sometimes,1413,No,Yes,Don't know,Not sure,No,Yes,* Small family business - YMMV.
+926,38,Male,United Kingdom,,Yes,Yes,Yes,Rarely,2634,Yes,No,No,No,No,No,NA
+927,42,Male,United States,TX,No,No,Yes,Often,2458,No,Yes,Don't know,No,No,Don't know,NA
+928,33,Male,Netherlands,,No,Yes,Yes,,4488,No,Yes,Don't know,No,No,Don't know,NA
+929,32,Male,United States,WA,No,No,Yes,Rarely,2256,No,Yes,Yes,Yes,Yes,Yes,NA
+930,44,male,United States,WA,No,Yes,Yes,Sometimes,603,Yes,Yes,Yes,Yes,Yes,Yes,NA
+931,28,Male,United States,WA,No,Yes,Yes,Rarely,3828,No,Yes,Yes,Yes,Don't know,Don't know,NA
+932,40,Male,United States,WA,No,Yes,Yes,Sometimes,1116,Yes,Yes,Yes,Yes,Yes,Yes,NA
+933,31,F,United States,AZ,No,Yes,Yes,Sometimes,4733,No,Yes,Yes,Yes,No,Don't know,NA
+934,32,male,United States,WA,No,Yes,No,Sometimes,771,No,Yes,Yes,Yes,Yes,Yes,NA
+935,28,Male,United States,WA,No,Yes,Yes,Sometimes,4148,No,Yes,Don't know,No,Don't know,Don't know,NA
+936,39,Male,United States,AZ,No,Yes,Yes,Often,3234,No,Yes,Yes,Yes,No,No,NA
+937,45,Male,United States,NY,No,No,No,,2238,No,No,Yes,Yes,Yes,Yes,NA
+938,43,Male,United States,WA,No,No,Yes,Rarely,3318,No,Yes,Yes,Yes,Yes,Yes,I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky.
+939,35,Male,United States,CA,No,No,Yes,Sometimes,2647,No,Yes,Yes,Yes,Don't know,Yes,NA
+940,40,Male,United States,WA,No,Yes,Yes,Sometimes,4555,No,Yes,Yes,Yes,Don't know,Don't know,NA
+941,34,Male,Netherlands,,No,No,Yes,Rarely,254,No,Yes,No,Yes,No,No,NA
+942,24,Male,United Kingdom,,No,Yes,Yes,Often,4684,No,No,Don't know,Yes,No,No,NA
+943,61,male,South Africa,,Yes,No,Yes,Sometimes,3678,Yes,Yes,No,No,No,No,NA
+944,36,Female ,United States,WA,No,Yes,Yes,Rarely,2752,No,Yes,Don't know,No,No,Don't know,NA
+945,38,Male,United States,TN,No,No,No,,1459,No,Yes,No,No,No,No,Some of these should not be required.
+946,33,male,Germany,,No,Yes,Yes,Often,635,No,Yes,Don't know,Not sure,Yes,No,NA
+947,30,male,United States,WA,No,Yes,No,Never,2324,No,No,Don't know,No,No,Don't know,NA
+948,34,male,Netherlands,,Yes,Yes,Yes,Rarely,3560,Yes,Yes,Yes,Yes,Yes,Yes,Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer.
+949,26,Male,United States,CA,No,No,Yes,Rarely,2916,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+950,33,M,United Kingdom,,No,No,No,,3209,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+951,32,Male,United Kingdom,,No,No,No,,1402,No,Yes,Don't know,No,No,No,NA
+952,25,male,Germany,,Yes,No,No,Sometimes,2017,Yes,Yes,No,Yes,No,No,NA
+953,35,male,Germany,,Yes,No,Yes,Sometimes,1919,Yes,No,Don't know,No,No,No,NA
+954,24,M,United Kingdom,,Yes,Yes,No,Often,4370,Yes,Yes,Don't know,Not sure,No,No,NA
+955,55,male,United Kingdom,,No,No,Yes,Often,537,No,No,Yes,Yes,Yes,Yes,NA
+956,33,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,4092,Yes,Yes,No,Yes,No,No,NA
+957,26,Female,United Kingdom,,Yes,Yes,Yes,Sometimes,3099,Yes,Yes,No,No,No,No,I am a Trans woman and suffer from depression relating to that. I'm a contractor so I've answered the questions as relating to my current contract.
+958,25,Male,United Kingdom,,No,No,No,Never,878,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+959,45,Male,United Kingdom,,No,Yes,No,Rarely,3480,No,No,Don't know,No,No,No,NA
+960,33,female,United Kingdom,,Yes,No,Yes,Sometimes,4717,Yes,Yes,No,Yes,Yes,Yes,NA
+961,43,Male,United States,MI,No,No,No,Sometimes,1485,Yes,Yes,No,Not sure,No,No,NA
+962,30,Male,United Kingdom,,Yes,No,Yes,Sometimes,3584,No,Yes,No,Yes,No,No,NA
+963,40,Male,United States,IN,No,Yes,Yes,Rarely,1209,No,Yes,Don't know,Not sure,No,Don't know,NA
+964,49,Male,United States,GA,No,Yes,No,Never,1928,No,Yes,Yes,Yes,Yes,Yes,Thank you for shining a light on this topic.
+965,29,Male,Germany,,No,No,No,,3097,No,Yes,Don't know,Not sure,No,No,NA
+966,26,male,Germany,,No,No,No,,458,No,Yes,Don't know,No,Don't know,Don't know,NA
+967,38,cis male,United States,WA,No,No,No,Never,988,No,Yes,Yes,Yes,Yes,Yes,NA
+968,27,Male,France,,No,Yes,No,,4570,No,No,Yes,Yes,Don't know,No,NA
+969,26,male,Belgium,,No,No,No,Never,4398,No,Yes,Yes,No,No,No,NA
+970,28,Male,United Kingdom,,No,Yes,Yes,Often,1763,No,Yes,No,No,No,No,NA
+971,40,Male,United States,ME,No,Yes,Yes,Sometimes,2301,Yes,Yes,No,No,No,No,NA
+972,37,Female,Canada,,Yes,Yes,Yes,Rarely,1695,Yes,Yes,No,Yes,No,No,NA
+973,34,female,United Kingdom,,No,Yes,Yes,Often,3791,Yes,No,Yes,Yes,No,Yes,NA
+974,28,male,United States,NY,No,Yes,Yes,Often,2715,No,Yes,Don't know,Not sure,No,Don't know,NA
+975,27,Male,Canada,,No,No,No,Never,4502,No,Yes,Yes,Not sure,Yes,No,NA
+976,29,Male,United Kingdom,,No,No,Yes,Sometimes,1402,Yes,Yes,No,No,No,No,NA
+977,39,Female,United Kingdom,,No,Yes,No,Rarely,1440,Yes,Yes,Don't know,Not sure,No,No,NA
+978,28,male,United Kingdom,,No,No,No,Often,4530,No,Yes,No,No,No,No,NA
+979,23,Male,United States,PA,No,Yes,No,Sometimes,3521,No,Yes,Yes,Not sure,Yes,Yes,NA
+980,8,A little about you,"Bahamas, The",IL,Yes,Yes,Yes,Often,4978,Yes,Yes,Yes,Yes,Yes,Yes, 
+981,38,Male,United Kingdom,,No,No,No,,2117,Yes,Yes,No,No,No,No,NA
+982,19,Male,United Kingdom,,No,No,No,,2946,No,Yes,Yes,No,No,Yes,NA
+983,30,Female,United States,IL,No,Yes,Yes,Sometimes,3735,No,Yes,Yes,Yes,Yes,Don't know,NA
+984,28,male,United Kingdom,,Yes,No,No,,4405,Yes,Yes,No,Yes,No,No,NA
+985,20,Male,India,,No,No,Yes,Sometimes,628,No,Yes,Don't know,No,No,No,NA
+986,35,Male,United Kingdom,,Yes,No,No,Sometimes,1059,No,Yes,Don't know,Not sure,No,Don't know,NA
+987,39,male,United States,MN,No,No,Yes,Rarely,4389,Yes,Yes,Yes,Yes,No,No,NA
+988,31,Female,United States,TX,No,Yes,No,Never,2994,No,No,Yes,Not sure,No,Don't know,NA
+989,32,Male,United Kingdom,,No,No,No,Rarely,821,No,Yes,No,No,No,No,NA
+990,27,Male,Sweden,,No,No,No,,3769,No,Yes,No,No,No,No,NA
+991,25,Male,United States,PA,No,Yes,Yes,Often,4149,Yes,Yes,Yes,Yes,No,Don't know,NA
+992,31,male,United States,IN,No,Yes,Yes,Sometimes,3127,Yes,Yes,Don't know,No,No,Don't know,NA
+993,34,male,United States,PA,No,Yes,Yes,Often,1468,No,Yes,Yes,Yes,No,No,NA
+994,26,female,United States,OH,No,No,Yes,Sometimes,281,Yes,Yes,Don't know,No,No,Don't know,NA
+995,35,Male,United Kingdom,,No,Yes,Yes,Sometimes,2789,No,Yes,No,Yes,No,No,NA
+996,34,Male,United Kingdom,,No,No,No,Never,3258,No,Yes,Don't know,No,No,Don't know,NA
+997,38,m,United States,PA,No,Yes,Yes,Sometimes,2527,Yes,No,Yes,Yes,No,Yes,While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges.
+998,34,M,United States,SD,No,No,No,Sometimes,3293,No,Yes,Don't know,No,No,No,NA
+999,39,M,United States,IN,No,Yes,Yes,Sometimes,2161,Yes,Yes,No,Yes,No,No,NA
+1000,44,F,United States,CA,No,No,No,,4978,No,Yes,Don't know,Not sure,No,No,NA
+1001,40,male,United States,TN,No,No,No,,3635,No,No,Yes,Yes,Yes,Yes,NA
+1002,33,female,United States,TX,Yes,No,No,Never,796,Yes,Yes,No,Yes,Don't know,Don't know,NA
+1003,24,Female,United States,TN,No,Yes,No,Sometimes,3815,No,No,Yes,Yes,No,Don't know,NA
+1004,38,Female,United States,OR,No,Yes,No,Sometimes,2566,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1005,31,male,United States,SD,No,No,No,Sometimes,3837,No,Yes,Yes,Not sure,Yes,Yes,NA
+1006,23,Male,Israel,,No,No,No,,1121,No,Yes,Don't know,Not sure,No,No,NA
+1007,26,F,United States,NY,No,No,No,,4965,No,Yes,Don't know,Not sure,No,No,NA
+1008,46,Female (trans),United States,CT,No,No,Yes,Often,1736,No,No,Yes,Yes,Yes,Yes,NA
+1009,30,Male,United States,CA,No,Yes,Yes,Sometimes,3412,Yes,Yes,Yes,No,No,No,NA
+1010,19,M,Canada,,No,No,No,Never,2388,Yes,Yes,Don't know,No,No,No,NA
+1011,30,Female,United States,GA,No,Yes,Yes,Sometimes,4134,No,No,Yes,Yes,Yes,Yes,NA
+1012,32,m,United States,TN,No,No,No,Never,4875,No,Yes,Yes,Yes,Yes,Yes,NA
+1013,32,Male,United Kingdom,,No,No,No,,4309,No,Yes,No,No,No,No,NA
+1014,42,Male,United States,IN,No,Yes,No,Sometimes,2151,Yes,Yes,Don't know,No,No,No,My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area.
+1015,42,M,United States,CA,No,Yes,Yes,Sometimes,4035,Yes,Yes,Don't know,No,No,Don't know,NA
+1016,25,female,United States,OR,No,No,No,Never,3165,No,Yes,Yes,Yes,Yes,Yes,NA
+1017,19,Male,United States,IN,No,No,No,Sometimes,4088,No,Yes,Don't know,Not sure,No,No,NA
+1018,40,female,United States,GA,No,Yes,No,Never,2788,Yes,Yes,Yes,Yes,Yes,No,NA
+1019,34,Male,United States,IN,No,No,No,,2102,No,No,Yes,Not sure,Yes,Don't know,NA
+1020,26,Male,United States,MN,No,Yes,No,,1167,No,Yes,Don't know,Not sure,No,No,NA
+1021,31,Male,United States,MN,No,Yes,Yes,Rarely,2846,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1022,40,Male,United States,NC,No,Yes,No,Sometimes,2768,Yes,No,Yes,Not sure,Yes,Don't know,NA
+1023,31,Female,United States,FL,No,Yes,Yes,Often,3687,No,Yes,No,No,No,No,NA
+1024,36,M,United States,MN,No,No,No,Never,4958,No,No,Don't know,No,No,Don't know,NA
+1025,35,Male,Canada,,No,Yes,No,Sometimes,2984,Yes,Yes,No,Yes,No,No,NA
+1026,26,male,Australia,,No,Yes,Yes,Sometimes,1844,Yes,Yes,No,No,No,No,The questions related to employer-provided health benefits are largely irrelevant to where I live Australia so I'd discount them.
+1027,44,m,United States,MO,No,No,No,,3062,Yes,No,Don't know,No,Don't know,Don't know,NA
+1028,34,Female,United States,CA,No,No,No,Sometimes,3160,No,Yes,No,Not sure,No,No,NA
+1029,35,Male,United States,OR,No,No,No,,3893,Yes,Yes,No,No,No,No,NA
+1030,28,female,United States,OH,No,Yes,Yes,Sometimes,167,Yes,Yes,Don't know,No,No,No,NA
+1031,33,Male,United States,NY,No,No,No,,2511,Yes,Yes,Yes,No,Don't know,Yes,NA
+1032,40,M,United States,WI,No,Yes,Yes,Sometimes,4867,Yes,Yes,Yes,Yes,No,Yes,NA
+1033,26,Male,United States,WA,No,No,Yes,Sometimes,448,No,Yes,Yes,Yes,No,No,NA
+1034,29,f,United Kingdom,,No,No,Yes,Often,2096,No,No,Yes,Yes,No,No,NA
+1035,26,Female,Canada,,No,Yes,Yes,Sometimes,350,No,Yes,Yes,Not sure,No,No,NA
+1036,33,Malr,Italy,,No,Yes,Yes,Sometimes,886,No,Yes,No,Not sure,No,No,I suffered of panic attacks and agoraphobia for about 10 years.
+1037,28,Male,Brazil,,No,Yes,No,Sometimes,3050,No,Yes,No,No,No,No,NA
+1038,41,Male,United States,IL,Yes,No,Yes,Often,3215,Yes,No,No,Yes,Yes,Yes,NA
+1039,39,Male,United Kingdom,,Yes,Yes,Yes,Sometimes,1339,Yes,Yes,No,Yes,Yes,Yes,These result may be a tad confusing so a summary follows.* Currently self-employed so employer is me :)* Last place of employment was amazing when I first discovered I was bi-polar and helped me as long as I was there up to and including a mental health course for the whole team (although no mention why to others which was great).* I've never had a negative reaction yet but I know others who have.* I've been very lucky with company I keep which is why my experience is largely good.
+1040,26,female,United States,WA,No,Yes,Yes,Sometimes,2410,No,Yes,Yes,Yes,No,No,I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs.
+1041,23,Female,United States,IL,No,Yes,No,Sometimes,3637,No,No,No,No,No,No,NA
+1042,35,Male,Switzerland,,No,Yes,Yes,Often,467,No,Yes,Don't know,Not sure,No,No,NA
+1043,36,Male,United States,FL,No,No,No,Never,3765,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1044,42,M,United States,TN,No,No,No,Rarely,3075,No,No,Don't know,No,No,Don't know,NA
+1045,39,Male,United States,WA,No,Yes,Yes,Sometimes,2360,No,Yes,Yes,Yes,No,Don't know,NA
+1046,27,Male,United States,CA,No,No,No,Never,1986,No,Yes,Don't know,No,No,Don't know,NA
+1047,33,male,United States,FL,Yes,No,No,Never,165,Yes,Yes,Don't know,No,No,No,NA
+1048,31,Male ,Canada,,No,Yes,Yes,Often,4936,No,Yes,Yes,Not sure,Don't know,Don't know,NA
+1049,28,Female,United States,OR,No,No,Yes,Rarely,1336,No,Yes,Yes,Yes,Don't know,Yes,NA
+1050,29,Female,United States,NJ,No,No,Yes,Often,2089,Yes,No,Yes,No,No,No,NA
+1051,27,Male,United States,CA,No,No,Yes,Sometimes,1878,No,Yes,Don't know,Not sure,No,No,NA
+1052,44,M,United States,FL,Yes,No,No,Never,1350,Yes,Yes,Don't know,No,No,No,NA
+1053,25,Male,United States,UT,No,No,Yes,Often,4702,Yes,Yes,Don't know,No,No,No,NA
+1054,24,male,Germany,,No,Yes,Yes,Sometimes,3217,No,Yes,No,No,No,No,Thank you this is very important.
+1055,25,Male,South Africa,,No,Yes,Yes,Often,2312,No,No,Don't know,No,No,No,NA
+1056,34,M,United States,NJ,No,No,No,Never,2460,Yes,Yes,Yes,Not sure,Don't know,Don't know,NA
+1057,30,Male,United States,PA,No,No,No,Never,4574,No,No,Yes,Yes,No,Don't know,NA
+1058,48,Male,United States,IN,No,No,No,Never,3548,No,No,Yes,Yes,Yes,Yes,NA
+1059,34,Male,Greece,,No,No,No,,1372,Yes,Yes,No,No,No,No,NA
+1060,39,Female,United States,OH,No,No,Yes,Sometimes,4970,Yes,Yes,No,No,No,No,I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!
+1061,43,Male,United States,OH,No,No,No,Sometimes,2654,Yes,Yes,Yes,Not sure,No,Yes,NA
+1062,41,M,United States,IL,No,No,No,Rarely,563,No,Yes,Yes,Yes,Yes,Yes,NA
+1063,25,Male,United States,IN,No,No,No,Never,3420,No,No,Don't know,No,No,No,NA
+1064,31,m,United States,CA,No,No,Yes,Sometimes,643,No,Yes,Yes,Yes,No,No,NA
+1065,40,Male,United States,WA,No,Yes,Yes,Sometimes,4434,No,Yes,Yes,Yes,Yes,Yes,NA
+1066,43,Male,United States,VA,Yes,Yes,Yes,Sometimes,2685,Yes,Yes,Yes,Not sure,No,Don't know,This survey was tough as a self-employed individual. You may wish to discard responses from self employed people for much of your analysis.
+1067,27,Female,United States,WA,No,Yes,Yes,Often,2835,No,Yes,Yes,Yes,Yes,Yes,I answered based on previous job at large technical company where I was pushed out of my role within 3 months of disclosing diagnosis.I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) deserved stress was anxiety caused by my core diagnosis.) When disclosing I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing) I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.Two huge issues stick out to me from that experience:1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day four years later despite being stable I'm in counseling every other week in addition to being on meds. Rather than supporting that it would be seen as oh I'm sorry. I was a problem to my manager because he didn't see improvements each week.2) Accomodations.- There was no option for me to reduce work temporarily to part-time (too complicated). Instead they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily as psychologist said I didn't qualify for leave. (Expensive unnecessary appointment).- The assistance I needed the most at work was understanding: I was open but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up but was barred from asking and I was implied it was better to keep my mouth shut.- Accommodations weren't understood by even Benefits as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and putting on my dick hat to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling and turned to finish yelling at this person): FUCKING UNACCEPTABLE.While I will never return to that company and as such took the severance package I will NEVER agree with their legal reason for being unable to do the job: me being medically disqualified from this role. I was too expensive in the short term for them; I'm not worth the cost.
+1068,37,female,United States,NJ,No,Yes,Yes,Sometimes,2171,Yes,Yes,Yes,Yes,No,Don't know,If a man in tech is afraid of speaking up about these things it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  On the other hand if a female in tech does not commiserate with her male coworkers on mental health problems she will no longer be seen as a team player. It is really a catch-22 for women in STEM.
+1069,32,male,Netherlands,,Yes,No,Yes,Sometimes,1273,No,Yes,No,No,No,No,NA
+1070,25,Male,United States,UT,No,Yes,Yes,Often,1871,No,Yes,No,Yes,No,No,NA
+1071,29,Male,Netherlands,,No,Yes,Yes,Often,1833,No,Yes,Don't know,Not sure,Don't know,Yes,Autism is a bitch for those living with it and living it. For the past years I've really been working hard to get myself (known) in the community. The people in the community that know can be counted on one hand. In general I'm not telling anyway unless it really matters and it would be a gain in some way or the other. Not because I don't trust the community members close to me but because I don't want to be that guy. And IMHO it doesn't and shouldn't matter but sadly some people are funky about that. Yet sometimes I wan't to tell everyone what I've been through and share my lessons learned.
+1072,30,Female,United States,TN,No,Yes,Yes,Often,2458,No,No,Yes,No,No,No,This issue for me is very real at the moment. I have missed several days of work recently because of a bad reaction to a depression/anxiety drug and I hate not being able to discuss it with my boss without worrying that I will be labeled a liability. 
+1073,34,female,Canada,,No,Yes,Yes,Often,1057,No,No,Don't know,No,Yes,Don't know,NA
+1074,32,male,United Kingdom,,No,Yes,Yes,Sometimes,3794,No,No,Yes,Yes,Yes,Yes,NA
+1075,37,male,Germany,,No,No,No,,2316,No,Yes,Don't know,No,No,No,NA
+1076,41,male,Germany,,No,No,Yes,Sometimes,1769,No,Yes,Don't know,No,No,No,NA
+1077,38,male,United States,IN,No,Yes,No,Never,1669,No,No,Yes,Not sure,Yes,Yes,NA
+1078,32,Male,United States,IN,No,No,Yes,Sometimes,4862,No,Yes,Yes,Yes,Yes,Don't know,NA
+1079,28,Female,United States,CA,No,Yes,Yes,Sometimes,4414,No,Yes,Yes,Yes,Don't know,Don't know,NA
+1080,11,male,United States,OH,Yes,No,No,Never,3157,Yes,Yes,No,Yes,No,No,NA
+1081,43,male,United States,TX,No,Yes,No,Never,4387,No,No,Yes,Yes,No,Don't know,NA
+1082,32,Male,United States,TN,No,Yes,Yes,Often,3548,No,Yes,No,Yes,No,No,NA
+1083,25,M,United States,WA,No,No,Yes,Sometimes,4872,No,Yes,Yes,Yes,Yes,Don't know,NA
+1084,37,Male,United States,UT,No,No,Yes,Sometimes,4016,No,Yes,Yes,No,No,Yes,NA
+1085,36,male,United States,AL,Yes,No,Yes,Sometimes,2738,No,No,No,Yes,No,No,NA
+1086,24,Male,United States,WI,No,Yes,Yes,Rarely,3324,Yes,Yes,Don't know,No,No,No,NA
+1087,40,male,United States,WA,No,Yes,Yes,Sometimes,2785,No,Yes,Yes,Not sure,Yes,Don't know,Really manager dependent. I have had managers who work with my strengths and others who want my to work on my weaknesses which are directly tied to my mental issues. 
+1088,29,Male,United States,WI,No,No,No,,1704,No,No,Don't know,Not sure,Yes,Don't know,Though it doesn't affect me (male) good job for making the Gender field a text input instead of a drop down of only two options.
+1089,43,Male,United States,NY,No,No,No,Never,3835,No,Yes,Don't know,No,No,Don't know,NA
+1090,29,Male,United States,NY,No,No,No,,1726,Yes,Yes,Yes,Not sure,No,Yes,NA
+1091,26,Male,United States,OH,No,Yes,No,Sometimes,3138,No,Yes,Don't know,Not sure,No,No,NA
+1092,33,Female,Canada,,Yes,Yes,Yes,Often,3884,Yes,Yes,No,Yes,No,No,NA
+1093,35,Female,United States,WA,No,Yes,No,Sometimes,3191,Yes,Yes,Don't know,No,No,No,NA
+1094,45,M,United States,CA,No,No,No,Never,2748,Yes,Yes,Yes,No,No,No,NA
+1095,25,Male,United States,SC,No,No,Yes,Rarely,3959,Yes,Yes,No,Yes,No,Don't know,NA
+1096,50,male,France,,Yes,No,Yes,Sometimes,184,Yes,Yes,No,No,No,No,NA
+1097,26,male,Australia,,No,Yes,Yes,Rarely,4858,No,Yes,No,No,Don't know,Don't know,NA
+1098,33,female,United States,CA,No,No,Yes,Often,3614,No,Yes,Yes,Yes,Don't know,Don't know,NA
+1099,30,Male,India,,No,No,No,Often,2590,No,Yes,No,No,No,No,NA
+1100,33,male,Croatia,,No,Yes,Yes,Sometimes,605,Yes,Yes,Yes,Yes,No,Don't know,NA
+1101,29,M,France,,No,No,Yes,Often,3654,No,Yes,Yes,No,No,No,NA
+1102,37,male,Germany,,No,No,No,,582,Yes,Yes,No,Not sure,No,No,NA
+1103,27,Male,United States,MN,No,Yes,Yes,Sometimes,355,Yes,Yes,Don't know,No,Don't know,Don't know,I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job.
+1104,40,m,United States,WA,No,No,No,,1362,No,No,Yes,Not sure,Don't know,Don't know,NA
+1105,24,Male,Canada,,No,No,No,Sometimes,898,No,Yes,Yes,Yes,No,No,NA
+1106,40,Male,United Kingdom,,No,No,Yes,Never,973,No,Yes,Don't know,Not sure,No,Don't know,NA
+1107,46,Male,United States,PA,No,Yes,Yes,Sometimes,4878,No,Yes,Don't know,Yes,No,Don't know,NA
+1108,38,Male,United States,NY,No,Yes,Yes,Rarely,3441,No,No,Yes,Yes,Yes,Yes,NA
+1109,34,Male,United States,VT,No,No,No,Never,4260,Yes,Yes,No,Yes,No,No,My employer currently does not offer any health insurance I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers bosses etc for fear of negative reception.
+1110,32,Male,United Kingdom,,Yes,No,Yes,Rarely,3069,No,Yes,No,Yes,Yes,Yes,NA
+1111,44,Male,United Kingdom,,No,No,Yes,Sometimes,2189,No,No,No,No,No,Yes,NA
+1112,33,Female,United Kingdom,,No,No,Yes,Never,1756,No,Yes,Don't know,Not sure,No,Don't know,NA
+1113,45,female,United States,MI,No,No,Yes,Rarely,928,No,No,Don't know,No,Don't know,Don't know,NA
+1114,35,Male,United States,NY,No,No,No,,2811,No,Yes,Don't know,Not sure,Don't know,Don't know,Mental health at work is not an issue if you leave work problems at work that may be easier for those of us not in a support role.
+1115,26,Male,Germany,,Yes,Yes,Yes,Often,3379,No,Yes,No,No,No,No,NA
+1116,20,female,United States,NY,No,No,Yes,Sometimes,2826,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1117,-1,p,United States,AL,Yes,Yes,Yes,Often,3474,Yes,Yes,Yes,Yes,Yes,Yes,password: testered
+1118,37,Male,Netherlands,,No,Yes,No,Sometimes,3965,No,Yes,No,No,No,No,NA
+1119,28,male,United States,MI,No,No,No,,158,No,No,Yes,No,No,No,NA
+1120,42,F,United States,WA,No,Yes,Yes,Sometimes,1207,No,No,Yes,Yes,No,No,NA
+1121,32,male,United Kingdom,,No,No,No,,2206,No,Yes,No,No,No,No,NA
+1122,36,F,United States,TN,No,Yes,Yes,Rarely,3265,Yes,Yes,Yes,Yes,No,No,NA
+1123,27,M,New Zealand,,No,No,No,Rarely,1006,No,Yes,No,Yes,No,Yes,NA
+1124,27,M,New Zealand,,No,No,No,Rarely,3221,No,Yes,No,Yes,No,Yes,NA
+1125,27,Male,United Kingdom,,No,No,Yes,Sometimes,711,No,No,No,No,No,No,suffer from CR-PTSD so all answered based on that
+1126,25,Male,United Kingdom,,No,Yes,Yes,Sometimes,101,Yes,Yes,No,No,No,No,Since being advised by Occupational Health that the tempo and spontenaity of the office environment was likely to have a negative effect on my mental health (I'm schizoaffective) I've been moved to 100% remote (home) working. The company have furnished a home office for me and I am only required to attend the office once a month to keep in touch
+1127,41,M,United Kingdom,,No,Yes,No,,2244,No,Yes,No,No,No,No,NA
+1128,23,Male,Germany,,No,Yes,Yes,Sometimes,2112,No,Yes,Don't know,Not sure,No,No,NA
+1129,21,Male,United Kingdom,,No,No,Yes,Sometimes,2731,No,No,Don't know,No,No,Don't know,NA
+1130,26,Male,Moldova,,No,No,Yes,Often,3659,No,Yes,No,Yes,No,No,NA
+1131,29,Male,Sweden,,No,No,No,Rarely,3309,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1132,28,male,Belgium,,No,No,No,Sometimes,2253,No,No,No,No,No,No,NA
+1133,27,female,United Kingdom,,No,Yes,No,,4868,No,No,No,Yes,No,No,NA
+1134,23,Male,Israel,,No,No,No,Never,3556,No,No,No,Yes,Yes,Yes,NA
+1135,26,F,United States,NY,No,Yes,No,Sometimes,1646,Yes,Yes,Don't know,No,No,No,NA
+1136,38,Male,United Kingdom,,No,Yes,Yes,Sometimes,1172,No,Yes,No,Not sure,Don't know,Don't know,NA
+1137,39,M,United Kingdom,,No,Yes,Yes,Sometimes,1940,No,No,No,No,No,No,Despite the impression that several 'no' responses might give my employer has been very supportive. But then I work in health care.
+1138,35,M,United States,IN,No,Yes,Yes,Often,2311,No,No,Yes,Yes,No,Yes,NA
+1139,32,male,United States,NC,No,No,No,Rarely,3094,No,Yes,Yes,Not sure,No,Don't know,NA
+1140,32,Male,United States,CA,No,No,Yes,Sometimes,1563,No,Yes,Yes,Yes,Yes,Yes,NA
+1141,26,Male,United Kingdom,,No,No,No,Never,4951,No,Yes,No,No,No,No,NA
+1142,38,Male,Canada,,No,Yes,Yes,Rarely,2259,No,Yes,Don't know,Not sure,No,Don't know,NA
+1143,34,Female,United Kingdom,,No,Yes,No,Rarely,1020,No,No,Yes,Yes,Yes,Yes,NA
+1144,39,Male,United States,TN,No,Yes,Yes,Often,3350,No,No,Don't know,Not sure,No,No,NA
+1145,32,male,Canada,,Yes,No,No,Never,2631,Yes,Yes,Don't know,Not sure,No,No,NA
+1146,37,Male,Netherlands,,Yes,No,No,Never,1663,Yes,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1147,31,male,United Kingdom,,No,Yes,Yes,Never,113,No,Yes,Don't know,Not sure,No,Don't know,When I've had a depression I was lucky to have an awesome manager who was very understanding and found a budget to pay for my therapy sessions.
+1148,30,m,United States,MN,No,Yes,Yes,Rarely,1848,No,Yes,No,Yes,No,No,People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects.
+1149,51,M,Singapore,,No,No,No,Never,3789,Yes,Yes,Don't know,No,No,Don't know,NA
+1150,29,M,United States,NC,No,No,Yes,Sometimes,1738,No,Yes,Yes,Yes,No,No,NA
+1151,,Male,United Kingdom,,No,No,No,Never,2978,No,Yes,Yes,No,No,Yes,NA
+1152,31,Male,India,,No,No,No,,1405,No,Yes,Don't know,Not sure,No,No,NA
+1153,26,Male,United States,TX,No,Yes,Yes,Sometimes,1784,Yes,Yes,Don't know,No,No,Don't know,NA
+1154,46,Female,United States,CA,No,No,Yes,Often,1239,Yes,No,Yes,Yes,No,No,NA
+1155,32,Male,United States,CA,No,Yes,No,Sometimes,3860,No,Yes,Yes,No,Yes,Don't know,NA
+1156,29,Male,United States,IL,No,Yes,Yes,Sometimes,1713,No,No,Yes,Yes,Yes,Yes,NA
+1157,34,male,Poland,,No,No,No,Never,2230,Yes,Yes,Don't know,Not sure,No,No,NA
+1158,26,Male,Colombia,,No,No,No,Often,4845,No,Yes,No,No,No,No,NA
+1159,32,Female,United States,PA,No,No,Yes,Sometimes,285,No,Yes,Yes,Yes,No,Don't know,NA
+1160,29,Male,United States,IL,No,No,No,,4613,No,Yes,Don't know,Not sure,No,No,NA
+1161,30,Male,United States,IL,No,No,No,,3854,No,No,Yes,No,Yes,Yes,NA
+1162,40,F,United States,MN,No,Yes,Yes,Sometimes,995,No,Yes,Yes,Yes,No,Yes,NA
+1163,23,Male,United Kingdom,,No,No,Yes,Sometimes,2667,No,Yes,No,No,No,No,I burnt out this year. I worked too much had too much pressure on myself from being the sole developer on a delayed project that seemed to grow in size with each week it was delayed by and worried about money a lot.I became depressed and anxious and had trouble eating sleeping and generally being myself. As my depression worsened I was regularly late for work couldn't perform as well as I should and became irritable with my colleagues.My employers response after a while was to send me private messages complaining about my lateness which only worsened the situation. I was prescribed 3 weeks off work by my doctor which my employer agreed to only to come back after to find I had been on 'statutory pay' which was roughly half of what I was expecting and was not enough to cover my rent bills AND food. This made me worse and sent me into another depression until I eventually admitted defeat gave up working and left the company. It took me months to recover and I'm now left (over 6 months after this all started) recovering from the fallout I created leaving employment with hardly any money to my name.I had previously been told by my employer that I was too young to burn out and (stupidly) trusted them. I did not feel comfortable discussing my problems with my employer because each time I was met with an attitude that I had to get myself together and ultimately given the amount of employees before me who had left the company by being fired after an altercation with the employer left me with no option but to hide it from them so I too wouldn't be fired.
+1164,20,Male,Georgia,,No,No,No,Rarely,958,No,No,No,No,No,No,NA
+1165,38,male,United States,NY,No,Yes,No,,3260,No,Yes,Don't know,No,No,No,NA
+1166,26,Female,United States,MI,No,Yes,Yes,Rarely,4632,No,Yes,Yes,No,No,No,NA
+1167,29,Male,United States,OH,No,No,No,Never,3385,No,Yes,No,No,No,Don't know,NA
+1168,40,m,China,,Yes,No,No,Sometimes,2961,Yes,Yes,No,Yes,No,No,NA
+1169,25,female,Bulgaria,UT,No,No,Yes,Sometimes,677,Yes,Yes,No,No,No,No,NA
+1170,32,Woman,United States,NY,No,No,Yes,Sometimes,521,No,Yes,Yes,Yes,No,No,NA
+1171,38,male,United States,CA,No,Yes,Yes,Sometimes,2218,No,No,Yes,Yes,Yes,Yes,NA
+1172,72,Female,United States,IN,No,Yes,Yes,Never,388,Yes,No,Yes,Not sure,Don't know,Yes,NA
+1173,35,female,United States,IN,No,Yes,Yes,Sometimes,2204,Yes,Yes,No,No,No,No,NA
+1174,28,F,United States,VA,No,No,Yes,Often,1646,No,Yes,No,Yes,No,No,NA
+1175,27,femail,United States,OK,No,No,No,Never,3266,No,No,Don't know,Not sure,Don't know,Don't know,NA
+1176,56,female,United States,OR,Yes,No,No,Rarely,2042,Yes,Yes,Don't know,Not sure,Don't know,Don't know,I'm self-employed on contract with small start-up. Covered through spouse's insurance.
+1177,38,Male,United States,AL,No,Yes,Yes,Sometimes,1337,Yes,Yes,Yes,No,No,No,NA
+1178,31,Female,Belgium,,No,No,No,,240,No,Yes,Don't know,Not sure,No,No,NA
+1179,40,Male,United States,AL,No,Yes,Yes,Sometimes,4115,No,Yes,Yes,Yes,No,No,NA
+1180,44,M,United States,OH,No,Yes,Yes,Sometimes,2278,No,Yes,Yes,Yes,No,Yes,My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating.
+1181,34,Male,Canada,,No,Yes,No,Sometimes,3508,No,Yes,Yes,Not sure,Yes,Yes,NA
+1182,37,Male,United Kingdom,,No,No,No,Never,4596,Yes,Yes,Don't know,No,No,No,NA
+1183,38,male,Italy,,No,No,No,Never,3039,No,Yes,Don't know,Not sure,Don't know,Don't know,NA
+1184,27,male,Germany,,No,No,No,,2581,No,Yes,Don't know,Not sure,No,No,NA
+1185,34,female,Ireland,,No,No,Yes,Sometimes,289,No,No,Yes,Yes,Yes,No,NA
+1186,35,Female,Ireland,,No,No,No,Rarely,4062,No,Yes,Don't know,No,No,No,NA
+1187,34,male,Ireland,,No,No,Yes,Often,3892,No,Yes,No,No,No,No,NA
+1188,32,Male,United States,TX,No,No,Yes,Often,1503,Yes,Yes,Yes,Not sure,No,Don't know,NA
+1189,25,male,Ireland,,No,No,No,,3077,No,Yes,Don't know,Not sure,No,Don't know,NA
+1190,28,Male,Australia,,No,No,Yes,Often,757,Yes,Yes,No,Yes,No,No,NA
+1191,28,Female,United States,TX,No,No,Yes,Rarely,4491,No,Yes,Yes,No,No,No,NA
+1192,31,Male,Brazil,,Yes,No,Yes,,1486,No,Yes,No,Yes,No,No,NA
+1193,24,Male,United Kingdom,,No,No,No,,3035,No,Yes,Don't know,Not sure,No,No,NA
+1194,34,Male,Ireland,,No,Yes,Yes,Never,3028,Yes,Yes,No,No,No,No,NA
+1195,32,male,Ireland,,No,No,Yes,Sometimes,770,No,Yes,No,No,No,No,NA
+1196,34,Male,United Kingdom,,No,Yes,No,Often,590,Yes,No,Don't know,Not sure,No,No,NA
+1197,23,Male,United States,TX,No,No,Yes,Sometimes,2659,No,Yes,No,Yes,No,No,NA
+1198,33,Male,Czech Republic,,No,Yes,No,Often,197,No,Yes,No,Yes,No,No,NA
+1199,29,male,Singapore,,No,Yes,Yes,Sometimes,185,No,Yes,Don't know,Not sure,No,No,it is my opinion that bad mental health is a red flag for employers and i would never bring it up.
+1200,24,male,Ireland,,No,Yes,No,,4030,No,Yes,No,No,No,No,NA
+1201,45,male,Ireland,,No,No,No,Never,3118,Yes,Yes,Don't know,Not sure,No,No,NA
+1202,34,Female,United Kingdom,,No,No,Yes,Sometimes,4137,No,No,No,Yes,No,Yes,NA
+1203,31,Male,Philippines,,No,No,No,Sometimes,2787,No,Yes,Don't know,No,No,No,NA
+1204,33,Male,United States,FL,No,No,Yes,Often,1980,Yes,Yes,Yes,Yes,No,No,NA
+1205,28,male,Netherlands,,No,No,No,,3016,No,Yes,No,Not sure,No,No,NA
+1206,27,Male,United Kingdom,,No,No,No,Rarely,1938,Yes,No,Don't know,Not sure,No,Yes,NA
+1207,42,male,Ireland,,No,No,No,Never,2205,No,Yes,No,Yes,No,No,NA
+1208,28,male,Netherlands,,No,No,No,,4564,No,Yes,No,Not sure,No,No,NA
+1209,38,Male,United States,TX,No,No,Yes,Sometimes,447,Yes,Yes,Yes,No,Yes,Yes,I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well.
+1210,46,Male,United States,CA,No,Yes,Yes,Often,3026,No,Yes,Don't know,No,No,No,NA
+1211,46,male,United States,MD,No,Yes,Yes,Sometimes,4021,Yes,Yes,Don't know,Not sure,Don't know,Don't know,Just starting a new job hence the numerous I don't know selections.
+1212,41,female,Netherlands,,Yes,No,Yes,Rarely,2868,Yes,Yes,Don't know,Yes,Don't know,Yes,The data will be skewed for self-employed people as the questions contain some bias.Having said that: being self-employed I *choose* to work for companies which want to employ *me* not just my skills but including my opinions my life-experience etc. If a potential contract/job doesn't *feel* right I prefer to not take it (and be poor) than to compromise myself.
+1213,23,Male ,United Kingdom,,No,No,No,Never,2518,No,Yes,Don't know,No,No,No,Although my employer does everything they can to accommodate employees with mental health problems when those individuals cannot carry out any work assigned to them (even over the course of months) they appear to have no alternative but to terminate their employment. However I believe this would be the same for a physical health problem. 
+1214,24,male,Ireland,,No,Yes,Yes,Sometimes,2186,No,Yes,Yes,Yes,No,Yes,NA
+1215,23,female,Ireland,,No,No,Yes,Rarely,2104,No,Yes,No,Yes,Yes,No,NA
+1216,39,Male,Netherlands,,No,No,No,,4195,No,No,Yes,Not sure,Yes,Don't know,NA
+1217,32,Female,Ireland,,No,Yes,No,Never,1923,No,Yes,Yes,Yes,Don't know,Yes,NA
+1218,25,Male,United States,MN,No,Yes,Yes,Sometimes,1374,No,Yes,Don't know,Yes,No,No,NA
+1219,39,Male,Greece,,No,No,No,,4171,Yes,Yes,No,No,No,No,NA
+1220,23,Female,United Kingdom,,No,Yes,Yes,Sometimes,2252,No,Yes,No,Yes,No,Yes,NA
+1221,24,Cis Man,United Kingdom,,Yes,No,Yes,Sometimes,3750,Yes,Yes,No,No,No,No,NA
+1222,25,Male,United Kingdom,,No,Yes,Yes,Sometimes,2515,No,No,Yes,Yes,Yes,Yes,I work at a large university with a track record of health and wellbeing support
+1223,23,Male,United Kingdom,,No,No,Yes,Rarely,2242,No,Yes,No,Yes,No,No,NA
+1224,24,"ostensibly male, unsure what that really means",United Kingdom,,No,No,Yes,Sometimes,2101,No,No,Don't know,No,No,Don't know,i'm in a country with social health care so my options are not dependant on my employer. this makes a few of the early questions less relevant than they would be for a resident of the US.
+1225,23,Male,Canada,,No,No,Yes,Often,4781,No,Yes,Yes,Yes,Yes,Don't know,NA
+1226,60,Male,United States,CA,No,No,Yes,Often,1019,Yes,Yes,Don't know,No,Yes,Don't know,NA
+1227,28,male,Ireland,,No,No,No,Sometimes,3118,No,Yes,No,Yes,No,No,NA
+1228,28,Male,United States,TN,No,Yes,Yes,Often,2329,No,No,Yes,Yes,Yes,Yes,NA
+1229,30,male,Netherlands,,No,No,No,Sometimes,3506,No,Yes,Don't know,No,No,No,NA
+1230,31,male,Germany,,No,Yes,Yes,Sometimes,1864,No,Yes,Don't know,No,No,No,NA
+1231,31,Male,Poland,,Yes,No,Yes,Often,2970,Yes,Yes,No,No,No,No,NA
+1232,28,Male,Ireland,,No,No,Yes,Rarely,4395,No,Yes,Don't know,No,No,Don't know,NA
+1233,43,f,United States,FL,No,Yes,Yes,Rarely,435,Yes,Yes,Yes,Yes,No,Yes,NA
+1234,32,female,United Kingdom,,No,No,No,,4474,No,No,No,No,No,Don't know,NA
+1235,22,Male,Australia,,No,Yes,Yes,Often,1076,No,No,Yes,Yes,Yes,Yes,In australia all organisations of a certain size have to provide free access to a 'employee assistance program' to discuss work and personal issues.EAPs are an external provider totally confidential and anonymous (ring up andsay the name of who you work for - so they know to bill your work)  and they offer phone and face to face consults.
+1236,32,Male,United States,OR,No,No,No,Never,1204,No,Yes,Yes,Not sure,Don't know,Yes,NA
+1237,36,male,Finland,,No,No,Yes,Often,3793,No,Yes,No,No,No,No,NA
+1238,41,Female,United States,WA,No,Yes,Yes,Sometimes,2433,No,Yes,Yes,No,No,Don't know,NA
+1239,30,M,United States,CA,No,Yes,Yes,Sometimes,1956,No,Yes,Yes,Yes,Don't know,No,Bipolar disorder 
+1240,30,Male,United States,CA,Yes,Yes,Yes,Often,1758,No,Yes,Yes,Not sure,Yes,Yes,NA
+1241,36,Male,South Africa,,No,Yes,Yes,Often,311,No,No,No,Yes,No,No,NA
+1242,29,male,United States,NC,No,Yes,Yes,Sometimes,1111,Yes,Yes,Yes,Yes,Yes,No,NA
+1243,36,Male,United States,UT,No,Yes,No,Rarely,1587,No,No,Don't know,No,Yes,Yes,NA
+1244,,male,United Kingdom,,No,No,Yes,,3265,No,Yes,No,No,No,No,NA
+1245,32,Male,United States,IL,No,Yes,Yes,Often,2749,Yes,Yes,Yes,Yes,No,No,NA
+1246,34,male,United States,CA,No,Yes,Yes,Sometimes,825,No,Yes,Yes,Yes,No,No,NA
+1247,46,f,United States,NC,No,No,No,,4797,Yes,Yes,No,Yes,No,No,NA
+1248,25,Male,United States,IL,No,Yes,Yes,Sometimes,3793,No,No,Yes,Yes,No,No,NA
